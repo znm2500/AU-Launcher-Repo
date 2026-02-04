@@ -1,10 +1,10 @@
 
 [
-{"id":"tearsintherain","en_name":"Tears In The Rain","cn_name":"雨中泪","version":"0.0.1"},
-{"id":"ordinarytale","en_name":"ORDINARYTALE","cn_name":"普通传说","version":"0.0.1"},
-{"id":"swapswap","en_name":"SWAPSWAP","cn_name":"重塑乾坤","version":"0.0.1"},
-{"id":"sirensans","en_name":"Siren Sans Fight","cn_name":"警笛头衫斯","version":"0.0.1"},
-{"id":"exptale","en_name":"EXPTALE","cn_name":"EXPTALE","version":"0.0.1"},
-{"id":"ctt3dlw","en_name":"Chaotic Time Trio Phase 3 by dlw","cn_name":"三重混沌时光3阶段by dlw","version":"0.0.1"},
-{"id":"mirrorreverson3","en_name":"MirrorReverson 3rd","cn_name":"MirrorReverson第三周目","version":"0.0.1"}
+{"id":"tearsintherain","en_name":"Tears In The Rain","zh_name":"雨中泪","version":"0.0.1"},
+{"id":"ordinarytale","en_name":"ORDINARYTALE","zh_name":"普通传说","version":"0.0.1"},
+{"id":"swapswap","en_name":"SWAPSWAP","zh_name":"重塑乾坤","version":"0.0.1"},
+{"id":"sirensans","en_name":"Siren Sans Fight","zh_name":"警笛头衫斯","version":"0.0.1"},
+{"id":"exptale","en_name":"EXPTALE","zh_name":"EXPTALE","version":"0.0.1"},
+{"id":"ctt3dlw","en_name":"Chaotic Time Trio Phase 3 by dlw","zh_name":"三重混沌时光3阶段by dlw","version":"0.0.1"},
+{"id":"mirrorreverson3","en_name":"MirrorReverson 3rd","zh_name":"MirrorReverson第三周目","version":"0.0.1"}
 ]
