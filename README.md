@@ -13,16 +13,16 @@
 本分支资源已接入 jsDelivr 全球加速，调用格式如下：
 
 **图片调用：**
-`https://cdn.jsdelivr.net/gh/znm2500/UNDERTALE-AUs-Repo@当前分支名/covers/example.png`
+`https://cdn.jsdelivr.net/gh/znm2500/AU-Launcher-Repo@当前分支名/example.webp`
 
 **数据调用：**
-`https://cdn.jsdelivr.net/gh/znm2500/UNDERTALE-AUs-Repo@当前分支名/metadata/info.json`
+`https://cdn.jsdelivr.net/gh/znm2500/AU-Launcher-Repo@当前分支名/game_index.json`
 
 ---
 
 ### 🛠️ 维护规范
 1.  **图片优化**：上传前请务必使用工具（如 TinyPNG）压缩图片体积，单张图片建议不超过 500KB。
-2.  **命名规范**：文件名请使用小写字母及下划线（如 `gameid.png`），避免使用中文或空格导致链接失效。
+2.  **命名规范**：文件名请使用小写字母及下划线（如 `gameid.webp`），避免使用中文或空格导致链接失效。
 3.  **引用限制**：本分支资源仅限同人启动器及相关项目调用，严禁将其作为通用图床使用。
 
 ---
