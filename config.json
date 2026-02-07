@@ -1,0 +1,61 @@
+{
+    "games": [
+        {
+            "id": "tearsintherain",
+            "name": {
+                "zh": "雨中泪",
+                "en": "Tears In The Rain"
+            },
+            "version": "0.0.1"
+        },
+        {
+            "id": "ordinarytale",
+            "name": {
+                "zh": "普通传说",
+                "en": "ORDINARYTALE"
+            },
+            "version": "0.0.1"
+        },
+        {
+            "id": "swapswap",
+            "name": {
+                "zh": "重塑乾坤",
+                "en": "SWAPSWAP"
+            },
+            "version": "0.0.1"
+        },
+        {
+            "id": "sirensans",
+            "name": {
+                "zh": "警笛头衫斯",
+                "en": "Siren Sans Fight"
+            },
+            "version": "0.0.1"
+        },
+        {
+            "id": "exptale",
+            "name": {
+                "zh": "EXPTALE",
+                "en": "EXPTALE"
+            },
+            "version": "0.0.1"
+        },
+        {
+            "id": "ctt3dlw",
+            "name": {
+                "zh": "三重混沌时光3阶段by dlw",
+                "en": "Chaotic Time Trio Phase 3 by dlw"
+            },
+            "version": "0.0.1"
+        },
+        {
+            "id": "mirrorreverson3",
+            "name": {
+                "zh": "MirrorReverson第三周目",
+                "en": "MirrorReverson 3rd"
+            },
+            "version": "0.0.1"
+        }
+    ],
+    "newest_version": "1.0.0"
+}
