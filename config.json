@@ -97,5 +97,9 @@
             "version": "0.0.1"
         }
     ],
-    "newest_version": "1.0.0"
+    "newest_version": "1.0.0",
+    "update_log":{
+        "zh":"",
+        "en":""
+    }
 }
