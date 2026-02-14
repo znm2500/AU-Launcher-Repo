@@ -73,6 +73,14 @@
             "version": "0.0.1"
         },
         {
+            "id": "spdusttalekokakola",
+            "name": {
+                "zh": "SP!Dusttale冥亡症by kokakola",
+                "en": "SP!Dusttale Necroptosis"
+            },
+            "version": "0.0.1"
+        },
+        {
             "id": "swapswap",
             "name": {
                 "zh": "重塑乾坤",
