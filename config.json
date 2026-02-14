@@ -6,10 +6,10 @@
                 "zh": "三重混沌时光3阶段",
                 "en": "Chaotic Time Trio Phase 3"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"dlw",
-                "zh":"德莱文"
+            "engine": "GameMaker",
+            "author": {
+                "en": "dlw",
+                "zh": "德莱文"
             },
             "version": "0.0.1"
         },
@@ -19,10 +19,10 @@
                 "zh": "尘埃传说衫斯雪镇遭遇战(V1)",
                 "en": "Dusttale Sans Snowdin Encounter(V1)"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"XeroxRuler",
-                "zh":"XeroxRuler"
+            "engine": "GameMaker",
+            "author": {
+                "en": "XeroxRuler",
+                "zh": "XeroxRuler"
             },
             "version": "0.0.1"
         },
@@ -32,10 +32,23 @@
                 "zh": "尘埃传说衫斯雪镇遭遇战(V2)",
                 "en": "Dusttale Sans Snowdin Encounter(V2)"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"XeroxRuler",
-                "zh":"XeroxRuler"
+            "engine": "GameMaker",
+            "author": {
+                "en": "XeroxRuler",
+                "zh": "XeroxRuler"
+            },
+            "version": "0.0.1"
+        },
+        {
+            "id": "dusttrustx",
+            "name": {
+                "zh": "Dusttrust X 衫斯战",
+                "en": "Dusttrust X Sans Fight"
+            },
+            "engine": "GameMaker",
+            "author": {
+                "en": "kokakola",
+                "zh": "可口可乐"
             },
             "version": "0.0.1"
         },
@@ -45,10 +58,10 @@
                 "zh": "实验目录33",
                 "en": "Experimental Catalog"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"XeroxRuler",
-                "zh":"XeroxRuler"
+            "engine": "GameMaker",
+            "author": {
+                "en": "XeroxRuler",
+                "zh": "XeroxRuler"
             },
             "version": "0.0.1"
         },
@@ -58,10 +71,10 @@
                 "zh": "EXPTALE",
                 "en": "EXPTALE"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"yxj",
-                "zh":"悠闲君"
+            "engine": "GameMaker",
+            "author": {
+                "en": "yxj",
+                "zh": "悠闲君"
             },
             "version": "0.0.1"
         },
@@ -71,10 +84,10 @@
                 "zh": "Killer衫斯战",
                 "en": "Killer Sans Fight"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"XeroxRuler",
-                "zh":"XeroxRuler"
+            "engine": "GameMaker",
+            "author": {
+                "en": "XeroxRuler",
+                "zh": "XeroxRuler"
             },
             "version": "0.0.1"
         },
@@ -84,10 +97,10 @@
                 "zh": "MirrorReverson第三周目",
                 "en": "MirrorReverson 3rd"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"Inject",
-                "zh":"注射"
+            "engine": "GameMaker",
+            "author": {
+                "en": "Inject",
+                "zh": "注射"
             },
             "version": "0.0.1"
         },
@@ -97,10 +110,10 @@
                 "zh": "普通传说",
                 "en": "ORDINARYTALE"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"znm",
-                "zh":"早泥玛"
+            "engine": "GameMaker",
+            "author": {
+                "en": "znm",
+                "zh": "早泥玛"
             },
             "version": "0.0.1"
         },
@@ -110,10 +123,10 @@
                 "zh": "警笛头衫斯 By znm",
                 "en": "Siren Sans Fight By znm"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"znm&kokakola",
-                "zh":"早泥玛&可口可乐"
+            "engine": "GameMaker",
+            "author": {
+                "en": "znm&kokakola",
+                "zh": "早泥玛&可口可乐"
             },
             "version": "0.0.1"
         },
@@ -123,10 +136,10 @@
                 "zh": "SP!Dusttale冥亡症",
                 "en": "SP!Dusttale Necroptosis"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"kokakola",
-                "zh":"可口可乐"
+            "engine": "GameMaker",
+            "author": {
+                "en": "kokakola",
+                "zh": "可口可乐"
             },
             "version": "0.0.1"
         },
@@ -136,10 +149,10 @@
                 "zh": "重塑乾坤",
                 "en": "SWAPSWAP"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"znm",
-                "zh":"早泥玛"
+            "engine": "GameMaker",
+            "author": {
+                "en": "znm",
+                "zh": "早泥玛"
             },
             "version": "0.0.1"
         },
@@ -149,10 +162,10 @@
                 "zh": "雨中泪",
                 "en": "Tears In The Rain"
             },
-            "engine":"GameMaker",
-            "author":{
-                "en":"znm",
-                "zh":"早泥玛"
+            "engine": "GameMaker",
+            "author": {
+                "en": "znm",
+                "zh": "早泥玛"
             },
             "version": "0.0.1"
         }
