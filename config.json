@@ -3,96 +3,156 @@
         {
             "id": "ctt3dlw",
             "name": {
-                "zh": "[GMS2]三重混沌时光3阶段 By dlw",
-                "en": "[GMS2]Chaotic Time Trio Phase 3 By dlw"
+                "zh": "三重混沌时光3阶段",
+                "en": "Chaotic Time Trio Phase 3"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"dlw",
+                "zh":"德莱文"
             },
             "version": "0.0.1"
         },
         {
             "id": "dusttalexrv1",
             "name": {
-                "zh": "[GMS2]尘埃传说衫斯雪镇遭遇战 By XR(V1)",
-                "en": "[GMS2]Dusttale Sans Snowdin Encounter By XR (V1)"
+                "zh": "尘埃传说衫斯雪镇遭遇战(V1)",
+                "en": "Dusttale Sans Snowdin Encounter(V1)"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"XeroxRuler",
+                "zh":"XeroxRuler"
             },
             "version": "0.0.1"
         },
         {
             "id": "dusttalexrv2",
             "name": {
-                "zh": "[GMS2]尘埃传说衫斯雪镇遭遇战By XR(V2)",
-                "en": "[GMS2]Dusttale Sans Snowdin Encounter By XR (V2)"
+                "zh": "尘埃传说衫斯雪镇遭遇战(V2)",
+                "en": "Dusttale Sans Snowdin Encounter(V2)"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"XeroxRuler",
+                "zh":"XeroxRuler"
             },
             "version": "0.0.1"
         },
         {
             "id": "experimentalcatalog",
             "name": {
-                "zh": "[GMS2]实验目录33 By XR",
-                "en": "[GMS2]Experimental Catalog By XR"
+                "zh": "实验目录33",
+                "en": "Experimental Catalog"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"XeroxRuler",
+                "zh":"XeroxRuler"
             },
             "version": "0.0.1"
         },
         {
             "id": "exptale",
             "name": {
-                "zh": "[GMS2]EXPTALE By 悠闲君233",
-                "en": "[GMS2]EXPTALE By 悠闲君233"
+                "zh": "EXPTALE",
+                "en": "EXPTALE"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"yxj",
+                "zh":"悠闲君"
             },
             "version": "0.0.1"
         },
         {
             "id": "killersansxr",
             "name": {
-                "zh": "[GMS2]Killer衫斯战 By XR",
-                "en": "[GMS2]Killer Sans Fight By XR"
+                "zh": "Killer衫斯战",
+                "en": "Killer Sans Fight"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"XeroxRuler",
+                "zh":"XeroxRuler"
             },
             "version": "0.0.1"
         },
         {
             "id": "mirrorreverson3",
             "name": {
-                "zh": "[GMS2]MirrorReverson第三周目BY 乱叠王",
-                "en": "[GMS2]MirrorReverson 3rd BY InjectIng"
+                "zh": "MirrorReverson第三周目",
+                "en": "MirrorReverson 3rd"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"Inject",
+                "zh":"注射"
             },
             "version": "0.0.1"
         },
         {
             "id": "ordinarytale",
             "name": {
-                "zh": "[GMS2]普通传说 By znm",
-                "en": "[GMS2]ORDINARYTALE By znm"
+                "zh": "普通传说",
+                "en": "ORDINARYTALE"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"znm",
+                "zh":"早泥玛"
             },
             "version": "0.0.1"
         },
         {
             "id": "sirensans",
             "name": {
-                "zh": "[GMS2]警笛头衫斯 By znm",
-                "en": "[GMS2]Siren Sans Fight By znm"
+                "zh": "警笛头衫斯 By znm",
+                "en": "Siren Sans Fight By znm"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"znm&kokakola",
+                "zh":"早泥玛&可口可乐"
             },
             "version": "0.0.1"
         },
         {
             "id": "spdusttalekokakola",
             "name": {
-                "zh": "[GMS2]SP!Dusttale冥亡症 By kokakola",
-                "en": "[GMS2]SP!Dusttale Necroptosis By kokakola"
+                "zh": "SP!Dusttale冥亡症",
+                "en": "SP!Dusttale Necroptosis"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"kokakola",
+                "zh":"可口可乐"
             },
             "version": "0.0.1"
         },
         {
             "id": "swapswap",
             "name": {
-                "zh": "[GMS2]重塑乾坤 By znm",
-                "en": "[GMS2]SWAPSWAP By znm"
+                "zh": "重塑乾坤",
+                "en": "SWAPSWAP"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"znm",
+                "zh":"早泥玛"
             },
             "version": "0.0.1"
         },
         {
             "id": "tearsintherain",
             "name": {
-                "zh": "[GMS2]雨中泪 By znm",
-                "en": "[GMS2]Tears In The Rain By znm"
+                "zh": "雨中泪",
+                "en": "Tears In The Rain"
+            },
+            "engine":"GameMaker",
+            "author":{
+                "en":"znm",
+                "zh":"早泥玛"
             },
             "version": "0.0.1"
         }
