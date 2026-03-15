@@ -8,7 +8,7 @@
       "author": { "en": "EeveeLing", "zh": "灵伊布" },
       "engine": "Flash",
       "id": "horrorsansbattle",
-      "name": { "en": "Horrortale Sans Fight", "zh": "恐惧传说衫斯战" },
+      "name": { "en": "HORRORTALE Sans Fight", "zh": "恐惧传说衫斯战" },
       "version": "0.0.1"
     },
     {
@@ -39,7 +39,7 @@
       "author": { "en": "FDY & Sugar", "zh": "复读鸭 & 砂糖-Sugar-" },
       "engine": "GameMaker",
       "id": "bttaleespe",
-      "name": { "en": "B T-Tale Espe", "zh": "B T-Tale Espe" },
+      "name": { "en": "B T-TALE Espe", "zh": "B T-Tale Espe" },
       "version": "0.0.1"
     },
     {
@@ -75,7 +75,7 @@
       "engine": "Create Your Frisk",
       "id": "crstoryswapasriel",
       "name": {
-        "en": "CR!Storyswap Asriel Genocide Fight",
+        "en": "CR!STORYSWAP Asriel Genocide Fight",
         "zh": "朱印豆腐·故事反转艾斯利尔屠杀线战"
       },
       "version": "0.0.2"
@@ -169,7 +169,7 @@
       "author": { "en": "VyletBunni", "zh": "VyletBunni" },
       "engine": "Unity",
       "id": "deltatraveler",
-      "name": { "en": "Deltatraveler", "zh": "三角旅者" },
+      "name": { "en": "DELTATRAVELER", "zh": "三角旅者" },
       "version": "0.0.1"
     },
     {
@@ -193,7 +193,7 @@
       "author": { "en": "fdy", "zh": "复读鸭" },
       "engine": "GameMaker",
       "id": "dusttalefdy",
-      "name": { "en": "Dusttale Sans Fight", "zh": "尘埃传说衫斯战" },
+      "name": { "en": "DUSTTALE Sans Fight", "zh": "尘埃传说衫斯战" },
       "version": "0.0.1"
     },
     {
@@ -201,7 +201,7 @@
       "engine": "GameMaker",
       "id": "dusttalexrv1",
       "name": {
-        "en": "Dusttale Sans Snowdin Encounter(V1)",
+        "en": "DUSTTALE Sans Snowdin Encounter(V1)",
         "zh": "尘埃传说衫斯雪镇遭遇战（V1）"
       },
       "version": "0.0.1"
@@ -211,7 +211,7 @@
       "engine": "GameMaker",
       "id": "dusttalexrv2",
       "name": {
-        "en": "Dusttale Sans Snowdin Encounter(V2)",
+        "en": "DUSTTALE Sans Snowdin Encounter(V2)",
         "zh": "尘埃传说衫斯雪镇遭遇战（V2）"
       },
       "version": "0.0.1"
@@ -220,7 +220,7 @@
       "author": { "en": "Frost Mage", "zh": "FM_极地闪光" },
       "engine": "GameMaker",
       "id": "dtdiabolicalscheme",
-      "name": { "en": "Dusttale:Diabolical Scheme", "zh": "尘埃传说：死棋" },
+      "name": { "en": "DUSTTALE:Diabolical Scheme", "zh": "尘埃传说：死棋" },
       "version": "0.0.1"
     },
     {
@@ -241,7 +241,7 @@
       "author": { "en": "kokakola", "zh": "可口可乐" },
       "engine": "GameMaker",
       "id": "dusttrustx",
-      "name": { "en": "Dusttrust X Sans Fight", "zh": "Dusttrust X 衫斯战" },
+      "name": { "en": "DUSTTRUST X Sans Fight", "zh": "Dusttrust X 衫斯战" },
       "version": "0.0.1"
     },
     {
@@ -255,7 +255,7 @@
       "author": { "en": "zy", "zh": "庄严的承诺" },
       "engine": "GameMaker",
       "id": "edgetale",
-      "name": { "en": "Edgetale", "zh": "刀刃传说" },
+      "name": { "en": "EDGETALE", "zh": "刀刃传说" },
       "version": "0.0.1"
     },
     {
@@ -289,14 +289,14 @@
       "author": { "en": "InstX", "zh": "InstX" },
       "engine": "GameMaker",
       "id": "endingtalesans",
-      "name": { "en": "Endingtale Sans Fight", "zh": "绝境传说衫斯战" },
+      "name": { "en": "ENDINGTALE Sans Fight", "zh": "绝境传说衫斯战" },
       "version": "0.0.1"
     },
     {
       "author": { "en": "OneZhaZha", "zh": "一个渣渣" },
       "engine": "GameMaker",
       "id": "endingtaleonezhazha",
-      "name": { "en": "Endingtale Sans Fight", "zh": "绝境传说衫斯战" },
+      "name": { "en": "ENDINGTALE Sans Fight", "zh": "绝境传说衫斯战" },
       "version": "0.0.1"
     },
     {
@@ -345,7 +345,7 @@
       "author": { "en": "HTTG Team", "zh": "HTTG工作室" },
       "engine": "GameMaker",
       "id": "horrortalechapterone",
-      "name": { "en": "HorrorTale", "zh": "恐惧传说" },
+      "name": { "en": "HORRORTALE", "zh": "恐惧传说" },
       "version": "0.0.1"
     },
     {
@@ -355,14 +355,14 @@
       },
       "engine": "GameMaker",
       "id": "inksans",
-      "name": { "en": "Ink!Sans Fight", "zh": "墨水衫斯战" },
+      "name": { "en": "INK!SANS Fight", "zh": "墨水衫斯战" },
       "version": "0.0.1"
     },
     {
       "author": { "en": "yx", "zh": "雨心" },
       "engine": "Gamemaker",
       "id": "yxinksans",
-      "name": { "en": "Ink!Sans Fight", "zh": "墨水衫斯战" },
+      "name": { "en": "INK!SANS Fight", "zh": "墨水衫斯战" },
       "version": "0.0.1"
     },
     {
@@ -370,7 +370,7 @@
       "engine": "GameMaker",
       "id": "inksansp3zy",
       "name": {
-        "en": "Ink!Sans Fight p3 SHANGHAIVANIA",
+        "en": "INK!SANS Fight p3 SHANGHAIVANIA",
         "zh": "墨水衫斯战第三阶段"
       },
       "version": "0.0.1"
@@ -382,21 +382,21 @@
       },
       "engine": "GameMaker",
       "id": "inksansbeta",
-      "name": { "en": "Ink!Sans Fight Verioson β", "zh": "墨水衫斯战β版" },
+      "name": { "en": "INK!SANS Fight Verioson β", "zh": "墨水衫斯战β版" },
       "version": "0.0.1"
     },
     {
       "author": { "en": "希希希土", "zh": "希希希土" },
       "engine": "GameMaker",
       "id": "keeptale",
-      "name": { "en": "Keeptale Sans Fight", "zh": "永续轮回衫斯战" },
+      "name": { "en": "KEEPTALE Sans Fight", "zh": "永续轮回衫斯战" },
       "version": "0.0.1"
     },
     {
       "author": { "en": "XeroxRuler", "zh": "XeroxRuler" },
       "engine": "GameMaker",
       "id": "killersansxr",
-      "name": { "en": "Killer Sans Fight", "zh": "杀手衫斯战" },
+      "name": { "en": "KILLER Sans Fight", "zh": "杀手衫斯战" },
       "version": "0.0.1"
     },
     {
@@ -410,7 +410,7 @@
       "author": { "en": "zy", "zh": "庄严的承诺" },
       "engine": "GameMaker",
       "id": "lethetalesans",
-      "name": { "en": "Lethetale Sans Fight", "zh": "忘川传说衫斯战" },
+      "name": { "en": "LETHETALE Sans Fight", "zh": "忘川传说衫斯战" },
       "version": "0.0.1"
     },
     {
@@ -424,7 +424,7 @@
       "author": { "en": "zy", "zh": "庄严的承诺" },
       "engine": "GameMaker",
       "id": "modernswapsans",
-      "name": { "en": "Modernswap Rogers Fight", "zh": "摩登反转罗杰斯战" },
+      "name": { "en": "MODERNSWAP Rogers Fight", "zh": "摩登反转罗杰斯战" },
       "version": "0.0.1"
     },
     {
@@ -445,21 +445,21 @@
       "author": { "en": "ym", "zh": "夜明" },
       "engine": "GameMaker",
       "id": "nightovertale",
-      "name": { "en": "NightOverTale", "zh": "夜明传说" },
+      "name": { "en": "NIGHTOVERTALE", "zh": "夜明传说" },
       "version": "0.0.1"
     },
     {
       "author": { "en": "Xuwu", "zh": "虚无" },
       "engine": "GameMaker",
       "id": "numbertalesans",
-      "name": { "en": "Numbertale Sans Fight", "zh": "数字传说衫斯战" },
+      "name": { "en": "NUMBERTALE Sans Fight", "zh": "数字传说衫斯战" },
       "version": "0.0.1"
     },
     {
       "author": { "en": "OneZhaZha", "zh": "一个渣渣" },
       "engine": "GameMaker",
       "id": "numbertaletoriel",
-      "name": { "en": "Numbertale Toriel Fight", "zh": "数字传说托丽尔战" },
+      "name": { "en": "NUMBERTALE Toriel Fight", "zh": "数字传说托丽尔战" },
       "version": "0.0.1"
     },
     {
@@ -507,7 +507,7 @@
       "author": { "en": "Project Spacey", "zh": "Project Spacey" },
       "engine": "Scratch",
       "id": "psoutertale",
-      "name": { "en": "PS!Outertale", "zh": "太空团队·域外传说" },
+      "name": { "en": "PS!OUTERTALE", "zh": "太空团队·域外传说" },
       "version": "0.0.1"
     },
     {
@@ -555,7 +555,7 @@
       "engine": "GameMaker",
       "id": "spdusttale",
       "name": {
-        "en": "SP!Dusttale Necroptosis",
+        "en": "SP!DUSTTALE Necroptosis",
         "zh": "斯布林·尘埃传说冥亡症"
       },
       "version": "0.0.1"
@@ -565,7 +565,7 @@
       "engine": "GameMaker",
       "id": "spdusttalekokakola",
       "name": {
-        "en": "SP!Dusttale Necroptosis",
+        "en": "SP!DUSTTALE Necroptosis",
         "zh": "斯布林·尘埃传说冥亡症"
       },
       "version": "0.0.1"
@@ -575,7 +575,7 @@
       "engine": "GameMaker",
       "id": "spdusttalethefinalposthumous",
       "name": {
-        "en": "SP!Dusttale The Final Posthumous",
+        "en": "SP!DUSTTALE The Final Posthumous",
         "zh": "斯布林·尘埃传说终幕遗信"
       },
       "version": "0.0.1"
@@ -591,7 +591,7 @@
       "author": { "en": "IGB Team", "zh": "IGB团队" },
       "engine": "Create Your Frisk",
       "id": "storyshiftfacingdemons",
-      "name": { "en": "Storyshift:Facing Demons", "zh": "故事转换：直面恶魔" },
+      "name": { "en": "STORYSHIFT:Facing Demons", "zh": "故事转换：直面恶魔" },
       "version": "0.0.2"
     },
     {
@@ -599,7 +599,7 @@
       "engine": "GameMaker",
       "id": "storyshiftcorefight",
       "name": {
-        "en": "Storyshift:The CORE Encncounter",
+        "en": "STORYSHIFT:The CORE Encncounter",
         "zh": "故事错乱：核心遭遇战"
       },
       "version": "0.0.1"
@@ -609,7 +609,7 @@
       "engine": "ClickTeam",
       "id": "storyswapcolor",
       "name": {
-        "en": "Storyswap Color Asriel Fight",
+        "en": "STORYSWAP Color Asriel Fight",
         "zh": "故事反转：色彩艾斯利尔战"
       },
       "version": "0.0.1"
@@ -619,7 +619,7 @@
       "engine": "Create Your Frisk",
       "id": "storyswapasrielc",
       "name": {
-        "en": "Storyswap:Color Asriel Fight",
+        "en": "STORYSWAP:Color Asriel Fight",
         "zh": "故事反转：色彩艾斯利尔战"
       },
       "version": "0.0.2"
@@ -635,7 +635,7 @@
       "author": { "en": "Team Colossus", "zh": "巨像团队" },
       "engine": "GameMaker",
       "id": "tcunderfell",
-      "name": { "en": "TC!Underfell", "zh": "巨像团队·残暴之下" },
+      "name": { "en": "TC!UNDERFELL", "zh": "巨像团队·残暴之下" },
       "version": "0.0.1"
     },
     {
@@ -664,7 +664,7 @@
       "engine": "GameMaker",
       "id": "toinksans",
       "name": {
-        "en": "TO!Ink Sans Fight",
+        "en": "TO!INK SANS Fight",
         "zh": "起源团队·墨水衫斯战（灯泡版）"
       },
       "version": "0.0.1"
@@ -673,7 +673,7 @@
       "author": { "en": "Team Switched", "zh": "转换团队" },
       "engine": "GameMaker",
       "id": "tsunderswap",
-      "name": { "en": "TS!Underswap", "zh": "转换团队·反转之下" },
+      "name": { "en": "TS!UNDERSWAP", "zh": "转换团队·反转之下" },
       "version": "0.0.1"
     },
     {
@@ -681,7 +681,7 @@
       "engine": "Gamemaker",
       "id": "tsunderswappapyrus",
       "name": {
-        "en": "TS!Underswap Papyrus Fight",
+        "en": "TS!UNDERSWAP Papyrus Fight",
         "zh": "转换团队·反转之下派帕瑞斯战"
       },
       "version": "0.0.1"
@@ -690,7 +690,7 @@
       "author": { "en": "zy", "zh": "庄严的承诺" },
       "engine": "Gamemaker",
       "id": "underfellplan",
-      "name": { "en": "Underfell:Plan", "zh": "残暴之下：计划" },
+      "name": { "en": "UNDERFELL:Plan", "zh": "残暴之下：计划" },
       "version": "0.0.1"
     },
     {
@@ -698,7 +698,7 @@
       "engine": "Unreal Engine",
       "id": "underswaptherekon",
       "name": {
-        "en": "Underswap:The Reckoning RENEWED Papyrus Encounter",
+        "en": "UNDERSWAP:The Reckoning RENEWED Papyrus Encounter",
         "zh": "反转之下：清算重制版帕派瑞斯遭遇战"
       },
       "version": "0.0.1"
@@ -707,7 +707,7 @@
       "author": { "en": "Dualremix", "zh": "DualRemix" },
       "engine": "GameMaker",
       "id": "undersystem",
-      "name": { "en": "UnderSystem", "zh": "系统之下" },
+      "name": { "en": "UNDERSYSTEM", "zh": "系统之下" },
       "version": "0.0.1"
     },
     {
@@ -796,7 +796,7 @@
       "engine": "GameMaker",
       "id": "utasgorequasarel",
       "name": {
-        "en": "Undertale:Genocide Asgore",
+        "en": "UNDERTALE:Genocide Asgore",
         "zh": "传说之下：屠杀线艾斯戈尔"
       },
       "version": "0.0.1"
