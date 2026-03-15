@@ -5,6 +5,13 @@
   },
   "games": [
     {
+      "id": "nexteratalesans",
+      "name": { "zh": "次时代传说衫斯战", "en": "NEXTERATALE Sans Fight" },
+      "author": { "zh": "ssc", "en": "ssc" },
+      "engine": "ClickTeam",
+      "version": "0.0.1"
+    },
+    {
       "author": { "en": "Loris", "zh": "洛白" },
       "engine": "Gamemaker",
       "id": "xtongxtong",
