@@ -641,7 +641,7 @@
         "zh": "DEL"
       },
       "engine": "Construct",
-      "hot_score": 0,
+      "hot_score": 1,
       "id": "dusttrustfinalitypapyrusencounter",
       "name": {
         "en": "DUSTTRUST:Finality Papyrus Encounter",
