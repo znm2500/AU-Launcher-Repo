@@ -625,7 +625,7 @@
         "zh": "DEL"
       },
       "engine": "Construct",
-      "hot_score": 5,
+      "hot_score": 6,
       "id": "dusttrustfinal",
       "name": {
         "en": "DUSTTRUST:Finality",
