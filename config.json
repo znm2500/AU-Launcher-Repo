@@ -1521,7 +1521,7 @@
         "zh": "悠闲君"
       },
       "engine": "GameMaker",
-      "hot_score": 22,
+      "hot_score": 23,
       "id": "overlawn",
       "name": {
         "en": "Overlawn",
@@ -2639,20 +2639,20 @@
       "version": "0.0.1"
     },
     {
-      "id": "utpd",
-      "name": {
-        "zh": "传说之下：承诺杉斯战",
-        "en": "UNDERTALE:Promised. Sans Fight"
-      },
       "author": {
-        "zh": "DEL",
-        "en": "DEL"
+        "en": "DEL",
+        "zh": "DEL"
       },
       "engine": "Construct",
-      "version": "0.0.1",
       "hot_score": 0,
+      "id": "utpd",
+      "name": {
+        "en": "UNDERTALE:Promised. Sans Fight",
+        "zh": "传说之下：承诺杉斯战"
+      },
       "publish_time": "2026-05-12T12:30:04.700Z",
-      "upload_target": "both"
+      "upload_target": "both",
+      "version": "0.0.1"
     },
     {
       "author": {
