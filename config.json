@@ -1,1 +1,4309 @@
-{"announcement":{"en":"You need to download the 1.2.0+launcher to play CYF games.\nJoin our QQ Group: 1085278242","zh":"更新至1.4.0才能正确显示中文\nQQ群: 1085278242","zh_Hans":"只有下载1.2.0+版本才能正常游玩CYF游戏\n欢迎加入QQ群：1085278242","zh_Hant":"只有下載1.2.0+版本才能正常遊玩CYF遊戲\n歡迎加入QQ羣：1085278242"},"games":[{"author":{"en":"Loris","zh_Hans":"洛白","zh_Hant":"洛白"},"engine":"GameMaker","hot_score":13,"id":"xtongxtong","name":{"en":"[NO AU] XiaoTong Fight","zh_Hans":"【NO AU】小曈战","zh_Hant":"【NO AU】小曈戰"},"publish_time":"2026-03-19T12:41:20.342Z","version":"0.0.1"},{"author":{"en":"alpha-player","zh_Hans":"alpha-player","zh_Hant":"alpha-player"},"engine":"Scratch","hot_score":11,"id":"alphasanssurvivalbattleii","name":{"en":"Alpha Sans Survival Battle II","zh_Hans":"阿尔法衫斯生存战II","zh_Hant":"阿爾法衫斯生存戰II"},"publish_time":"2026-03-19T13:34:50.967Z","version":"0.0.1"},{"author":{"en":"Frost Mage","zh_Hans":"FM_极地闪光","zh_Hant":"FM_極地閃光"},"engine":"GameMaker","hot_score":12,"id":"etop4","name":{"en":"Ending Time Octet Phase4","zh_Hans":"八重终结4阶段","zh_Hant":"八重終結4階段"},"publish_time":"2026-03-20T09:52:18.203Z","version":"0.0.1"},{"author":{"en":"Frost Mage","zh_Hans":"FM_极地闪光","zh_Hant":"FM_極地閃光"},"engine":"GameMaker","hot_score":8,"id":"etop6","name":{"en":"Ending Time Octet P6 Sans Fight","zh_Hans":"八重终结第六阶段衫斯战","zh_Hant":"八重終結第六階段衫斯戰"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"LOKID","zh_Hans":"LOKID","zh_Hant":"LOKID"},"engine":"GameMaker","hot_score":6,"id":"etoins","name":{"en":"Ending Time Octet Phase 3 Insanity","zh_Hans":"八重终结精神错乱拖延战","zh_Hant":"八重終結精神錯亂拖延戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"lm","zh_Hans":"黎梦","zh_Hant":"黎夢"},"engine":"Scratch","hot_score":1,"id":"eto3cotv","name":{"en":"Ending Time Octet Phase3-COTV","zh_Hans":"八重终结三阶段-虚空召唤","zh_Hant":"八重終結三階段-虛空召喚"},"publish_time":"2026-07-09T13:46:01.776Z","version":"0.0.1"},{"author":{"en":"MR_youtuber","zh_Hans":"MR_youtuber","zh_Hant":"MR_youtuber"},"engine":"GameMaker","hot_score":24,"id":"gemenatalesans","name":{"en":"GEMENATALE Sans fight","zh_Hans":"宝石传说杉斯战","zh_Hant":"寶石傳說杉斯戰"},"publish_time":"2026-06-15T10:38:23.171Z","version":"0.0.1"},{"author":{"en":"MR_youtuber","zh_Hans":"MR_youtuber","zh_Hant":"MR_youtuber"},"engine":"GameMaker","hot_score":22,"id":"gemenatalesansv","name":{"en":"GEMENATALE Sans Fight V2","zh_Hans":"宝石传说杉斯战V2","zh_Hant":"寶石傳說杉斯戰V2"},"publish_time":"2026-06-15T10:38:23.171Z","version":"0.0.1"},{"author":{"en":"Xtalent","zh_Hans":"希希希土","zh_Hant":"希希希土"},"engine":"GameMaker","hot_score":4,"id":"edgeedge","name":{"en":"Edgeedge","zh_Hans":"边缘之刃","zh_Hant":"邊緣之刃"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"loganvcairns","zh_Hans":"loganvcairns","zh_Hant":"loganvcairns"},"engine":"Scratch","hot_score":8,"id":"adifferentsnowgrave","name":{"en":"A Different Snow Grave","zh_Hans":"不一样的雪葬","zh_Hant":"不一樣的雪葬"},"publish_time":"2026-05-12T09:11:23.221Z","version":"0.0.1"},{"author":{"en":"zy","zh_Hans":"庄严的承诺","zh_Hant":"莊嚴的承諾"},"engine":"Gamemaker","hot_score":5,"id":"underfellplan","name":{"en":"UNDERFELL:Plan","zh_Hans":"残暴之下：计划","zh_Hant":"殘暴之下：計劃"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"loganvairns","zh_Hans":"loganvairns","zh_Hant":"loganvairns"},"engine":"Scratch","hot_score":0,"id":"ufohos","name":{"en":"UNDERFELL:One Hell of a Show","zh_Hans":"残暴之下：精彩演出","zh_Hant":"殘暴之下：精彩演出"},"publish_time":"2026-03-19T15:53:28.448Z","version":"0.0.1"},{"author":{"en":"GasBillt and Nochiksas","zh_Hans":"GasBillt and Nochiksas","zh_Hant":"GasBillt and Nochiksas"},"engine":"Scratch","hot_score":1,"id":"ufcof","name":{"en":"UNDERFELL:Chains of Fate","zh_Hans":"残暴之下：命运之链","zh_Hant":"殘暴之下：命運之鏈"},"publish_time":"2026-07-04T10:47:52.962Z","version":"0.0.1"},{"author":{"en":"MRT","zh_Hans":"MRT","zh_Hant":"MRT"},"engine":"Scratch","hot_score":0,"id":"glitc","name":{"en":"GLITCHTALE Sans Fight","zh_Hans":"差错传说衫斯战","zh_Hant":"差錯傳說衫斯戰"},"publish_time":"2026-07-09T13:43:17.126Z","version":"0.0.1"},{"author":{"en":"underplay","zh_Hans":"underplay","zh_Hant":"underplay"},"engine":"Scratch","hot_score":6,"id":"glitchtalesansfightsurvivai","name":{"en":"GLITCHTALE Sans Fight Survival","zh_Hans":"差错传说衫斯战","zh_Hant":"差錯傳說衫斯戰"},"publish_time":"2026-04-21T08:47:49.504Z","version":"0.0.1"},{"author":{"en":"OneZhaZha","zh_Hans":"一个渣渣","zh_Hant":"一個渣渣"},"engine":"GameMaker","hot_score":0,"id":"overtimedeiifight","name":{"en":"OVERTIME Dell Fight","zh_Hans":"超时模式戴尔战","zh_Hant":"超時模式戴爾戰"},"publish_time":"2026-05-26T09:43:39.066Z","version":"0.0.1"},{"author":{"en":"OneZhaZha","zh_Hans":"一个渣渣","zh_Hant":"一個渣渣"},"engine":"GameMaker","hot_score":0,"id":"overtimejane","name":{"en":"OVERTIME Jane Fight","zh_Hans":"超时模式无名氏先生战","zh_Hant":"超時模式無名氏先生戰"},"publish_time":"2026-05-26T06:30:37.513Z","version":"0.0.1"},{"author":{"en":"Ari","zh_Hans":"Ari","zh_Hant":"Ari"},"engine":"ClickTeam","hot_score":3,"id":"dustbeliefpapyrusfight","name":{"en":"DUSTBELIEF Papyrus Fight","zh_Hans":"尘埃不信派帕瑞斯战","zh_Hant":"塵埃不信派帕瑞斯戰"},"publish_time":"2026-04-14T22:42:48.252Z","version":"0.0.1"},{"author":{"en":"EeveeLing","zh_Hans":"灵伊布","zh_Hant":"靈伊布"},"engine":"GameMaker","hot_score":2,"id":"evdustbelief","name":{"en":"DUSTBELIEF Papyrus Fight","zh_Hans":"尘埃不信派帕瑞斯战","zh_Hant":"塵埃不信派帕瑞斯戰"},"publish_time":"2026-04-22T15:59:52.504Z","version":"0.0.1"},{"author":{"en":"cq","zh_Hans":"传奇","zh_Hant":"傳奇"},"engine":"GameMaker","hot_score":1,"id":"dbcq","name":{"en":"DUSTBELIEF Papyrus Fight","zh_Hans":"尘埃不信派帕瑞斯战","zh_Hant":"塵埃不信派帕瑞斯戰"},"publish_time":"2026-06-19T08:14:57.975Z","version":"0.0.1"},{"author":{"en":"EvanStreblow","zh_Hans":"EvanStreblow","zh_Hant":"EvanStreblow"},"engine":"Unity","hot_score":6,"id":"dusttale","name":{"en":"DUSTTALE","zh_Hans":"尘埃传说","zh_Hant":"塵埃傳說"},"publish_time":"2026-04-17T05:20:37.284Z","version":"0.0.1"},{"author":{"en":"Ars","zh_Hans":"Ars","zh_Hant":"Ars"},"engine":"GameMaker","hot_score":1,"id":"dtsrxj","name":{"en":"DUSTTALE: the murderous comedy","zh_Hans":"尘埃传说：杀人喜剧","zh_Hant":"塵埃傳說：殺人喜劇"},"publish_time":"2026-07-05T05:46:46.874Z","version":"0.0.1"},{"author":{"en":"Frost Mage","zh_Hans":"FM_极地闪光","zh_Hant":"FM_極地閃光"},"engine":"GameMaker","hot_score":9,"id":"dtdiabolicalscheme","name":{"en":"DUSTTALE:Diabolical Scheme","zh_Hans":"尘埃传说：死棋","zh_Hant":"塵埃傳說：死棋"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Team DTLG","zh_Hans":"DTLG团队","zh_Hant":"DTLG團隊"},"engine":"ClickTeam","hot_score":3,"id":"dusttalege","name":{"en":"DUSTTALE:GENOCDIE'S END","zh_Hans":"尘埃传说：屠杀的终结","zh_Hant":"塵埃傳說：屠殺的終結"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"ly","zh_Hans":"龙彦","zh_Hant":"龍彥"},"engine":"Scratch","hot_score":1,"id":"dtafg","name":{"en":"DUSTTALE:Endgoal A Flawless Genocide Phase 2","zh_Hans":"尘埃传说：完美的种族灭绝第二阶段","zh_Hant":"塵埃傳說：完美的種族滅絕第二階段"},"publish_time":"2026-07-02T13:02:35.447Z","version":"0.0.1"},{"author":{"en":"Team DTLG","zh_Hans":"DTLG团队","zh_Hant":"DTLG團隊"},"engine":"ClickTeam","hot_score":5,"id":"dusttalelg","name":{"en":"DUSTTALE:LAST GENOCIDE","zh_Hans":"尘埃传说：最后的屠杀","zh_Hant":"塵埃傳說：最後的屠殺"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Kosh","zh_Hans":"Kosh","zh_Hant":"Kosh"},"engine":"GameMaker","hot_score":0,"id":"dtyga","name":{"en":"DUSTTALE×少女A","zh_Hans":"尘埃传说×少女A","zh_Hant":"塵埃傳說×少女A"},"publish_time":"2026-05-12T12:08:06.975Z","version":"0.0.1"},{"author":{"en":"XeroxRuler","zh_Hans":"XeroxRuler","zh_Hant":"XeroxRuler"},"engine":"GameMaker","hot_score":6,"id":"dusttalexrv1","name":{"en":"DUSTTALE Sans Snowdin Encounter(V1)","zh_Hans":"尘埃传说衫斯雪镇遭遇战（V1）","zh_Hant":"塵埃傳說衫斯雪鎮遭遇戰（V1）"},"publish_time":"2021-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"XeroxRuler","zh_Hans":"XeroxRuler","zh_Hant":"XeroxRuler"},"engine":"GameMaker","hot_score":5,"id":"dusttalexrv2","name":{"en":"DUSTTALE Sans Snowdin Encounter(V2)","zh_Hans":"尘埃传说衫斯雪镇遭遇战（V2）","zh_Hant":"塵埃傳說衫斯雪鎮遭遇戰（V2）"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"fdy","zh_Hans":"复读鸭","zh_Hant":"復讀鴨"},"engine":"GameMaker","hot_score":7,"id":"dusttalefdy","name":{"en":"DUSTTALE Sans Fight","zh_Hans":"尘埃传说衫斯战","zh_Hant":"塵埃傳說衫斯戰"},"publish_time":"2020-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Hazel","zh_Hans":"Hazel","zh_Hant":"Hazel"},"engine":"Scratch","hot_score":1,"id":"dtsc","name":{"en":"DUSTTRUST","zh_Hans":"尘埃的信任","zh_Hant":"塵埃的信任"},"publish_time":"2026-07-06T06:43:48.222Z","version":"0.0.1"},{"author":{"en":"skty","zh_Hans":"神坑天佑","zh_Hant":"神坑天佑"},"engine":"ClickTeam","hot_score":1,"id":"dtskty","name":{"en":"DUSTTRUST","zh_Hans":"尘埃的信任","zh_Hant":"塵埃的信任"},"publish_time":"2026-07-07T11:37:37.018Z","version":"0.0.1"},{"author":{"en":"np","zh_Hans":"纳普","zh_Hant":"納普"},"engine":"GameMaker","hot_score":1,"id":"dtnp","name":{"en":"DUSTTRUST","zh_Hans":"尘埃的信任","zh_Hant":"塵埃的信任"},"publish_time":"2026-07-07T12:00:25.282Z","version":"0.0.1"},{"author":{"en":"Azzy","zh_Hans":"Azzy","zh_Hant":"Azzy"},"engine":"GameMaker","hot_score":1,"id":"dtvan","name":{"en":"DUSTTRUST: VANDALIZE","zh_Hans":"尘埃的信任：摧毁","zh_Hant":"塵埃的信任：摧毀"},"publish_time":"2026-07-06T06:14:41.134Z","version":"0.0.1"},{"author":{"en":"ilovecookies.","zh_Hans":"ilovecookies.","zh_Hant":"ilovecookies."},"engine":"GameMaker","hot_score":1,"id":"dtmr","name":{"en":"DUSTTRUST：Rad Revision","zh_Hans":"尘埃的信任：精彩复现","zh_Hant":"塵埃的信任：精彩復現"},"publish_time":"2026-07-07T14:16:31.757Z","version":"0.0.1"},{"author":{"en":"Hide","zh_Hans":"Hide","zh_Hant":"Hide"},"engine":"Scratch","hot_score":0,"id":"dtr2","name":{"en":"DUSTTRUST:Relic Sans Fight Phase2","zh_Hans":"尘埃的信任：遗迹衫斯战第二阶段","zh_Hant":"塵埃的信任：遺蹟衫斯戰第二階段"},"publish_time":"2026-05-12T05:28:04.222Z","version":"0.0.1"},{"author":{"en":"Hide","zh_Hans":"Hide","zh_Hant":"Hide"},"engine":"Scratch","hot_score":0,"id":"dtr1","name":{"en":"DUSTTRUST:Relic Sans Fight Phase1","zh_Hans":"尘埃的信任：遗迹衫斯战第一阶段","zh_Hant":"塵埃的信任：遺蹟衫斯戰第一階段"},"publish_time":"2026-05-12T05:25:17.863Z","version":"0.0.1"},{"author":{"en":"Angel_Jerry & Aoe_SL439K","zh_Hans":"Angel_Jerry & Aoe_SL439K","zh_Hant":"Angel_Jerry & Aoe_SL439K"},"engine":"Scratch","hot_score":1,"id":"dtfinality","name":{"en":"DUSTTRUST:Finality","zh_Hans":"尘埃的信任：终焉","zh_Hant":"塵埃的信任：終焉"},"publish_time":"2026-03-20T03:56:11.367Z","version":"0.0.1"},{"author":{"en":"UTKB","zh_Hans":"疣体烤饼","zh_Hant":"疣體烤餅"},"engine":"Scratch","hot_score":6,"id":"dtutkb","name":{"en":"DUSTTRUST:Finality","zh_Hans":"尘埃的信任：终焉","zh_Hant":"塵埃的信任：終焉"},"publish_time":"2026-04-27T13:23:06.485Z","version":"0.0.1"},{"author":{"en":"DEL","zh_Hans":"DEL","zh_Hant":"DEL"},"engine":"Construct","hot_score":6,"id":"dusttrustfinal","name":{"en":"DUSTTRUST:Finality","zh_Hans":"尘埃的信任：终焉","zh_Hant":"塵埃的信任：終焉"},"publish_time":"2026-04-29T05:26:12.572Z","version":"0.0.1"},{"author":{"en":"ck","zh":"ck","zh_Hans":"ck","zh_Hant":"ck"},"engine":"scratch","hot_score":0,"id":"dusttrustfinality","name":{"en":"DUSTTRUST:Finality","zh":"尘埃的信任：终焉","zh_Hans":"尘埃的信任：终焉","zh_Hant":"塵埃的信任：終焉"},"publish_time":"2026-07-20T11:55:48.878Z","version":"0.0.1"},{"author":{"en":"DEL","zh_Hans":"DEL","zh_Hant":"DEL"},"engine":"Construct","hot_score":16,"id":"dusttrustfinalitypapyrusencounter","name":{"en":"DUSTTRUST:Finale Papyrus Encounter","zh_Hans":"尘埃的信任：终焉派帕瑞斯遭遇战","zh_Hant":"塵埃的信任：終焉派帕瑞斯遭遇戰"},"publish_time":"2026-06-21T13:50:04.262Z","version":"0.0.1"},{"author":{"en":"RTF","zh_Hans":"RTF","zh_Hant":"RTF"},"engine":"GameMaker","hot_score":0,"id":"undertalehqversion","name":{"en":"DUSTTRUST Sans Fight All Phases","zh_Hans":"尘埃的信任衫斯战全阶段","zh_Hant":"塵埃的信任衫斯戰全階段"},"publish_time":"2026-05-16T07:01:06.051Z","version":"0.0.1"},{"author":{"en":"kokakola","zh_Hans":"可口可乐","zh_Hant":"可口可樂"},"engine":"GameMaker","hot_score":7,"id":"dusttrustx","name":{"en":"DUSTTRUST X","zh_Hans":"尘埃的信任X","zh_Hant":"塵埃的信任X"},"publish_time":"2026-03-22T06:10:19.032Z","version":"0.0.1"},{"author":{"en":"Azzy","zh_Hans":"Azzy","zh_Hant":"Azzy"},"engine":"GameMaker","hot_score":1,"id":"dustswapdusttrust","name":{"en":"Dustswap: Dusttrust Sans Fight","zh_Hans":"尘埃反转：尘埃的信任衫斯战","zh_Hant":"塵埃反轉：塵埃的信任衫斯戰"},"publish_time":"2026-03-22T06:10:19.032Z","version":"0.0.1"},{"author":{"en":"plg","zh_Hans":"plg","zh_Hant":"plg"},"engine":"Scratch","hot_score":0,"id":"dsrevenge","name":{"en":"DUSTSWAP:Revenge","zh_Hans":"尘埃反转：复仇","zh_Hant":"塵埃反轉：復仇"},"publish_time":"2026-05-13T14:05:19.760Z","version":"0.0.1"},{"author":{"en":"BossHim","zh_Hans":"BossHim","zh_Hant":"BossHim"},"engine":"Scratch","hot_score":1,"id":"vhs","name":{"en":"UNDERTALE:The Hackers End","zh_Hans":"传说之下: 黑客结局","zh_Hant":"傳說之下: 黑客結局"},"publish_time":"2026-07-09T15:12:49.879Z","version":"0.0.1"},{"author":{"en":"Clement-HU","zh_Hans":"Clement-HU","zh_Hant":"Clement-HU"},"engine":"SDL3","hot_score":3,"id":"utbetrayerhard","name":{"en":"UNDERTALE:Betrayer Extreme hard mode","zh_Hans":"传说之下：背叛者极端困难模式","zh_Hant":"傳說之下：背叛者極端困難模式"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Lazy Bones Team","zh_Hans":"懒骨头团队","zh_Hant":"懶骨頭團隊"},"engine":"CreateYourFrisk","hot_score":2,"id":"uttfe","name":{"en":"UNDERTALE:The Forgotten End","zh_Hans":"传说之下：被遗忘的结局","zh_Hant":"傳說之下：被遺忘的結局"},"publish_time":"2026-04-27T13:45:08.115Z","version":"0.0.2"},{"author":{"en":"wndfur","zh_Hans":"wndfur","zh_Hant":"wndfur"},"engine":"GameMaker","hot_score":3,"id":"undertalecollapsed","name":{"en":"UNDERTALE:Collapsed","zh_Hans":"传说之下：崩溃","zh_Hant":"傳說之下：崩潰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Team Icebound","zh_Hans":"冰封千里团队","zh_Hant":"冰封千裏團隊"},"engine":"Godot","hot_score":7,"id":"uticebound","name":{"en":"UNDERTALE:Icebound","zh_Hans":"传说之下：冰封千里","zh_Hant":"傳說之下：冰封千裏"},"publish_time":"2023-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"DEL","zh_Hans":"DEL","zh_Hant":"DEL"},"engine":"Construct","hot_score":1,"id":"utpd","name":{"en":"UNDERTALE:Promised. Sans Fight","zh_Hans":"传说之下：承诺杉斯战","zh_Hant":"傳說之下：承諾杉斯戰"},"publish_time":"2026-05-13T04:48:49.969Z","version":"0.0.1"},{"author":{"en":"SubRaiN","zh_Hans":"SubRaiN","zh_Hant":"SubRaiN"},"engine":"Unreal Engine","hot_score":7,"id":"utjustbreathe","name":{"en":"UNDERTALE: just breathe.","zh_Hans":"传说之下：放轻松，深呼吸。","zh_Hant":"傳說之下：放輕鬆，深呼吸。"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"BossHim","zh_Hans":"BossHim","zh_Hant":"BossHim"},"engine":"Scratch","hot_score":0,"id":"uttm","name":{"en":"UNDERTALE:True Monsters","zh_Hans":"传说之下：膏肓怪疫","zh_Hant":"傳說之下：膏肓怪疫"},"publish_time":"2026-06-29T10:52:56.052Z","version":"0.0.1"},{"author":{"en":"DEL","zh_Hans":"DEL","zh_Hant":"DEL"},"engine":"Construct","hot_score":1,"id":"utlh","name":{"en":"UNDERTALE:Lonely Homeland Sans Fight","zh_Hans":"传说之下：孤寂故国杉斯战","zh_Hant":"傳說之下：孤寂故國杉斯戰"},"publish_time":"2026-05-12T12:20:05.913Z","version":"0.0.1"},{"author":{"en":"RynoGG","zh_Hans":"RynoGG","zh_Hant":"RynoGG"},"engine":"Unity","hot_score":0,"id":"sansweapons","name":{"en":"UNDERTALE: Skeletal Vengeance","zh_Hans":"传说之下：骸骨之仇","zh_Hant":"傳說之下：骸骨之仇"},"publish_time":"2026-04-23T04:56:21.153Z","version":"0.0.1"},{"author":{"en":"Team Undertale Red & Yellow","zh_Hans":"传说之下红与黄团队","zh_Hant":"傳說之下紅與黃團隊"},"engine":"Gamemaker","hot_score":23,"id":"utry","name":{"en":"UNDERTALE:Red & Yellow","zh_Hans":"传说之下：红与黄","zh_Hant":"傳說之下：紅與黃"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Lumpy Touch","zh_Hans":"Lumpy Touch","zh_Hant":"Lumpy Touch"},"engine":"GameMaker","hot_score":0,"id":"utbms","name":{"en":"UNDERTALE:Bad Monday Simulator","zh_Hans":"传说之下：坏周一模拟器","zh_Hant":"傳說之下：壞周一模擬器"},"publish_time":"2026-05-16T06:27:27.313Z","version":"0.0.1"},{"author":{"en":"Team Undertale Yellow","zh_Hans":"传说之下黄魂团队","zh_Hant":"傳說之下黃魂團隊"},"engine":"Gamemaker","hot_score":17,"id":"utyellow","name":{"en":"UNDERTALE:Yellow","zh_Hans":"传说之下：黄魂","zh_Hant":"傳說之下：黃魂"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Sil","zh_Hans":"Sil","zh_Hant":"Sil"},"engine":"GameMaker","hot_score":2,"id":"siblingsredemption","name":{"en":"UNDERTALE:Siblings Redemption","zh_Hans":"传说之下：伙伴赎回","zh_Hant":"傳說之下：夥伴贖回"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"ThePieCat","zh_Hans":"ThePieCat","zh_Hant":"ThePieCat"},"engine":"GameMaker","hot_score":3,"id":"undertaleholidayspecial","name":{"en":"UNDERTALE：HOLIDAY SPECIAL","zh_Hans":"传说之下：假日特别版","zh_Hant":"傳說之下：假日特別版"},"publish_time":"2026-04-17T05:06:21.795Z","version":"0.0.1"},{"author":{"en":"Xtalent & dlw","zh_Hans":"希希希土 & 德莱文","zh_Hant":"希希希土 & 德萊文"},"engine":"GameMaker","hot_score":5,"id":"undertalelast27hour","name":{"en":"UNDERTALE:Last 27 hour","zh_Hans":"传说之下：迫在眉睫","zh_Hant":"傳說之下：迫在眉睫"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Walar","zh_Hans":"Walar","zh_Hant":"Walar"},"engine":"GameMaker","hot_score":0,"id":"undertaiecocoonintobutterfiysansfight","name":{"en":"Undertale:Cocoon Into Butterfly Sans Fight","zh_Hans":"传说之下：破茧成蝶衫斯战","zh_Hant":"傳說之下：破繭成蝶衫斯戰"},"publish_time":"2026-03-23T10:27:08.399Z","version":"0.0.1"},{"author":{"en":"CorpseEchorGotta","zh":"CorpseEchorGotta","zh_Hans":"CorpseEchorGotta","zh_Hant":"CorpseEchorGotta"},"engine":"ClickTeam","hot_score":1,"id":"undertaleshatteredsoulssansfight","name":{"en":"UNDERTALE:Shattered Souls Sans Fight","zh":"传说之下:破碎之魂衫斯战","zh_Hans":"传说之下:破碎之魂衫斯战","zh_Hant":"傳說之下:破碎之魂衫斯戰"},"publish_time":"2026-07-18T02:20:12.275Z","version":"0.0.1"},{"author":{"en":"OneCJ","zh_Hans":"一个蔡稽","zh_Hant":"一個蔡稽"},"engine":"Construct","hot_score":5,"id":"strongerthan","name":{"en":"UNDERTALE:Stronger than You","zh_Hans":"传说之下：强大于你","zh_Hant":"傳說之下：強大於你"},"publish_time":"2026-03-25T13:48:16.569Z","version":"0.0.1"},{"author":{"en":"Cezar Andrade","zh_Hans":"Cezar Andrade","zh_Hant":"Cezar Andrade"},"engine":"Create Your Frisk","hot_score":15,"id":"undertaledisbelief","name":{"en":"UNDERTALE:Disbelief","zh_Hans":"传说之下：全然不信","zh_Hant":"傳說之下：全然不信"},"publish_time":"2019-01-01T12:00:00Z","version":"0.0.2"},{"author":{"en":"FlamesAtGames","zh_Hans":"FlamesAtGames","zh_Hant":"FlamesAtGames"},"engine":"GameMaker","hot_score":11,"id":"disbeliefpapyrus","name":{"en":"UNDERTALE:Disbelief","zh_Hans":"传说之下：全然不信","zh_Hant":"傳說之下：全然不信"},"publish_time":"2021-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"SoG / ACDD","zh_Hans":"SoG / ACDD","zh_Hant":"SoG / ACDD"},"engine":"Construct","hot_score":4,"id":"udbhcon","name":{"en":"UNDERTALE:Disbelief Hard Mode","zh_Hans":"传说之下：全然不信困难模式","zh_Hant":"傳說之下：全然不信困難模式"},"publish_time":"2026-04-27T13:43:21.886Z","version":"0.0.1"},{"author":{"en":"Ari","zh_Hans":"Ari","zh_Hant":"Ari"},"engine":"CreateYourFrisk","hot_score":4,"id":"utph","name":{"en":"UNDERTALE:Disbelief Hard Mode","zh_Hans":"传说之下：全然不信困难模式","zh_Hant":"傳說之下：全然不信困難模式"},"publish_time":"2026-04-28T09:25:50.479Z","version":"0.0.2"},{"author":{"en":"InstX","zh_Hans":"因斯特","zh_Hant":"因斯特"},"engine":"GameMaker","hot_score":6,"id":"undertaiebattieofaiicharacters","name":{"en":"Undertale: Battle of All Characters","zh_Hans":"传说之下：全人物的战斗","zh_Hant":"傳說之下：全人物的戰鬥"},"publish_time":"2026-03-18T01:21:42.818Z","version":"0.0.1"},{"author":{"en":"Quasarel","zh_Hans":"Quasarel","zh_Hant":"Quasarel"},"engine":"GameMaker","hot_score":5,"id":"utasgorequasarel","name":{"en":"UNDERTALE:Genocide Asgore","zh_Hans":"传说之下：屠杀线艾斯戈尔","zh_Hant":"傳說之下：屠殺線艾斯戈爾"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Stryker & Quicksilvur","zh_Hans":"Stryker & Quicksilvur","zh_Hant":"Stryker & Quicksilvur"},"engine":"Gamemaker","hot_score":5,"id":"utgenocideasgore","name":{"en":"UNDERTALE:Genocide Asgore","zh_Hans":"传说之下：屠杀线艾斯戈尔","zh_Hant":"傳說之下：屠殺線艾斯戈爾"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"KongMing2403","zh_Hans":"空明2403","zh_Hant":"空明2403"},"engine":"Scratch","hot_score":1,"id":"utwxdxjl","name":{"en":"UNDERTALE: Past, Present, Future Sans Fight","zh_Hans":"传说之下：往昔、当下、将来 衫斯战","zh_Hant":"傳說之下：往昔、當下、將來 衫斯戰"},"publish_time":"2026-07-05T06:34:58.611Z","version":"0.0.1"},{"author":{"en":"OneCJ","zh_Hans":"一个蔡稽","zh_Hant":"一個蔡稽"},"engine":"Construct","hot_score":6,"id":"mylittleshark","name":{"en":"My Little Shark","zh_Hans":"传说之下:小鲨鱼","zh_Hant":"傳說之下:小鯊魚"},"publish_time":"2021-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Azzy","zh_Hans":"Azzy","zh_Hant":"Azzy"},"engine":"GameMaker","hot_score":1,"id":"utnewpal","name":{"en":"UNDERTALE: new pal.","zh_Hans":"传说之下：新朋友","zh_Hant":"傳說之下：新朋友"},"publish_time":"2026-06-17T13:02:19.262Z","version":"0.0.1"},{"author":{"en":"Catfight","zh_Hans":"猫斗士","zh_Hant":"貓鬥士"},"engine":"GameMaker","hot_score":0,"id":"utfr","name":{"en":"UNDERTALE:Flase Reset","zh_Hans":"传说之下：虚假的重置","zh_Hant":"傳說之下：虛假的重置"},"publish_time":"2026-06-24T13:48:44.190Z","version":"0.0.1"},{"author":{"en":"UNDERTALECOTVOFFICIAL","zh_Hans":"虚空召唤官方","zh_Hant":"虛空召喚官方"},"engine":"ClickTeam","hot_score":9,"id":"undertalecalloftheyoid","name":{"en":"UNDERTALE: CALL OF THE VOID","zh_Hans":"传说之下:虚空召唤","zh_Hant":"傳說之下:虛空召喚"},"publish_time":"2026-04-02T09:49:18.808Z","version":"0.0.1"},{"author":{"en":"Team Nihilism","zh_Hans":"虚无主义团队","zh_Hant":"虛無主義團隊"},"engine":"Gamemaker","hot_score":2,"id":"utnihilism","name":{"en":"UNDERTALE:Nihilism","zh_Hans":"传说之下：虚无主义","zh_Hant":"傳說之下：虛無主義"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Cloud_RRC","zh_Hans":"云玩家RRC","zh_Hant":"雲玩家RRC"},"engine":"GameMaker","hot_score":1,"id":"utddd","name":{"en":"UNDERTALE:Distorted Distinctive Destiny","zh_Hans":"传说之下：迂曲·迥异·运命","zh_Hant":"傳說之下：迂曲·迥異·運命"},"publish_time":"2026-06-22T09:04:34.397Z","version":"0.0.1"},{"author":{"en":"znm","zh_Hans":"早泥玛","zh_Hant":"早泥瑪"},"engine":"GameMaker","hot_score":6,"id":"tearsintherain","name":{"en":"UNDERTALE:Tears In The Rain","zh_Hans":"传说之下：雨中泪","zh_Hant":"傳說之下：雨中淚"},"publish_time":"2026-03-23T10:40:19.142Z","version":"0.0.1"},{"author":{"en":"Fired","zh_Hans":"Fired","zh_Hant":"Fired"},"engine":"GameMaker","hot_score":0,"id":"uttitrf","name":{"en":"UNDERTALE:Tears In The Rain Sans Fight","zh_Hans":"传说之下：雨中泪衫斯战","zh_Hant":"傳說之下：雨中淚衫斯戰"},"publish_time":"2026-05-13T13:18:05.051Z","version":"0.0.1"},{"author":{"en":"avranik","zh_Hans":"avranik","zh_Hant":"avranik"},"engine":"GameMaker","hot_score":5,"id":"undertalenmd","name":{"en":"UNDERTALE:No More Deals","zh_Hans":"传说之下：再无交易","zh_Hant":"傳說之下：再無交易"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"yxj","zh_Hans":"悠闲君","zh_Hant":"悠閒君"},"engine":"GameMaker","hot_score":3,"id":"undertaietruelabsansfight","name":{"en":"Undertale: True Lab Sans Fight","zh_Hans":"传说之下：真实验室衫斯战","zh_Hant":"傳說之下：真實驗室衫斯戰"},"publish_time":"2026-04-17T05:17:32.292Z","version":"0.0.1"},{"author":{"en":"YJDdod","zh_Hans":"YJDdod","zh_Hant":"YJDdod"},"engine":"GameMaker","hot_score":9,"id":"undertaieultimaterandom","name":{"en":"Undertale: Ultimate Random","zh_Hans":"传说之下:终极随机","zh_Hant":"傳說之下:終極隨機"},"publish_time":"2026-04-04T02:19:00.709Z","version":"0.0.1"},{"author":{"en":"猛知","zh_Hans":"猛知","zh_Hant":"猛知"},"engine":"Scratch","hot_score":0,"id":"undertalelast","name":{"en":"UNDERTALE:Last Breath Sans Fight Phase2","zh_Hans":"传说之下：终焉余息衫斯战二阶段","zh_Hant":"傳說之下：終焉餘息衫斯戰二階段"},"publish_time":"2026-05-16T06:27:27.313Z","version":"0.0.1"},{"author":{"en":"OneCJ","zh_Hans":"一个菜稽","zh_Hant":"一個菜稽"},"engine":"Construct","hot_score":0,"id":"suddenchanges","name":{"en":"Sudden Changes Part1","zh_Hans":"传说之下：骤变第一部分","zh_Hant":"傳說之下：驟變第一部分"},"publish_time":"2026-05-11T07:57:06.705Z","version":"0.0.1"},{"author":{"en":"Team Last Breath","zh_Hans":"Team Last Breath","zh_Hant":"Team Last Breath"},"engine":"ClickTeam","hot_score":4,"id":"ulbc","name":{"en":"UNDERTALE:Last Breath","zh_Hans":"传说之下：最后的呼吸","zh_Hant":"傳說之下：最後的呼吸"},"publish_time":"2026-07-09T04:14:32.307Z","version":"0.0.1"},{"author":{"en":"dlw","zh_Hans":"德莱文","zh_Hant":"德萊文"},"engine":"GameMaker","hot_score":0,"id":"utnmdulb","name":{"en":"UDNERTALE:Last Breath×No More Deals","zh_Hans":"传说之下：最后的呼吸×再无交易","zh_Hant":"傳說之下：最後的呼吸×再無交易"},"publish_time":"2026-06-19T07:56:10.278Z","version":"0.0.1"},{"author":{"en":"BossHim","zh_Hans":"BossHim","zh_Hant":"BossHim"},"engine":"Scratch","hot_score":1,"id":"ulbp3","name":{"en":"UNDERTALE:Last Breath Phase3","zh_Hans":"传说之下：最后的呼吸第三阶段","zh_Hant":"傳說之下：最後的呼吸第三階段"},"publish_time":"2026-07-02T13:21:28.167Z","version":"0.0.1"},{"author":{"en":"Team Last Breath","zh_Hans":"最后的呼吸团队","zh_Hant":"最後的呼吸團隊"},"engine":"ClickTeam","hot_score":35,"id":"undertalelastbreath","name":{"en":"UNDERTALE:Last Breath Retouched","zh_Hans":"传说之下：最后的呼吸修整版","zh_Hant":"傳說之下：最後的呼吸修整版"},"publish_time":"2026-07-09T04:14:32.306Z","version":"0.0.1"},{"author":{"en":"craKed_Wolf","zh_Hans":"craKed_Wolf","zh_Hant":"craKed_Wolf"},"engine":"ClickTeam","hot_score":9,"id":"undertalelastbreathrenewed","name":{"en":"UNDERTALE:Last Breath Renewed","zh_Hans":"传说之下：最后的呼吸重置版","zh_Hant":"傳說之下：最後的呼吸重置版"},"publish_time":"2026-04-12T10:25:59.294Z","version":"0.0.1"},{"author":{"en":"LUCASBROO3","zh_Hans":"LUCASBROO3","zh_Hant":"LUCASBROO3"},"engine":"Scratch","hot_score":2,"id":"finalexperiment","name":{"en":"UNDERTALE:Final Experiment","zh_Hans":"传说之下：最终实验","zh_Hant":"傳說之下：最終實驗"},"publish_time":"2026-03-19T14:03:10.248Z","version":"0.0.1"},{"author":{"en":"eru","zh_Hans":"eru","zh_Hant":"eru"},"engine":"Scratch","hot_score":2,"id":"utmkl","name":{"en":"UNDERTALE×うそつきマカロン","zh_Hans":"传说之下×说谎的马卡龙","zh_Hant":"傳說之下×說謊的馬卡龍"},"publish_time":"2026-05-12T09:03:17.302Z","version":"0.0.1"},{"author":{"en":"Cupcake bruh","zh_Hans":"Cupcake bruh","zh_Hant":"Cupcake bruh"},"engine":"ClickTeam","hot_score":0,"id":"utaf","name":{"en":"UNDERTALE Alphys Fight","zh_Hans":"传说之下艾菲斯战","zh_Hant":"傳說之下艾菲斯戰"},"publish_time":"2026-05-13T13:07:11.101Z","version":"0.0.1"},{"author":{"en":"Team SpiderWeb","zh_Hans":"蜘蛛网团队","zh_Hant":"蜘蛛網團隊"},"engine":"Godot","hot_score":6,"id":"revengespiderweb","name":{"en":"UNDERTALE Revenge:The Unseen Ending","zh_Hans":"传说之下复仇：不可视结局","zh_Hant":"傳說之下復仇：不可視結局"},"publish_time":"2023-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Team KDTM","zh_Hans":"KDTM团队","zh_Hant":"KDTM團隊"},"engine":"GameMaker","hot_score":1,"id":"kdtmrevenge","name":{"en":"UNDERTALE Revenge:The Unseen Ending","zh_Hans":"传说之下复仇：不可视结局","zh_Hant":"傳說之下復仇：不可視結局"},"publish_time":"2026-04-23T04:30:40.894Z","version":"0.0.1"},{"author":{"en":"Yuz_light","zh_Hans":"Yuz_light","zh_Hant":"Yuz_light"},"engine":"GameMaker","hot_score":3,"id":"undertaiehardmodethefinaicorridorsansfight","name":{"en":"Undertale Hard Mode: The Final Corridor Sans Fight","zh_Hans":"传说之下困难模式：最后的长廊衫斯战","zh_Hant":"傳說之下困難模式：最後的長廊衫斯戰"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"fdy","zh_Hans":"复读鸭","zh_Hant":"復讀鴨"},"engine":"GameMaker","hot_score":6,"id":"hardmodefdy","name":{"en":"UNDERTALE Hard Mode Sans Fight","zh_Hans":"传说之下困难模式衫斯战","zh_Hant":"傳說之下困難模式衫斯戰"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"siki","zh_Hans":"siki","zh_Hant":"siki"},"engine":"GameMaker","hot_score":3,"id":"hardmodesiki","name":{"en":"UNDERTALE Hard Mode Sans Fight","zh_Hans":"传说之下困难模式衫斯战","zh_Hant":"傳說之下困難模式衫斯戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Team Undertale Green","zh_Hans":"传说之下绿魂团队","zh_Hant":"傳說之下綠魂團隊"},"engine":"GameMaker","hot_score":6,"id":"undertalegreen","name":{"en":"UNDERTALE Green Act Zero: The Pre-Show","zh_Hans":"传说之下绿魂第零幕：预演","zh_Hant":"傳說之下綠魂第零幕：預演"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"qk","zh_Hans":"秋裤","zh_Hant":"秋褲"},"engine":"GameMaker","hot_score":2,"id":"utsansqk","name":{"en":"UNDERTALE Sans Fight Remake","zh_Hans":"传说之下衫斯战重制版","zh_Hant":"傳說之下衫斯戰重製版"},"publish_time":"2026-06-27T15:51:28.760Z","version":"0.0.1"},{"author":{"en":"ssc","zh_Hans":"ssc","zh_Hant":"ssc"},"engine":"ClickTeam","hot_score":3,"id":"nexteratalesans","name":{"en":"NEXTERATALE Sans Fight","zh_Hans":"次时代传说衫斯战","zh_Hant":"次時代傳說衫斯戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"BossHim","zh_Hans":"BossHim","zh_Hant":"BossHim"},"engine":"Scratch","hot_score":1,"id":"error404","name":{"en":"Error404 Sans Fight","zh_Hans":"错误404衫斯战","zh_Hant":"錯誤404衫斯戰"},"publish_time":"2026-06-30T05:30:53.857Z","version":"0.0.1"},{"author":{"en":"BossHim","zh_Hans":"BossHim","zh_Hant":"BossHim"},"engine":"Scratch","hot_score":1,"id":"errorsans","name":{"en":"Error Sans Fight","zh_Hans":"错误衫斯战","zh_Hant":"錯誤衫斯戰"},"publish_time":"2026-06-29T10:53:52.724Z","version":"0.0.1"},{"author":{"en":"zy","zh_Hans":"庄严的承诺","zh_Hant":"莊嚴的承諾"},"engine":"GameMaker","hot_score":5,"id":"edgetale","name":{"en":"EDGETALE","zh_Hans":"刀刃传说","zh_Hant":"刀刃傳說"},"publish_time":"2021-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"ly","zh_Hans":"龙彦","zh_Hant":"龍彥"},"engine":"Scratch","hot_score":1,"id":"edgetalely","name":{"en":"EDGETALE Sans Fight","zh_Hans":"刀刃传说衫斯战","zh_Hant":"刀刃傳說衫斯戰"},"publish_time":"2026-07-09T06:41:11.429Z","version":"0.0.1"},{"author":{"en":"Azzy","zh_Hans":"Azzy","zh_Hant":"Azzy"},"engine":"GameMaker","hot_score":2,"id":"underswaprituaiofthemist","name":{"en":"UNDERSWAP: Ritual Of The Mist","zh_Hans":"反转之下：迷雾祭典","zh_Hant":"反轉之下：迷霧祭典"},"publish_time":"2026-04-27T04:42:20.448Z","version":"0.0.1"},{"author":{"en":"ecstavis_tivity","zh_Hans":"ecstavis_tivity","zh_Hant":"ecstavis_tivity"},"engine":"Godot","hot_score":0,"id":"ustherekon","name":{"en":"UNDERSWAP:The Rekoning","zh_Hans":"反转之下：审判日","zh_Hant":"反轉之下：審判日"},"publish_time":"2026-04-10T09:46:44.022Z","version":"0.0.1"},{"author":{"en":"SubRaiN","zh_Hans":"SubRaiN","zh_Hant":"SubRaiN"},"engine":"Unreal Engine","hot_score":4,"id":"underswaptherekon","name":{"en":"UNDERSWAP:The Reckoning RENEWED Papyrus Encounter","zh_Hans":"反转之下：审判日重制版帕派瑞斯遭遇战","zh_Hant":"反轉之下：審判日重製版帕派瑞斯遭遇戰"},"publish_time":"2026-03-25T11:47:49.706Z","version":"0.0.1"},{"author":{"en":"cafechannel","zh_Hans":"猫猫","zh_Hant":"貓貓"},"engine":"GameMaker","hot_score":0,"id":"dist","name":{"en":"UNDERSWAP:Distrust","zh_Hans":"反转之下：信任全无","zh_Hant":"反轉之下：信任全無"},"publish_time":"2026-07-06T06:09:19.208Z","version":"0.0.1"},{"author":{"en":"yjt","zh_Hans":"岳江涛","zh_Hant":"嶽江濤"},"engine":"GameMaker","hot_score":2,"id":"eggwind","name":{"en":"EGGWINDTALE Sans Fight","zh_Hans":"风卵传说衫斯战","zh_Hant":"風卵傳說衫斯戰"},"publish_time":"2021-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"QMF","zh_Hans":"起名废","zh_Hant":"起名廢"},"engine":"ClickTeam","hot_score":1,"id":"dailylifepapy","name":{"en":"DAILYLIFE Papyrus Fight","zh_Hans":"浮生若梦派帕瑞斯战","zh_Hant":"浮生若夢派帕瑞斯戰"},"publish_time":"2026-06-14T05:10:01.502Z","version":"0.0.1"},{"author":{"en":"cq","zh_Hans":"传奇","zh_Hant":"傳奇"},"engine":"GameMaker","hot_score":0,"id":"corruptionvoid","name":{"en":"CORRUPTIONVOID Sans Fight","zh_Hans":"腐败无效衫斯战","zh_Hant":"腐敗無效衫斯戰"},"publish_time":"2026-05-13T13:37:22.729Z","version":"0.0.1"},{"author":{"en":"Epoli","zh_Hans":"Epoli","zh_Hant":"Epoli"},"engine":"GameMaker","hot_score":3,"id":"storyshiftcorefight","name":{"en":"STORYSHIFT:The CORE Encncounter","zh_Hans":"故事错乱：核心遭遇战","zh_Hant":"故事錯亂：核心遭遇戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Team Color","zh_Hans":"彩色团队","zh_Hant":"彩色團隊"},"engine":"ClickTeam","hot_score":4,"id":"storyswapcolor","name":{"en":"STORYSWAP Color Asriel Fight","zh_Hans":"故事反转：色彩艾斯利尔战","zh_Hant":"故事反轉：色彩艾斯利爾戰"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"saman","zh_Hans":"saman","zh_Hant":"saman"},"engine":"Create Your Frisk","hot_score":2,"id":"storyswapasrielc","name":{"en":"STORYSWAP:Color Asriel Fight","zh_Hans":"故事反转：色彩艾斯利尔战","zh_Hant":"故事反轉：色彩艾斯利爾戰"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.2"},{"author":{"en":"IGB Team","zh_Hans":"IGB团队","zh_Hant":"IGB團隊"},"engine":"Create Your Frisk","hot_score":7,"id":"storyshiftfacingdemons","name":{"en":"STORYSHIFT:Facing Demons","zh_Hans":"故事转换：直面恶魔","zh_Hant":"故事轉換：直面惡魔"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.2"},{"author":{"en":"鳩_","zh":"鳩_","zh_Hans":"鳩_","zh_Hant":"鳩_"},"engine":"GameMaker","hot_score":1,"id":"storyshiftcharafight","name":{"en":"STORYSHIFT Chara Fight","zh":"故事转换查拉战","zh_Hans":"故事转换查拉战","zh_Hant":"故事轉換查拉戰"},"publish_time":"2026-07-13T11:27:39.775Z","version":"0.0.1"},{"author":{"en":"wdg","zh_Hans":"锅德勾","zh_Hant":"鍋德勾"},"engine":"Scratch","hot_score":0,"id":"spongeswapfell","name":{"en":"SPONGESWAPFELL SpongeBob Fight","zh_Hans":"海绵反转残暴海绵财迷战","zh_Hant":"海綿反轉殘暴海綿財迷戰"},"publish_time":"2026-05-12T05:01:42.257Z","version":"0.0.1"},{"author":{"en":"Mr.Lincus","zh_Hans":"Mr.Lincus","zh_Hant":"Mr.Lincus"},"engine":"ClickTeam","hot_score":1,"id":"spongeswap","name":{"en":"SPONGESWAP SpongeBob Fight","zh_Hans":"海绵反转海绵宝宝战","zh_Hant":"海綿反轉海綿寶寶戰"},"publish_time":"2026-04-19T15:54:20.748Z","version":"0.0.1"},{"author":{"en":"DEL","zh_Hans":"DEL","zh_Hant":"DEL"},"engine":"Construct","hot_score":14,"id":"spongeswapdel","name":{"en":"SPONGESWAP SpongeBob Fight","zh_Hans":"海绵反转海绵宝宝战","zh_Hant":"海綿反轉海綿寶寶戰"},"publish_time":"2026-04-28T17:03:49.480Z","version":"0.0.1"},{"author":{"en":"BossHim","zh_Hans":"BossHim","zh_Hant":"BossHim"},"engine":"Scratch","hot_score":21,"id":"demoroaringknightcrossover","name":{"en":"Roaring Knight: Crossover","zh_Hans":"呼啸骑士: 跨界","zh_Hant":"呼嘯騎士: 跨界"},"publish_time":"2026-06-29T10:52:56.052Z","version":"0.0.1"},{"author":{"en":"BenLabno","zh_Hans":"BenLabno","zh_Hant":"BenLabno"},"engine":"GameMaker","hot_score":1,"id":"dusktale","name":{"en":"DUSKTALE","zh_Hans":"黄昏传说","zh_Hant":"黃昏傳說"},"publish_time":"2026-07-07T04:13:36.292Z","version":"0.0.1"},{"author":{"en":"Sulfacid & Walar","zh_Hans":"硫酸 & Walar","zh_Hant":"硫酸 & Walar"},"engine":"GameMaker","hot_score":8,"id":"chaosendasrielfight","name":{"en":"Chaos'End","zh_Hans":"混沌终章","zh_Hant":"混沌終章"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"T-mas","zh_Hans":"T大","zh_Hant":"T大"},"engine":"MonoGames","hot_score":0,"id":"rhythmrecall","name":{"en":"Rhythm Recall","zh_Hans":"节奏召回","zh_Hant":"節奏召回"},"publish_time":"2026-05-16T07:22:33.859Z","version":"0.0.1"},{"author":{"en":"lqy","zh_Hans":"罗轻焉","zh_Hant":"羅輕焉"},"engine":"GameMaker","hot_score":1,"id":"reliefloamei","name":{"en":"RELIEFTALE  Sans Fight","zh_Hans":"解脱传说老妹战","zh_Hant":"解脫傳說老妹戰"},"publish_time":"2026-05-11T10:45:49.886Z","version":"0.0.1"},{"author":{"en":"seanjapan","zh_Hans":"seanjapan","zh_Hant":"seanjapan"},"engine":"GameMaker","hot_score":1,"id":"crystalsoulstale","name":{"en":"CRYSTALSOULSTALE Sans Fight","zh_Hans":"晶魂传说衫斯战","zh_Hant":"晶魂傳說衫斯戰"},"publish_time":"2026-07-05T06:26:22.733Z","version":"0.0.1"},{"author":{"en":"znm & kokakola","zh_Hans":"早泥玛 & 可口可乐","zh_Hant":"早泥瑪 & 可口可樂"},"engine":"GameMaker","hot_score":5,"id":"sirensans","name":{"en":"Siren Sans Fight","zh_Hans":"警笛头衫斯","zh_Hant":"警笛頭衫斯"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"charaYTsab","zh_Hans":"charaYTsab","zh_Hant":"charaYTsab"},"engine":"Scratch","hot_score":0,"id":"jhz","name":{"en":"Kyouka Fight","zh_Hans":"鏡花戦","zh_Hant":"鏡花戦"},"publish_time":"2026-07-05T08:37:49.025Z","version":"0.0.1"},{"author":{"en":"Team Colossus","zh_Hans":"巨像团队","zh_Hant":"巨像團隊"},"engine":"GameMaker","hot_score":5,"id":"tcunderfell","name":{"en":"TC!UNDERFELL","zh_Hans":"巨像团队·残暴之下","zh_Hant":"巨像團隊·殘暴之下"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"EeveeLing","zh_Hans":"灵伊布","zh_Hant":"靈伊布"},"engine":"GameMaker","hot_score":0,"id":"underchoicesans","name":{"en":"UNDERCHOICE Sans Fight","zh_Hans":"抉择之下衫斯战","zh_Hant":"抉擇之下衫斯戰"},"publish_time":"2026-04-22T12:43:24.585Z","version":"0.0.1"},{"author":{"en":"InstX","zh_Hans":"因斯特","zh_Hant":"因斯特"},"engine":"GameMaker","hot_score":3,"id":"endingtalesans","name":{"en":"ENDINGTALE Sans Fight","zh_Hans":"绝境传说衫斯战","zh_Hant":"絕境傳說衫斯戰"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"OneZhaZha","zh_Hans":"一个渣渣","zh_Hant":"一個渣渣"},"engine":"GameMaker","hot_score":6,"id":"endingtaleonezhazha","name":{"en":"ENDINGTALE Sans Fight","zh_Hans":"绝境传说衫斯战","zh_Hant":"絕境傳說衫斯戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"ly","zh_Hans":"龙彦","zh_Hant":"龍彥"},"engine":"Scratch","hot_score":0,"id":"endingtalely","name":{"en":"ENDINGTALE Sans Fight","zh_Hans":"绝境传说衫斯战","zh_Hant":"絕境傳說衫斯戰"},"publish_time":"2026-07-04T15:01:46.779Z","version":"0.0.1"},{"author":{"en":"HTTG Team","zh_Hans":"HTTG工作室","zh_Hant":"HTTG工作室"},"engine":"GameMaker","hot_score":14,"id":"horrortalechapterone","name":{"en":"HORRORTALE","zh_Hans":"恐惧传说","zh_Hant":"恐懼傳說"},"publish_time":"2020-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"EeveeLing","zh_Hans":"灵伊布","zh_Hant":"靈伊布"},"engine":"Flash","hot_score":7,"id":"horrorsansbattle","name":{"en":"HORRORTALE Sans Fight","zh_Hans":"恐惧传说衫斯战","zh_Hant":"恐懼傳說衫斯戰"},"publish_time":"2019-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Ale","zh_Hans":"Ale","zh_Hant":"Ale"},"engine":"ClickTeam","hot_score":5,"id":"greensans","name":{"en":"Green Sans Fight","zh_Hans":"绿色衫斯战","zh_Hant":"綠色衫斯戰"},"publish_time":"2021-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"ly","zh_Hans":"龙彦","zh_Hant":"龍彥"},"engine":"Scratch","hot_score":1,"id":"scorntale","name":{"en":"SCORNTALE Sans Fight","zh_Hans":"蔑视传说衫斯战","zh_Hant":"蔑視傳說衫斯戰"},"publish_time":"2026-06-20T11:33:02.168Z","version":"0.0.1"},{"author":{"en":"zy","zh_Hans":"庄严的承诺","zh_Hant":"莊嚴的承諾"},"engine":"GameMaker","hot_score":3,"id":"modernswapsans","name":{"en":"MODERNSWAP Rogers Fight","zh_Hans":"摩登反转罗杰斯战","zh_Hant":"摩登反轉羅傑斯戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"System&ZeroXilo&Crosu","zh_Hans":"我素系统&调零修罗&南省","zh_Hant":"我素系統&調零修羅&南省"},"engine":"GameMaker","hot_score":21,"id":"inksans","name":{"en":"INK!SANS Fight","zh_Hans":"墨水衫斯战","zh_Hant":"墨水衫斯戰"},"publish_time":"2020-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"yx","zh_Hans":"雨心","zh_Hant":"雨心"},"engine":"Gamemaker","hot_score":13,"id":"yxinksans","name":{"en":"INK!SANS Fight","zh_Hans":"墨水衫斯战","zh_Hant":"墨水衫斯戰"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"zy","zh_Hans":"庄严的承诺","zh_Hant":"莊嚴的承諾"},"engine":"GameMaker","hot_score":5,"id":"inksansp3zy","name":{"en":"INK!SANS Fight p3 SHANGHAIVANIA","zh_Hans":"墨水衫斯战第三阶段","zh_Hant":"墨水衫斯戰第三階段"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"System&ZeroXilo&Crosu&Dualremix","zh_Hans":"我素系统&调零修罗&南省&Dualremix","zh_Hant":"我素系統&調零修羅&南省&Dualremix"},"engine":"GameMaker","hot_score":8,"id":"inksansbeta","name":{"en":"INK!SANS Fight Verioson β","zh_Hans":"墨水衫斯战β版","zh_Hant":"墨水衫斯戰β版"},"publish_time":"2021-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"kokakola","zh_Hans":"可口可乐","zh_Hant":"可口可樂"},"engine":"GameMaker","hot_score":6,"id":"yournightmare","name":{"en":"Your NIghtmare Chara Fight","zh_Hans":"你的梦魇查拉战","zh_Hant":"你的夢魘查拉戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.2"},{"author":{"en":"barkScript","zh_Hans":"barkScript","zh_Hant":"barkScript"},"engine":"GameMaker","hot_score":5,"id":"yourbestnightmare","name":{"en":"Your Best Nightmare Remake","zh_Hans":"你最好的梦魇重制版","zh_Hant":"你最好的夢魘重製版"},"publish_time":"2026-03-19T13:45:33.838Z","version":"0.0.1"},{"author":{"en":"Dorked","zh_Hans":"Dorked","zh_Hant":"Dorked"},"engine":"Scratch","hot_score":0,"id":"invertedfatereg","name":{"en":"Inverted Fate:Regret","zh_Hans":"逆天改命：懊悔","zh_Hant":"逆天改命：懊悔"},"publish_time":"2026-03-20T02:35:12.654Z","version":"0.0.1"},{"author":{"en":"Dorked","zh_Hans":"Dorked","zh_Hant":"Dorked"},"engine":"Scratch","hot_score":0,"id":"invertedfateap","name":{"en":"Inverted Fate:Weavering Spirit","zh_Hans":"逆天改命：动摇的意志","zh_Hant":"逆天改命：動搖的意志"},"publish_time":"2026-03-19T15:40:11.887Z","version":"0.0.1"},{"author":{"en":"Dorked","zh_Hans":"Dorked","zh_Hant":"Dorked"},"engine":"Scratch","hot_score":1,"id":"invertedfatemtt","name":{"en":"Inverted Fate: Rise, Mettaton SPIRAL!","zh_Hans":"逆天改命：崛起吧，镁塔顿螺旋型！","zh_Hant":"逆天改命：崛起吧，鎂塔頓螺旋型！"},"publish_time":"2026-03-19T15:28:51.516Z","version":"0.0.1"},{"author":{"en":"Dorked","zh_Hans":"Dorked","zh_Hant":"Dorked"},"engine":"Scratch","hot_score":0,"id":"invertedfateso","name":{"en":"Inverted Fate Soul-Splitting Fury","zh_Hans":"逆天改命：撕心之怒","zh_Hant":"逆天改命：撕心之怒"},"publish_time":"2026-03-20T02:59:37.847Z","version":"0.0.1"},{"author":{"en":"Dorked","zh_Hans":"Dorked","zh_Hant":"Dorked"},"engine":"Scratch","hot_score":1,"id":"invertedfatenull","name":{"en":"Inverted Fate:null_1","zh_Hans":"逆天改命：虚无_1","zh_Hant":"逆天改命：虛無_1"},"publish_time":"2026-03-20T02:20:03.054Z","version":"0.0.1"},{"author":{"en":"Dorked","zh_Hans":"Dorked","zh_Hant":"Dorked"},"engine":"Scratch","hot_score":0,"id":"invertedfatefc","name":{"en":"Inverted Fate:Fallen Crown","zh_Hans":"逆天改命：陨落之冠","zh_Hant":"逆天改命：隕落之冠"},"publish_time":"2026-03-19T15:39:28.877Z","version":"0.0.1"},{"author":{"en":"Uralisimus","zh_Hans":"Uralisimus","zh_Hant":"Uralisimus"},"engine":"ClickTeam","hot_score":2,"id":"invertedfatepap","name":{"en":"Inverted Fate Papyrus Survival Fight","zh_Hans":"逆天改命派帕瑞斯生存战","zh_Hant":"逆天改命派帕瑞斯生存戰"},"publish_time":"2026-03-20T02:02:46.483Z","version":"0.0.1"},{"author":{"en":"TheWither","zh_Hans":"凄叶","zh_Hant":"悽葉"},"engine":"Scratch","hot_score":3,"id":"roiibm","name":{"en":"Reincarnation Octette UBM Sans Fight","zh_Hans":"涅槃八形UBM!Sans拖延战","zh_Hant":"涅槃八形UBM!Sans拖延戰"},"publish_time":"2026-05-12T10:41:42.137Z","version":"0.0.1"},{"author":{"en":"AleAtorio3","zh_Hans":"AleAtorio3","zh_Hant":"AleAtorio3"},"engine":"ClickTeam","hot_score":3,"id":"undertalepapyrushasgonetoofar","name":{"en":"Papyrus Has Gone Too Far","zh_Hans":"帕派瑞斯已经走得太远了","zh_Hant":"帕派瑞斯已經走得太遠了"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"kokakola","zh_Hans":"可口可乐","zh_Hant":"可口可樂"},"engine":"GameMaker","hot_score":2,"id":"traveleratsunset","name":{"en":"Lifefield:Traveler At Sunset Sans Fight","zh_Hans":"魄殁无功：星光枯草衫斯战","zh_Hant":"魄歿無功：星光枯草衫斯戰"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"znm","zh_Hans":"早泥玛","zh_Hant":"早泥瑪"},"engine":"GameMaker","hot_score":2,"id":"ordinarytale","name":{"en":"ORDINARYTALE Sans Fight","zh_Hans":"普通传说衫斯战","zh_Hant":"普通傳說衫斯戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Team Origin","zh_Hans":"起源团队","zh_Hant":"起源團隊"},"engine":"GameMaker","hot_score":11,"id":"toinksans","name":{"en":"TO!INK SANS Fight","zh_Hans":"起源团队·墨水衫斯战（灯泡版）","zh_Hant":"起源團隊·墨水衫斯戰（燈泡版）"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"MR_youtuber","zh_Hans":"MR_youtuber","zh_Hant":"MR_youtuber"},"engine":"GameMaker","hot_score":32,"id":"aoharuduo","name":{"en":"AOHARU DUO","zh_Hans":"青春二重奏","zh_Hant":"青春二重奏"},"publish_time":"2026-06-15T10:38:23.171Z","version":"0.0.1"},{"author":{"en":"aamakuruu","zh_Hans":"aamakuruu","zh_Hant":"aamakuruu"},"engine":"Gamemaker","hot_score":2,"id":"sparethemup","name":{"en":"Spare 'em Up","zh_Hans":"全部饶恕","zh_Hant":"全部饒恕"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Lemon360","zh_Hans":"Lemon360","zh_Hant":"Lemon360"},"engine":"Scratch","hot_score":2,"id":"shineofblade","name":{"en":"Shine of Blade Nail Sans Fight","zh_Hans":"刃之闪耀骨钉衫斯战","zh_Hant":"刃之閃耀骨釘衫斯戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Kosh","zh_Hans":"Kosh","zh_Hant":"Kosh"},"engine":"GameMaker","hot_score":1,"id":"inkjpsansfight","name":{"en":"INK-JP Sans Fight","zh_Hans":"日本·墨水衫斯战","zh_Hant":"日本·墨水衫斯戰"},"publish_time":"2026-03-25T13:52:55.733Z","version":"0.0.1"},{"author":{"en":"Simbel","zh_Hans":"Simbel","zh_Hant":"Simbel"},"engine":"LOVE2D","hot_score":7,"id":"drfrozenheart","name":{"en":"Deltarune:Frozen Heart","zh_Hans":"三角符文：冰冻之心","zh_Hant":"三角符文：冰凍之心"},"publish_time":"2026-03-28T12:31:14.588Z","version":"0.0.1"},{"author":{"en":"duskkii","zh_Hans":"duskkii","zh_Hant":"duskkii"},"engine":"Love2D","hot_score":0,"id":"dr","name":{"en":"DELTARUNE:Frostveil","zh_Hans":"三角符文：冰霜帷幕","zh_Hant":"三角符文：冰霜帷幕"},"publish_time":"2026-06-21T13:41:54.463Z","version":"0.0.1"},{"author":{"en":"uprank","zh_Hans":"uprank","zh_Hant":"uprank"},"engine":"Unity","hot_score":4,"id":"drhypothesis","name":{"en":"Deltarune:Hypothesis","zh_Hans":"三角符文：猜想模拟器","zh_Hant":"三角符文：猜想模擬器"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Agentalex9","zh_Hans":"Agentalex9","zh_Hant":"Agentalex9"},"engine":"Gamemaker","hot_score":5,"id":"drfunmodechaosedition","name":{"en":"Deltarune:Fun Mode Chaos Edition","zh_Hans":"三角符文：欢乐混沌Jevil","zh_Hant":"三角符文：歡樂混沌Jevil"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Sad Bread","zh_Hans":"Sad Bread","zh_Hant":"Sad Bread"},"engine":"Gamemaker","hot_score":5,"id":"spamtonrestitched","name":{"en":"Deltarune:Spamton Restitched","zh_Hans":"三角符文：斯潘顿重组","zh_Hant":"三角符文：斯潘頓重組"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Sad Bread","zh_Hans":"Sad Bread","zh_Hant":"Sad Bread"},"engine":"Gamemaker","hot_score":4,"id":"scamptonthegreat","name":{"en":"Deltarune:Scampon the Great","zh_Hans":"三角符文：伟大的斯骗顿","zh_Hant":"三角符文：偉大的斯騙頓"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"auriwerm","zh":"auriwerm","zh_Hans":"auriwerm","zh_Hant":"auriwerm"},"engine":"Love2D","hot_score":0,"id":"deltarunefriendless","name":{"en":"DELTARUNE:Friendless","zh":"三角符文：友尽","zh_Hans":"三角符文：友尽","zh_Hant":"三角符文：友盡"},"publish_time":"2026-07-17T12:01:27.119Z","version":"0.0.1"},{"author":{"en":"The Winterer & Sad bread","zh_Hans":"The Winterer & Sad bread","zh_Hant":"The Winterer & Sad bread"},"engine":"Gamemaker","hot_score":4,"id":"drupperhand","name":{"en":"Deltarune:Upper Hand","zh_Hans":"三角符文：只手遮天","zh_Hant":"三角符文：隻手遮天"},"publish_time":"2023-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Leko","zh_Hans":"Leko","zh_Hant":"Leko"},"engine":"Gamemaker","hot_score":5,"id":"drchaser","name":{"en":"Deltarune:Chaser","zh_Hans":"三角符文：追逐者","zh_Hant":"三角符文：追逐者"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Kais-sans","zh_Hans":"Kais-sans","zh_Hant":"Kais-sans"},"engine":"Godot","hot_score":0,"id":"drvssans","name":{"en":"Deltarune Chapter5:Vs Sans","zh_Hans":"三角符文第五章：对战衫斯","zh_Hant":"三角符文第五章：對戰衫斯"},"publish_time":"2026-05-13T12:38:33.006Z","version":"0.0.1"},{"author":{"en":"Edel Fujimoto","zh_Hans":"Edel Fujimoto","zh_Hant":"Edel Fujimoto"},"engine":"Gamemaker","hot_score":12,"id":"drfriskfight","name":{"en":"Deltarune Frisk Battle:Birth of Games and Memories","zh_Hans":"三角符文弗里斯克战：游戏与记忆的起源","zh_Hant":"三角符文弗裏斯克戰：遊戲與記憶的起源"},"publish_time":"2026-04-27T04:59:09.126Z","version":"0.0.1"},{"author":{"en":"VyletBunni","zh_Hans":"VyletBunni","zh_Hant":"VyletBunni"},"engine":"Unity","hot_score":14,"id":"deltatraveler","name":{"en":"DELTATRAVELER","zh_Hans":"三角旅者","zh_Hant":"三角旅者"},"publish_time":"2021-10-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Tien","zh_Hans":"Tien","zh_Hant":"Tien"},"engine":"GameMaker","hot_score":5,"id":"thetriosquabble","name":{"en":"The Trio Squabble","zh_Hans":"三重裁决","zh_Hant":"三重裁決"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Kosh","zh_Hans":"Kosh","zh_Hant":"Kosh"},"engine":"GameMaker","hot_score":5,"id":"badtimetrio","name":{"en":"Bad Time Trio","zh_Hans":"三重坏时光","zh_Hant":"三重壞時光"},"publish_time":"2026-03-23T13:44:11.126Z","version":"0.0.1"},{"author":{"en":"Team LEAKED","zh_Hans":"LEAKED团队","zh_Hant":"LEAKED團隊"},"engine":"ClickTeam","hot_score":19,"id":"badtimetriov2","name":{"en":"Bad Time Trio","zh_Hans":"三重坏时光","zh_Hant":"三重壞時光"},"publish_time":"2021-11-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"fdy","zh_Hans":"复读鸭","zh_Hant":"復讀鴨"},"engine":"GameMaker","hot_score":3,"id":"bttfdy","name":{"en":"Bad Time Trio","zh_Hans":"三重坏时光","zh_Hant":"三重壞時光"},"publish_time":"2026-04-27T12:58:15.588Z","version":"0.0.1"},{"author":{"en":"ck","zh_Hans":"参考","zh_Hant":"參考"},"engine":"Scratch","hot_score":1,"id":"bttck","name":{"en":"Bad Time Trio","zh_Hans":"三重坏时光","zh_Hant":"三重壞時光"},"publish_time":"2026-07-05T05:58:31.212Z","version":"0.0.1"},{"author":{"en":"Team LEAKED","zh_Hans":"LEAKED团队","zh_Hant":"LEAKED團隊"},"engine":"ClickTeam","hot_score":11,"id":"badtimetriov1","name":{"en":"Bad Time Trio (Old)","zh_Hans":"三重坏时光（旧版）","zh_Hant":"三重壞時光（舊版）"},"publish_time":"2020-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Temp19","zh_Hans":"Temp一九","zh_Hant":"Temp一九"},"engine":"GameMaker","hot_score":12,"id":"chaotictime","name":{"en":"Chaotic Time Trio","zh_Hans":"三重混沌时光","zh_Hant":"三重混沌時光"},"publish_time":"2026-03-23T14:21:38.239Z","version":"0.0.1"},{"author":{"en":"dlw","zh_Hans":"德莱文","zh_Hant":"德萊文"},"engine":"GameMaker","hot_score":4,"id":"ctt3dlw","name":{"en":"Chaotic Time Trio Phase 3","zh_Hans":"三重混沌时光3阶段","zh_Hant":"三重混沌時光3階段"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"ccjyui","zh_Hans":"ccjyui","zh_Hant":"ccjyui"},"engine":"GameMaker","hot_score":11,"id":"murdertimetrio","name":{"en":"Murder Time Trio","zh_Hans":"三重谋杀时光","zh_Hant":"三重謀殺時光"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"猛知","zh_Hans":"猛知","zh_Hant":"猛知"},"engine":"Scratch","hot_score":18,"id":"tripleperfectperformance","name":{"en":"Triple Perfect Performance","zh_Hans":"三重完美演出","zh_Hant":"三重完美演出"},"publish_time":"2026-05-05T12:42:33.776Z","version":"0.0.1"},{"author":{"en":"kokakola","zh_Hans":"可口可乐","zh_Hant":"可口可樂"},"engine":"GameMaker","hot_score":1,"id":"endings","name":{"en":"Ending Sunrise Trio","zh_Hans":"三重旭日终焉","zh_Hant":"三重旭日終焉"},"publish_time":"2026-07-09T13:17:32.939Z","version":"0.0.1"},{"author":{"en":"XeroxRuler","zh_Hans":"XeroxRuler","zh_Hant":"XeroxRuler"},"engine":"GameMaker","hot_score":7,"id":"killersansxr","name":{"en":"KILLER Sans Fight","zh_Hans":"杀手衫斯战","zh_Hant":"殺手衫斯戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Mehigh","zh_Hans":"Mehigh","zh_Hant":"Mehigh"},"engine":"ClickTeam","hot_score":1,"id":"spsala","name":{"en":"Sans&Papyrus-Salsa Lesson","zh_Hans":"衫斯和派帕瑞斯的萨尔萨舞课","zh_Hant":"衫斯和派帕瑞斯的薩爾薩舞課"},"publish_time":"2026-03-22T04:12:43.821Z","version":"0.0.1"},{"author":{"en":"Vitellary","zh_Hans":"Vitellary","zh_Hant":"Vitellary"},"engine":"Love2D","hot_score":3,"id":"godhome","name":{"en":"Godhome","zh_Hans":"神居","zh_Hant":"神居"},"publish_time":"2026-04-17T05:02:21.013Z","version":"0.0.1"},{"author":{"en":"Raihyou","zh_Hans":"Raihyou","zh_Hant":"Raihyou"},"engine":"GameMaker","hot_score":6,"id":"timeparadox","name":{"en":"Time paradox","zh_Hans":"时间悖论","zh_Hant":"時間悖論"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"XeroxRuler","zh_Hans":"XeroxRuler","zh_Hant":"XeroxRuler"},"engine":"GameMaker","hot_score":2,"id":"experimentalcatalog","name":{"en":"Experimental Catalog","zh_Hans":"实验目录33","zh_Hant":"實驗目錄33"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"QMF","zh_Hans":"起名废","zh_Hant":"起名廢"},"engine":"ClickTeam","hot_score":1,"id":"digitfault","name":{"en":"Digit fault","zh_Hans":"数码断层","zh_Hant":"數碼斷層"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Xuwu","zh_Hans":"虚无","zh_Hant":"虛無"},"engine":"GameMaker","hot_score":2,"id":"numbertalesans","name":{"en":"NUMBERTALE Sans Fight","zh_Hans":"数字传说衫斯战","zh_Hant":"數字傳說衫斯戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Ars","zh_Hans":"Ars","zh_Hant":"Ars"},"engine":"GameMaker","hot_score":1,"id":"numbertalears","name":{"en":"NUMBERTALE Sans Fight","zh_Hans":"数字传说衫斯战","zh_Hant":"數字傳說衫斯戰"},"publish_time":"2026-03-19T12:39:19.017Z","version":"0.0.1"},{"author":{"en":"OneZhaZha","zh_Hans":"一个渣渣","zh_Hant":"一個渣渣"},"engine":"GameMaker","hot_score":2,"id":"numbertaletoriel","name":{"en":"NUMBERTALE Toriel Fight","zh_Hans":"数字传说托丽尔战","zh_Hant":"數字傳說託麗爾戰"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Azzy","zh_Hans":"Azzy","zh_Hant":"Azzy"},"engine":"GameMaker","hot_score":8,"id":"spdusttale","name":{"en":"SP!DUSTTALE Necroptosis","zh_Hans":"斯布林·尘埃传说冥亡症","zh_Hant":"斯布林·塵埃傳說冥亡症"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"kokakola","zh_Hans":"可口可乐","zh_Hant":"可口可樂"},"engine":"GameMaker","hot_score":16,"id":"spdusttalekokakola","name":{"en":"SP!DUSTTALE Necroptosis","zh_Hans":"斯布林·尘埃传说冥亡症","zh_Hant":"斯布林·塵埃傳說冥亡症"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"kokakola","zh_Hans":"可口可乐","zh_Hant":"可口可樂"},"engine":"GameMaker","hot_score":11,"id":"spdusttalethefinalposthumous","name":{"en":"SP!DUSTTALE The Final Posthumous","zh_Hans":"斯布林·尘埃传说终幕遗信","zh_Hant":"斯布林·塵埃傳說終幕遺信"},"publish_time":"2023-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"EeveeLing","zh_Hans":"灵伊布","zh_Hant":"靈伊布"},"engine":"GameMaker","hot_score":3,"id":"isaacneo","name":{"en":"Spamton NEO, but in The Binding of Isaac","zh_Hans":"斯潘顿NEO，但是在以撒的结合","zh_Hant":"斯潘頓NEO，但是在以撒的結合"},"publish_time":"2026-04-22T15:10:19.199Z","version":"0.0.1"},{"author":{"en":"Project Spacey","zh_Hans":"Project Spacey","zh_Hant":"Project Spacey"},"engine":"HTML","hot_score":9,"id":"psoutertale","name":{"en":"PS!OUTERTALE","zh_Hans":"太空团队·域外传说","zh_Hant":"太空團隊·域外傳說"},"publish_time":"2026-05-12T11:00:00.555Z","version":"0.0.1"},{"author":{"en":"fengxue","zh_Hans":"风雪","zh_Hant":"風雪"},"engine":"Scratch","hot_score":3,"id":"greedfortheiegendsanswar","name":{"en":"COVETTALE Sans Fight","zh_Hans":"贪图传说衫斯战","zh_Hant":"貪圖傳說衫斯戰"},"publish_time":"2026-05-12T11:25:05.794Z","version":"0.0.1"},{"author":{"en":"1420","zh_Hans":"1420","zh_Hant":"1420"},"engine":"GameMaker","hot_score":1,"id":"celestiaicitysansfight","name":{"en":"Celestial City Sans Fight","zh_Hans":"天国之城衫斯战","zh_Hant":"天國之城衫斯戰"},"publish_time":"2026-07-05T08:36:43.473Z","version":"0.0.1"},{"author":{"en":"TML","zh_Hans":"糖萌芦","zh_Hant":"糖萌蘆"},"engine":"Godot","hot_score":4,"id":"usualtale","name":{"en":"USUALTALE Sans Fight","zh_Hans":"通常传说衫斯战","zh_Hant":"通常傳說衫斯戰"},"publish_time":"2026-04-27T13:46:17.690Z","version":"0.0.1"},{"author":{"en":"Azzy","zh_Hans":"Azzy","zh_Hant":"Azzy"},"engine":"GameMaker","hot_score":0,"id":"aeta","name":{"en":"An Ending To All - Over","zh_Hans":"万物终焉 —— 落幕","zh_Hant":"萬物終焉 —— 落幕"},"publish_time":"2026-07-04T13:05:41.015Z","version":"0.0.1"},{"author":{"en":"zy","zh_Hans":"庄严的承诺","zh_Hant":"莊嚴的承諾"},"engine":"GameMaker","hot_score":3,"id":"lethetalesans","name":{"en":"LETHETALE Sans Fight","zh_Hans":"忘川传说衫斯战","zh_Hant":"忘川傳說衫斯戰"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"ly","zh_Hans":"龙彦","zh_Hant":"龍彥"},"engine":"Scratch","hot_score":0,"id":"lethetale","name":{"en":"LETHETALE Sans Fight","zh_Hans":"忘川传说衫斯战","zh_Hant":"忘川傳說衫斯戰"},"publish_time":"2026-06-19T08:56:36.981Z","version":"0.0.1"},{"author":{"en":"RazFraz","zh_Hans":"RazFraz","zh_Hant":"RazFraz"},"engine":"Love2D","hot_score":0,"id":"wiiterswonderland","name":{"en":"Wilter's Wonderland","zh_Hans":"威尔特的仙境","zh_Hant":"威爾特的仙境"},"publish_time":"2026-04-16T11:37:30.777Z","version":"0.0.1"},{"author":{"en":"worgan","zh_Hans":"沃淦","zh_Hant":"沃淦"},"engine":"Godot","hot_score":19,"id":"minetale","name":{"en":"MINETALE","zh_Hans":"我的传说","zh_Hant":"我的傳說"},"publish_time":"2026-06-15T10:38:23.171Z","version":"0.0.1"},{"author":{"en":"ly","zh_Hans":"龙彦","zh_Hant":"龍彥"},"engine":"Scratch","hot_score":1,"id":"mugentale","name":{"en":"MUGENTALE Sans Fight","zh_Hans":"无幻传说衫斯战","zh_Hant":"無幻傳說衫斯戰"},"publish_time":"2026-06-19T08:49:44.975Z","version":"0.0.1"},{"author":{"en":"Dualremix","zh_Hans":"DualRemix","zh_Hant":"DualRemix"},"engine":"GameMaker","hot_score":2,"id":"undersystem","name":{"en":"UNDERSYSTEM","zh_Hans":"系统之下","zh_Hant":"系統之下"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"yxj","zh_Hans":"悠闲君","zh_Hant":"悠閒君"},"engine":"GameMaker","hot_score":1,"id":"vanish","name":{"en":"VANISHTALE Sans Fight","zh_Hans":"消逝传说衫斯战","zh_Hant":"消逝傳說衫斯戰"},"publish_time":"2026-07-09T04:17:02.275Z","version":"0.0.1"},{"author":{"en":"SegaSonic101","zh_Hans":"SegaSonic101","zh_Hant":"SegaSonic101"},"engine":"ClickTeam","hot_score":3,"id":"distrust2a","name":{"en":"DISTRUST 2 The Cooler Edition","zh_Hans":"信任全无2酷炫版","zh_Hant":"信任全無2酷炫版"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"dlw","zh_Hans":"德莱文","zh_Hant":"德萊文"},"engine":"GameMaker","hot_score":1,"id":"dlwsd","name":{"en":"SPACEDRIFT Sans Fight Phase2","zh_Hans":"星海之征衫斯战第二阶段","zh_Hant":"星海之徵衫斯戰第二階段"},"publish_time":"2026-06-19T06:32:00.948Z","version":"0.0.1"},{"author":{"en":"Xtalent","zh_Hans":"希希希土","zh_Hant":"希希希土"},"engine":"GameMaker","hot_score":3,"id":"deliriumofaeonsslinceecho","name":{"en":"Delirium of Aeons:Slince Echo","zh_Hans":"虚愁谵惘：无言回声","zh_Hant":"虛愁譫惘：無言回聲"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Cat Fighter","zh_Hans":"猫斗士","zh_Hant":"貓鬥士"},"engine":"GameMaker","hot_score":4,"id":"falsereset","name":{"en":"False Reset","zh_Hans":"虚假的重置","zh_Hant":"虛假的重置"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"zy","zh_Hans":"庄严的承诺","zh_Hant":"莊嚴的承諾"},"engine":"GameMaker","hot_score":8,"id":"deliriumofaeons","name":{"en":"Delirium of Aeons","zh_Hans":"虚惘衫斯战","zh_Hant":"虛惘衫斯戰"},"publish_time":"2026-04-28T04:09:40.421Z","version":"0.0.1"},{"author":{"en":"ym","zh_Hans":"夜明","zh_Hant":"夜明"},"engine":"GameMaker","hot_score":4,"id":"nightovertale","name":{"en":"NIGHTOVERTALE","zh_Hans":"夜明传说","zh_Hant":"夜明傳說"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"kokakola","zh_Hans":"可口可乐","zh_Hant":"可口可樂"},"engine":"GameMaker","hot_score":3,"id":"forestofes","name":{"en":"Forest of Eternal Samsara Gaster Fight","zh_Hans":"永恒轮回之森加斯特战","zh_Hant":"永恆輪迴之森加斯特戰"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"希希希土","zh_Hans":"希希希土","zh_Hant":"希希希土"},"engine":"GameMaker","hot_score":2,"id":"keeptale","name":{"en":"KEEPTALE Sans Fight","zh_Hans":"永续轮回衫斯战","zh_Hant":"永續輪迴衫斯戰"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"qk","zh_Hans":"秋裤","zh_Hant":"秋褲"},"engine":"GameMaker","hot_score":0,"id":"dtqk","name":{"en":"DUSTTRUST Sans Fight","zh_Hans":"余烬追忆衫斯战","zh_Hant":"餘燼追憶衫斯戰"},"publish_time":"2026-05-12T09:13:50.650Z","version":"0.0.1"},{"author":{"en":"Xx_Kimchi_xX","zh_Hans":"Xx_Kimchi_xX","zh_Hant":"Xx_Kimchi_xX"},"engine":"Scratch","hot_score":1,"id":"outspare","name":{"en":"OUTSPARE Sans Fight","zh_Hans":"域外赦免衫斯战","zh_Hant":"域外赦免衫斯戰"},"publish_time":"2026-03-25T14:13:07.230Z","version":"0.0.1"},{"author":{"en":"Randy Becker","zh_Hans":"Randy Becker","zh_Hant":"Randy Becker"},"engine":"GameMaker","hot_score":0,"id":"trueiabexe","name":{"en":"True lab.exe","zh_Hans":"真实验室.exe","zh_Hant":"真實驗室.exe"},"publish_time":"2026-03-18T15:03:56.167Z","version":"0.0.1"},{"author":{"en":"yxj","zh_Hans":"悠闲君","zh_Hant":"悠閒君"},"engine":"GameMaker","hot_score":24,"id":"overlawn","name":{"en":"Overlawn","zh_Hans":"终焉绿茵","zh_Hant":"終焉綠茵"},"publish_time":"2026-04-27T04:46:53.576Z","version":"0.0.1"},{"author":{"en":"Sulfacid","zh_Hans":"硫酸","zh_Hant":"硫酸"},"engine":"GameMaker","hot_score":4,"id":"overlawnold","name":{"en":"Overlawn (Outdated)","zh_Hans":"终焉绿茵（旧版）","zh_Hant":"終焉綠茵（舊版）"},"publish_time":"2021-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Gravity","zh_Hans":"Gravity","zh_Hant":"Gravity"},"engine":"GameMaker","hot_score":16,"id":"lastbreathresurrection","name":{"en":"LAST BREATH:Resurrection","zh_Hans":"终焉余息:涅槃","zh_Hant":"終焉餘息:涅槃"},"publish_time":"2026-06-15T10:38:23.171Z","version":"0.0.1"},{"author":{"en":"znm","zh_Hans":"早泥玛","zh_Hant":"早泥瑪"},"engine":"GameMaker","hot_score":2,"id":"swapswap","name":{"en":"SWAPSWAP Sans Fight","zh_Hans":"重塑乾坤衫斯战","zh_Hant":"重塑乾坤衫斯戰"},"publish_time":"2026-03-23T10:35:01.290Z","version":"0.0.1"},{"author":{"en":"ZmiennoCieplny","zh_Hans":"朱印豆腐","zh_Hant":"朱印豆腐"},"engine":"Create Your Frisk","hot_score":4,"id":"crstoryswapasriel","name":{"en":"CR!STORYSWAP Asriel Genocide Fight","zh_Hans":"朱印豆腐·故事反转艾斯利尔屠杀线战","zh_Hant":"朱印豆腐·故事反轉艾斯利爾屠殺線戰"},"publish_time":"2021-01-01T12:00:00Z","version":"0.0.2"},{"author":{"en":"Team Switched","zh_Hans":"转换团队","zh_Hant":"轉換團隊"},"engine":"GameMaker","hot_score":12,"id":"tsunderswap","name":{"en":"TS!UNDERSWAP","zh_Hans":"转换团队·反转之下","zh_Hant":"轉換團隊·反轉之下"},"publish_time":"2020-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"fdy","zh_Hans":"复读鸭","zh_Hant":"復讀鴨"},"engine":"Gamemaker","hot_score":5,"id":"tsunderswappapyrus","name":{"en":"TS!UNDERSWAP Papyrus Fight","zh_Hans":"转换团队·反转之下派帕瑞斯战","zh_Hant":"轉換團隊·反轉之下派帕瑞斯戰"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Snowstorm1011","zh_Hans":"Snowstorm1011","zh_Hant":"Snowstorm1011"},"engine":"GameMaker","hot_score":0,"id":"underswitchundyne","name":{"en":"UNDERSWITCH  Undye Fight","zh_Hans":"转换之下安黛因战","zh_Hant":"轉換之下安黛因戰"},"publish_time":"2026-05-16T08:39:02.527Z","version":"0.0.1"},{"author":{"en":"kokakola","zh_Hans":"可口可乐","zh_Hant":"可口可樂"},"engine":"GameMaker","hot_score":5,"id":"hideandseek","name":{"en":"HIDE and SEEK Jekyll Fight","zh_Hans":"捉迷藏杰基尔战","zh_Hant":"捉迷藏傑基爾戰"},"publish_time":"2026-04-30T05:14:48.945Z","version":"0.0.1"},{"author":{"en":"KongMing2403","zh_Hans":"空明2403","zh_Hant":"空明2403"},"engine":"Scratch","hot_score":3,"id":"ulbbuttheguru","name":{"en":"The Guru but ULB","zh_Hans":"尊師但是传说之下最后的呼吸","zh_Hant":"尊師但是傳說之下最後的呼吸"},"publish_time":"2026-03-19T13:24:35.737Z","version":"0.0.1"},{"author":{"en":"blt","zh_Hans":"柏拉图","zh_Hant":"柏拉圖"},"engine":"GameMaker","hot_score":1,"id":"bttale","name":{"en":"B-TTale-ESPE Pacifist Route Fight","zh_Hans":"B-TTale Espe和平线战","zh_Hant":"B-TTale Espe和平線戰"},"publish_time":"2026-06-20T13:36:51.912Z","version":"0.0.1"},{"author":{"en":"fdy & Sugar","zh_Hans":"复读鸭 & 砂糖-Sugar-","zh_Hant":"復讀鴨 & 砂糖-Sugar-"},"engine":"GameMaker","hot_score":2,"id":"bttaleespe","name":{"en":"B T-TALE Espe Fight","zh_Hans":"B-TTale Espe战","zh_Hant":"B-TTale Espe戰"},"publish_time":"2026-06-19T08:20:53.451Z","version":"0.0.1"},{"author":{"en":"ly","zh_Hans":"龙彦","zh_Hant":"龍彥"},"engine":"Scratch","hot_score":1,"id":"espe","name":{"en":"B T-TALE Espe Fight","zh_Hans":"B-TTale Espe战","zh_Hant":"B-TTale Espe戰"},"publish_time":"2026-06-30T09:40:41.168Z","version":"0.0.1"},{"author":{"en":"TML","zh_Hans":"糖萌芦","zh_Hant":"糖萌蘆"},"engine":"GameMaker","hot_score":1,"id":"btetml","name":{"en":"B-TTale Espe Fight","zh_Hans":"B-TTale Espe战","zh_Hant":"B-TTale Espe戰"},"publish_time":"2026-06-19T08:34:08.328Z","version":"0.0.1"},{"author":{"en":"LongQAVC","zh_Hans":"龙QAVC","zh_Hant":"龍QAVC"},"engine":"GameMaker","hot_score":2,"id":"changeswap","name":{"en":"CHANGEDSWAP Tiger Shark Fight","zh_Hans":"CHANGEDSWAP喵鲨战","zh_Hant":"CHANGEDSWAP喵鯊戰"},"publish_time":"2026-07-04T11:27:38.411Z","version":"0.0.1"},{"author":{"en":"yxj","zh_Hans":"悠闲君","zh_Hant":"悠閒君"},"engine":"GameMaker","hot_score":2,"id":"exptale","name":{"en":"EXPTALE","zh_Hans":"EXPTALE","zh_Hant":"EXPTALE"},"publish_time":"2021-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"DEL","zh_Hans":"DEL","zh_Hant":"DEL"},"engine":"Construct","hot_score":1,"id":"feelingchange","name":{"en":"FEELING CHANGE Sans Fight","zh_Hans":"FEELING CHANGE衫斯战","zh_Hant":"FEELING CHANGE衫斯戰"},"publish_time":"2026-07-02T14:35:08.437Z","version":"0.0.1"},{"author":{"en":"Holoboi3","zh_Hans":"Holoboi3","zh_Hant":"Holoboi3"},"engine":"Scratch","hot_score":5,"id":"halosdust","name":{"en":"Halo's DUSTBELIEF","zh_Hans":"Halo·尘埃不信","zh_Hant":"Halo·塵埃不信"},"publish_time":"2026-03-22T06:10:19.032Z","version":"0.0.1"},{"author":{"en":"Mehigh","zh_Hans":"Mehigh","zh_Hant":"Mehigh"},"engine":"ClickTeam","hot_score":1,"id":"idutshane","name":{"en":"IDUTSHANE","zh_Hans":"IDUTSHANE","zh_Hant":"IDUTSHANE"},"publish_time":"2026-04-04T10:26:05.645Z","version":"0.0.1"},{"author":{"en":"ck","zh_Hans":"参考","zh_Hant":"參考"},"engine":"Scratch","hot_score":1,"id":"idutshaneck","name":{"en":"IDUTSHANE","zh_Hans":"IDUTSHANE","zh_Hant":"IDUTSHANE"},"publish_time":"2026-03-22T12:22:50.081Z","version":"0.0.1"},{"author":{"en":"BLOODFIST","zh_Hans":"BLOODFIST","zh_Hant":"BLOODFIST"},"engine":"GameMaker","hot_score":5,"id":"lajupovania","name":{"en":"La Jupo Vania","zh_Hans":"La Jupo Vania","zh_Hant":"La Jupo Vania"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"a-rui-enu","zh_Hans":"a-rui-enu","zh_Hant":"a-rui-enu"},"engine":"Scratch","hot_score":1,"id":"lostd","name":{"en":"LOST DEPTHS Sans Fight","zh_Hans":"LOST DEPTHS衫斯战","zh_Hant":"LOST DEPTHS衫斯戰"},"publish_time":"2026-07-04T11:12:39.713Z","version":"0.0.1"},{"author":{"en":"Renewed Team","zh_Hans":"重组团队","zh_Hant":"重組團隊"},"engine":"Construct","hot_score":0,"id":"mctale","name":{"en":"MCTALE","zh_Hans":"MCTALE","zh_Hant":"MCTALE"},"publish_time":"2026-05-11T10:51:41.308Z","version":"0.0.1"},{"author":{"en":"InjectIng","zh_Hans":"注射","zh_Hant":"注射"},"engine":"GameMaker","hot_score":2,"id":"mirrorreverson3","name":{"en":"MirrorReverson 3rd","zh_Hans":"MirrorReverson第三周目","zh_Hant":"MirrorReverson第三周目"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"yxj","zh_Hans":"悠闲君","zh_Hant":"悠閒君"},"engine":"GameMaker","hot_score":1,"id":"mudera","name":{"en":"MurderA","zh_Hans":"MurderA","zh_Hant":"MurderA"},"publish_time":"2026-06-14T05:00:31.353Z","version":"0.0.1"},{"author":{"en":"Niheme","zh_Hans":"Niheme","zh_Hant":"Niheme"},"engine":"GameMaker","hot_score":2,"id":"nihemegame","name":{"en":"Niheme's Game","zh_Hans":"Niheme的游戏","zh_Hant":"Niheme的遊戲"},"publish_time":"2026-03-20T03:20:24.113Z","version":"0.0.1"},{"author":{"en":"fdy","zh_Hans":"复读鸭","zh_Hant":"復讀鴨"},"engine":"GameMaker","hot_score":12,"id":"oversavetale","name":{"en":"OVERSAVETALE","zh_Hans":"OVERSAVETALE","zh_Hant":"OVERSAVETALE"},"publish_time":"2022-01-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"fdy","zh_Hans":"复读鸭","zh_Hant":"復讀鴨"},"engine":"GameMaker","hot_score":7,"id":"oversavetaleasriel","name":{"en":"OVERSAVETALE Asriel Fight","zh_Hans":"OVERSAVETALE艾斯利尔战","zh_Hant":"OVERSAVETALE艾斯利爾戰"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"BLOODFIST & .MARCHEWA","zh_Hans":"BLOODFIST & .MARCHEWA","zh_Hant":"BLOODFIST & .MARCHEWA"},"engine":"GameMaker","hot_score":5,"id":"sansspielensepicmegalovania","name":{"en":"Sans Spielen's Epic Megalovania","zh_Hans":"Sans Spielen's Epic Megalovania","zh_Hant":"Sans Spielen's Epic Megalovania"},"publish_time":"2022-06-01T12:00:00Z","version":"0.0.1"},{"author":{"en":"Walar","zh_Hans":"Walar","zh_Hant":"Walar"},"engine":"GameMaker","hot_score":1,"id":"specialmysterious","name":{"en":"Special Mysterious","zh_Hans":"Special Mysterious","zh_Hant":"Special Mysterious"},"publish_time":"2026-06-14T05:18:46.236Z","version":"0.0.1"},{"author":{"en":"dlw","zh_Hans":"德莱文","zh_Hant":"德萊文"},"engine":"GameMaker","hot_score":1,"id":"dlwsmpy","name":{"en":"SMPY Sans Fight Phase2","zh_Hans":"SPMY衫斯战第二阶段","zh_Hant":"SPMY衫斯戰第二階段"},"publish_time":"2026-06-19T07:53:38.395Z","version":"0.0.1"},{"author":{"en":"Solor_1733","zh_Hans":"Solor_1733","zh_Hant":"Solor_1733"},"engine":"GameMaker","hot_score":16,"id":"hellobpm","name":{"en":"UNDERTALE:Hello (BPM) 2023","zh_Hans":"UNDERTALE:Hello (BPM) 2023","zh_Hant":"UNDERTALE:Hello (BPM) 2023"},"publish_time":"2026-04-30T05:50:32.129Z","version":"0.0.1"}],"newest_version":"1.4.0","update_log":{"en":"Add Traditional Chinese support","zh":"添加繁体支持","zh_Hans":"1.新增最新最热游戏榜单\n2.游戏列表添加缓存功能，防止加载不出","zh_Hant":"1.新增最新最熱遊戲榜單\n2.遊戲列表添加緩存功能，防止加載不出"}}
+{
+  "announcement": {
+    "en": "You need to download the 1.2.0+launcher to play CYF games.\nJoin our QQ Group: 1085278242",
+    "zh": "更新至1.4.0才能正确显示中文\nQQ群: 1085278242",
+    "zh_Hans": "只有下载1.2.0+版本才能正常游玩CYF游戏\n欢迎加入QQ群：1085278242",
+    "zh_Hant": "只有下載1.2.0+版本才能正常遊玩CYF遊戲\n歡迎加入QQ羣：1085278242"
+  },
+  "games": [
+    {
+      "author": {
+        "en": "Loris",
+        "zh_Hans": "洛白",
+        "zh_Hant": "洛白"
+      },
+      "engine": "GameMaker",
+      "hot_score": 13,
+      "id": "xtongxtong",
+      "name": {
+        "en": "[NO AU] XiaoTong Fight",
+        "zh_Hans": "【NO AU】小曈战",
+        "zh_Hant": "【NO AU】小曈戰"
+      },
+      "publish_time": "2026-03-19T12:41:20.342Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "alpha-player",
+        "zh_Hans": "alpha-player",
+        "zh_Hant": "alpha-player"
+      },
+      "engine": "Scratch",
+      "hot_score": 11,
+      "id": "alphasanssurvivalbattleii",
+      "name": {
+        "en": "Alpha Sans Survival Battle II",
+        "zh_Hans": "阿尔法衫斯生存战II",
+        "zh_Hant": "阿爾法衫斯生存戰II"
+      },
+      "publish_time": "2026-03-19T13:34:50.967Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Frost Mage",
+        "zh_Hans": "FM_极地闪光",
+        "zh_Hant": "FM_極地閃光"
+      },
+      "engine": "GameMaker",
+      "hot_score": 12,
+      "id": "etop4",
+      "name": {
+        "en": "Ending Time Octet Phase4",
+        "zh_Hans": "八重终结4阶段",
+        "zh_Hant": "八重終結4階段"
+      },
+      "publish_time": "2026-03-20T09:52:18.203Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Frost Mage",
+        "zh_Hans": "FM_极地闪光",
+        "zh_Hant": "FM_極地閃光"
+      },
+      "engine": "GameMaker",
+      "hot_score": 8,
+      "id": "etop6",
+      "name": {
+        "en": "Ending Time Octet P6 Sans Fight",
+        "zh_Hans": "八重终结第六阶段衫斯战",
+        "zh_Hant": "八重終結第六階段衫斯戰"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "LOKID",
+        "zh_Hans": "LOKID",
+        "zh_Hant": "LOKID"
+      },
+      "engine": "GameMaker",
+      "hot_score": 6,
+      "id": "etoins",
+      "name": {
+        "en": "Ending Time Octet Phase 3 Insanity",
+        "zh_Hans": "八重终结精神错乱拖延战",
+        "zh_Hant": "八重終結精神錯亂拖延戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "lm",
+        "zh_Hans": "黎梦",
+        "zh_Hant": "黎夢"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "eto3cotv",
+      "name": {
+        "en": "Ending Time Octet Phase3-COTV",
+        "zh_Hans": "八重终结三阶段-虚空召唤",
+        "zh_Hant": "八重終結三階段-虛空召喚"
+      },
+      "publish_time": "2026-07-09T13:46:01.776Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "MR_youtuber",
+        "zh_Hans": "MR_youtuber",
+        "zh_Hant": "MR_youtuber"
+      },
+      "engine": "GameMaker",
+      "hot_score": 24,
+      "id": "gemenatalesans",
+      "name": {
+        "en": "GEMENATALE Sans fight",
+        "zh_Hans": "宝石传说杉斯战",
+        "zh_Hant": "寶石傳說杉斯戰"
+      },
+      "publish_time": "2026-06-15T10:38:23.171Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "MR_youtuber",
+        "zh_Hans": "MR_youtuber",
+        "zh_Hant": "MR_youtuber"
+      },
+      "engine": "GameMaker",
+      "hot_score": 22,
+      "id": "gemenatalesansv",
+      "name": {
+        "en": "GEMENATALE Sans Fight V2",
+        "zh_Hans": "宝石传说杉斯战V2",
+        "zh_Hant": "寶石傳說杉斯戰V2"
+      },
+      "publish_time": "2026-06-15T10:38:23.171Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Xtalent",
+        "zh_Hans": "希希希土",
+        "zh_Hant": "希希希土"
+      },
+      "engine": "GameMaker",
+      "hot_score": 4,
+      "id": "edgeedge",
+      "name": {
+        "en": "Edgeedge",
+        "zh_Hans": "边缘之刃",
+        "zh_Hant": "邊緣之刃"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "loganvcairns",
+        "zh_Hans": "loganvcairns",
+        "zh_Hant": "loganvcairns"
+      },
+      "engine": "Scratch",
+      "hot_score": 8,
+      "id": "adifferentsnowgrave",
+      "name": {
+        "en": "A Different Snow Grave",
+        "zh_Hans": "不一样的雪葬",
+        "zh_Hant": "不一樣的雪葬"
+      },
+      "publish_time": "2026-05-12T09:11:23.221Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "zy",
+        "zh_Hans": "庄严的承诺",
+        "zh_Hant": "莊嚴的承諾"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 5,
+      "id": "underfellplan",
+      "name": {
+        "en": "UNDERFELL:Plan",
+        "zh_Hans": "残暴之下：计划",
+        "zh_Hant": "殘暴之下：計劃"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "loganvairns",
+        "zh_Hans": "loganvairns",
+        "zh_Hant": "loganvairns"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "ufohos",
+      "name": {
+        "en": "UNDERFELL:One Hell of a Show",
+        "zh_Hans": "残暴之下：精彩演出",
+        "zh_Hant": "殘暴之下：精彩演出"
+      },
+      "publish_time": "2026-03-19T15:53:28.448Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "GasBillt and Nochiksas",
+        "zh_Hans": "GasBillt and Nochiksas",
+        "zh_Hant": "GasBillt and Nochiksas"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "ufcof",
+      "name": {
+        "en": "UNDERFELL:Chains of Fate",
+        "zh_Hans": "残暴之下：命运之链",
+        "zh_Hant": "殘暴之下：命運之鏈"
+      },
+      "publish_time": "2026-07-04T10:47:52.962Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "MRT",
+        "zh_Hans": "MRT",
+        "zh_Hant": "MRT"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "glitc",
+      "name": {
+        "en": "GLITCHTALE Sans Fight",
+        "zh_Hans": "差错传说衫斯战",
+        "zh_Hant": "差錯傳說衫斯戰"
+      },
+      "publish_time": "2026-07-09T13:43:17.126Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "underplay",
+        "zh_Hans": "underplay",
+        "zh_Hant": "underplay"
+      },
+      "engine": "Scratch",
+      "hot_score": 6,
+      "id": "glitchtalesansfightsurvivai",
+      "name": {
+        "en": "GLITCHTALE Sans Fight Survival",
+        "zh_Hans": "差错传说衫斯战",
+        "zh_Hant": "差錯傳說衫斯戰"
+      },
+      "publish_time": "2026-04-21T08:47:49.504Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "OneZhaZha",
+        "zh_Hans": "一个渣渣",
+        "zh_Hant": "一個渣渣"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "overtimedeiifight",
+      "name": {
+        "en": "OVERTIME Dell Fight",
+        "zh_Hans": "超时模式戴尔战",
+        "zh_Hant": "超時模式戴爾戰"
+      },
+      "publish_time": "2026-05-26T09:43:39.066Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "OneZhaZha",
+        "zh_Hans": "一个渣渣",
+        "zh_Hant": "一個渣渣"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "overtimejane",
+      "name": {
+        "en": "OVERTIME Jane Fight",
+        "zh_Hans": "超时模式无名氏先生战",
+        "zh_Hant": "超時模式無名氏先生戰"
+      },
+      "publish_time": "2026-05-26T06:30:37.513Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Ari",
+        "zh_Hans": "Ari",
+        "zh_Hant": "Ari"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 3,
+      "id": "dustbeliefpapyrusfight",
+      "name": {
+        "en": "DUSTBELIEF Papyrus Fight",
+        "zh_Hans": "尘埃不信派帕瑞斯战",
+        "zh_Hant": "塵埃不信派帕瑞斯戰"
+      },
+      "publish_time": "2026-04-14T22:42:48.252Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "EeveeLing",
+        "zh_Hans": "灵伊布",
+        "zh_Hant": "靈伊布"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "evdustbelief",
+      "name": {
+        "en": "DUSTBELIEF Papyrus Fight",
+        "zh_Hans": "尘埃不信派帕瑞斯战",
+        "zh_Hant": "塵埃不信派帕瑞斯戰"
+      },
+      "publish_time": "2026-04-22T15:59:52.504Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "cq",
+        "zh_Hans": "传奇",
+        "zh_Hant": "傳奇"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "dbcq",
+      "name": {
+        "en": "DUSTBELIEF Papyrus Fight",
+        "zh_Hans": "尘埃不信派帕瑞斯战",
+        "zh_Hant": "塵埃不信派帕瑞斯戰"
+      },
+      "publish_time": "2026-06-19T08:14:57.975Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "EvanStreblow",
+        "zh_Hans": "EvanStreblow",
+        "zh_Hant": "EvanStreblow"
+      },
+      "engine": "Unity",
+      "hot_score": 6,
+      "id": "dusttale",
+      "name": {
+        "en": "DUSTTALE",
+        "zh_Hans": "尘埃传说",
+        "zh_Hant": "塵埃傳說"
+      },
+      "publish_time": "2026-04-17T05:20:37.284Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Ars",
+        "zh_Hans": "Ars",
+        "zh_Hant": "Ars"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "dtsrxj",
+      "name": {
+        "en": "DUSTTALE: the murderous comedy",
+        "zh_Hans": "尘埃传说：杀人喜剧",
+        "zh_Hant": "塵埃傳說：殺人喜劇"
+      },
+      "publish_time": "2026-07-05T05:46:46.874Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Frost Mage",
+        "zh_Hans": "FM_极地闪光",
+        "zh_Hant": "FM_極地閃光"
+      },
+      "engine": "GameMaker",
+      "hot_score": 9,
+      "id": "dtdiabolicalscheme",
+      "name": {
+        "en": "DUSTTALE:Diabolical Scheme",
+        "zh_Hans": "尘埃传说：死棋",
+        "zh_Hant": "塵埃傳說：死棋"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team DTLG",
+        "zh_Hans": "DTLG团队",
+        "zh_Hant": "DTLG團隊"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 3,
+      "id": "dusttalege",
+      "name": {
+        "en": "DUSTTALE:GENOCDIE'S END",
+        "zh_Hans": "尘埃传说：屠杀的终结",
+        "zh_Hant": "塵埃傳說：屠殺的終結"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ly",
+        "zh_Hans": "龙彦",
+        "zh_Hant": "龍彥"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "dtafg",
+      "name": {
+        "en": "DUSTTALE:Endgoal A Flawless Genocide Phase 2",
+        "zh_Hans": "尘埃传说：完美的种族灭绝第二阶段",
+        "zh_Hant": "塵埃傳說：完美的種族滅絕第二階段"
+      },
+      "publish_time": "2026-07-02T13:02:35.447Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team DTLG",
+        "zh_Hans": "DTLG团队",
+        "zh_Hant": "DTLG團隊"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 5,
+      "id": "dusttalelg",
+      "name": {
+        "en": "DUSTTALE:LAST GENOCIDE",
+        "zh_Hans": "尘埃传说：最后的屠杀",
+        "zh_Hant": "塵埃傳說：最後的屠殺"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Kosh",
+        "zh_Hans": "Kosh",
+        "zh_Hant": "Kosh"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "dtyga",
+      "name": {
+        "en": "DUSTTALE×少女A",
+        "zh_Hans": "尘埃传说×少女A",
+        "zh_Hant": "塵埃傳說×少女A"
+      },
+      "publish_time": "2026-05-12T12:08:06.975Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "XeroxRuler",
+        "zh_Hans": "XeroxRuler",
+        "zh_Hant": "XeroxRuler"
+      },
+      "engine": "GameMaker",
+      "hot_score": 6,
+      "id": "dusttalexrv1",
+      "name": {
+        "en": "DUSTTALE Sans Snowdin Encounter(V1)",
+        "zh_Hans": "尘埃传说衫斯雪镇遭遇战（V1）",
+        "zh_Hant": "塵埃傳說衫斯雪鎮遭遇戰（V1）"
+      },
+      "publish_time": "2021-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "XeroxRuler",
+        "zh_Hans": "XeroxRuler",
+        "zh_Hant": "XeroxRuler"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "dusttalexrv2",
+      "name": {
+        "en": "DUSTTALE Sans Snowdin Encounter(V2)",
+        "zh_Hans": "尘埃传说衫斯雪镇遭遇战（V2）",
+        "zh_Hant": "塵埃傳說衫斯雪鎮遭遇戰（V2）"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "fdy",
+        "zh_Hans": "复读鸭",
+        "zh_Hant": "復讀鴨"
+      },
+      "engine": "GameMaker",
+      "hot_score": 7,
+      "id": "dusttalefdy",
+      "name": {
+        "en": "DUSTTALE Sans Fight",
+        "zh_Hans": "尘埃传说衫斯战",
+        "zh_Hant": "塵埃傳說衫斯戰"
+      },
+      "publish_time": "2020-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Hazel",
+        "zh_Hans": "Hazel",
+        "zh_Hant": "Hazel"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "dtsc",
+      "name": {
+        "en": "DUSTTRUST",
+        "zh_Hans": "尘埃的信任",
+        "zh_Hant": "塵埃的信任"
+      },
+      "publish_time": "2026-07-06T06:43:48.222Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "skty",
+        "zh_Hans": "神坑天佑",
+        "zh_Hant": "神坑天佑"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 1,
+      "id": "dtskty",
+      "name": {
+        "en": "DUSTTRUST",
+        "zh_Hans": "尘埃的信任",
+        "zh_Hant": "塵埃的信任"
+      },
+      "publish_time": "2026-07-07T11:37:37.018Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "np",
+        "zh_Hans": "纳普",
+        "zh_Hant": "納普"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "dtnp",
+      "name": {
+        "en": "DUSTTRUST",
+        "zh_Hans": "尘埃的信任",
+        "zh_Hant": "塵埃的信任"
+      },
+      "publish_time": "2026-07-07T12:00:25.282Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Azzy",
+        "zh_Hans": "Azzy",
+        "zh_Hant": "Azzy"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "dtvan",
+      "name": {
+        "en": "DUSTTRUST: VANDALIZE",
+        "zh_Hans": "尘埃的信任：摧毁",
+        "zh_Hant": "塵埃的信任：摧毀"
+      },
+      "publish_time": "2026-07-06T06:14:41.134Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ilovecookies.",
+        "zh_Hans": "ilovecookies.",
+        "zh_Hant": "ilovecookies."
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "dtmr",
+      "name": {
+        "en": "DUSTTRUST：Rad Revision",
+        "zh_Hans": "尘埃的信任：精彩复现",
+        "zh_Hant": "塵埃的信任：精彩復現"
+      },
+      "publish_time": "2026-07-07T14:16:31.757Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Hide",
+        "zh_Hans": "Hide",
+        "zh_Hant": "Hide"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "dtr2",
+      "name": {
+        "en": "DUSTTRUST:Relic Sans Fight Phase2",
+        "zh_Hans": "尘埃的信任：遗迹衫斯战第二阶段",
+        "zh_Hant": "塵埃的信任：遺蹟衫斯戰第二階段"
+      },
+      "publish_time": "2026-05-12T05:28:04.222Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Hide",
+        "zh_Hans": "Hide",
+        "zh_Hant": "Hide"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "dtr1",
+      "name": {
+        "en": "DUSTTRUST:Relic Sans Fight Phase1",
+        "zh_Hans": "尘埃的信任：遗迹衫斯战第一阶段",
+        "zh_Hant": "塵埃的信任：遺蹟衫斯戰第一階段"
+      },
+      "publish_time": "2026-05-12T05:25:17.863Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Angel_Jerry & Aoe_SL439K",
+        "zh_Hans": "Angel_Jerry & Aoe_SL439K",
+        "zh_Hant": "Angel_Jerry & Aoe_SL439K"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "dtfinality",
+      "name": {
+        "en": "DUSTTRUST:Finality",
+        "zh_Hans": "尘埃的信任：终焉",
+        "zh_Hant": "塵埃的信任：終焉"
+      },
+      "publish_time": "2026-03-20T03:56:11.367Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "UTKB",
+        "zh_Hans": "疣体烤饼",
+        "zh_Hant": "疣體烤餅"
+      },
+      "engine": "Scratch",
+      "hot_score": 6,
+      "id": "dtutkb",
+      "name": {
+        "en": "DUSTTRUST:Finality",
+        "zh_Hans": "尘埃的信任：终焉",
+        "zh_Hant": "塵埃的信任：終焉"
+      },
+      "publish_time": "2026-04-27T13:23:06.485Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "DEL",
+        "zh_Hans": "DEL",
+        "zh_Hant": "DEL"
+      },
+      "engine": "Construct",
+      "hot_score": 6,
+      "id": "dusttrustfinal",
+      "name": {
+        "en": "DUSTTRUST:Finality",
+        "zh_Hans": "尘埃的信任：终焉",
+        "zh_Hant": "塵埃的信任：終焉"
+      },
+      "publish_time": "2026-04-29T05:26:12.572Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ck",
+        "zh": "ck",
+        "zh_Hans": "ck",
+        "zh_Hant": "ck"
+      },
+      "engine": "scratch",
+      "hot_score": 1,
+      "id": "dusttrustfinality",
+      "name": {
+        "en": "DUSTTRUST:Finality",
+        "zh": "尘埃的信任：终焉",
+        "zh_Hans": "尘埃的信任：终焉",
+        "zh_Hant": "塵埃的信任：終焉"
+      },
+      "publish_time": "2026-07-20T11:55:48.878Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "DEL",
+        "zh_Hans": "DEL",
+        "zh_Hant": "DEL"
+      },
+      "engine": "Construct",
+      "hot_score": 16,
+      "id": "dusttrustfinalitypapyrusencounter",
+      "name": {
+        "en": "DUSTTRUST:Finale Papyrus Encounter",
+        "zh_Hans": "尘埃的信任：终焉派帕瑞斯遭遇战",
+        "zh_Hant": "塵埃的信任：終焉派帕瑞斯遭遇戰"
+      },
+      "publish_time": "2026-06-21T13:50:04.262Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "RTF",
+        "zh_Hans": "RTF",
+        "zh_Hant": "RTF"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "undertalehqversion",
+      "name": {
+        "en": "DUSTTRUST Sans Fight All Phases",
+        "zh_Hans": "尘埃的信任衫斯战全阶段",
+        "zh_Hant": "塵埃的信任衫斯戰全階段"
+      },
+      "publish_time": "2026-05-16T07:01:06.051Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "kokakola",
+        "zh_Hans": "可口可乐",
+        "zh_Hant": "可口可樂"
+      },
+      "engine": "GameMaker",
+      "hot_score": 7,
+      "id": "dusttrustx",
+      "name": {
+        "en": "DUSTTRUST X",
+        "zh_Hans": "尘埃的信任X",
+        "zh_Hant": "塵埃的信任X"
+      },
+      "publish_time": "2026-03-22T06:10:19.032Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Azzy",
+        "zh_Hans": "Azzy",
+        "zh_Hant": "Azzy"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "dustswapdusttrust",
+      "name": {
+        "en": "Dustswap: Dusttrust Sans Fight",
+        "zh_Hans": "尘埃反转：尘埃的信任衫斯战",
+        "zh_Hant": "塵埃反轉：塵埃的信任衫斯戰"
+      },
+      "publish_time": "2026-03-22T06:10:19.032Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "plg",
+        "zh_Hans": "plg",
+        "zh_Hant": "plg"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "dsrevenge",
+      "name": {
+        "en": "DUSTSWAP:Revenge",
+        "zh_Hans": "尘埃反转：复仇",
+        "zh_Hant": "塵埃反轉：復仇"
+      },
+      "publish_time": "2026-05-13T14:05:19.760Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "BossHim",
+        "zh_Hans": "BossHim",
+        "zh_Hant": "BossHim"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "vhs",
+      "name": {
+        "en": "UNDERTALE:The Hackers End",
+        "zh_Hans": "传说之下: 黑客结局",
+        "zh_Hant": "傳說之下: 黑客結局"
+      },
+      "publish_time": "2026-07-09T15:12:49.879Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Clement-HU",
+        "zh_Hans": "Clement-HU",
+        "zh_Hant": "Clement-HU"
+      },
+      "engine": "SDL3",
+      "hot_score": 3,
+      "id": "utbetrayerhard",
+      "name": {
+        "en": "UNDERTALE:Betrayer Extreme hard mode",
+        "zh_Hans": "传说之下：背叛者极端困难模式",
+        "zh_Hant": "傳說之下：背叛者極端困難模式"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Lazy Bones Team",
+        "zh_Hans": "懒骨头团队",
+        "zh_Hant": "懶骨頭團隊"
+      },
+      "engine": "CreateYourFrisk",
+      "hot_score": 2,
+      "id": "uttfe",
+      "name": {
+        "en": "UNDERTALE:The Forgotten End",
+        "zh_Hans": "传说之下：被遗忘的结局",
+        "zh_Hant": "傳說之下：被遺忘的結局"
+      },
+      "publish_time": "2026-04-27T13:45:08.115Z",
+      "version": "0.0.2"
+    },
+    {
+      "author": {
+        "en": "wndfur",
+        "zh_Hans": "wndfur",
+        "zh_Hant": "wndfur"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "undertalecollapsed",
+      "name": {
+        "en": "UNDERTALE:Collapsed",
+        "zh_Hans": "传说之下：崩溃",
+        "zh_Hant": "傳說之下：崩潰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Icebound",
+        "zh_Hans": "冰封千里团队",
+        "zh_Hant": "冰封千裏團隊"
+      },
+      "engine": "Godot",
+      "hot_score": 7,
+      "id": "uticebound",
+      "name": {
+        "en": "UNDERTALE:Icebound",
+        "zh_Hans": "传说之下：冰封千里",
+        "zh_Hant": "傳說之下：冰封千裏"
+      },
+      "publish_time": "2023-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "DEL",
+        "zh_Hans": "DEL",
+        "zh_Hant": "DEL"
+      },
+      "engine": "Construct",
+      "hot_score": 1,
+      "id": "utpd",
+      "name": {
+        "en": "UNDERTALE:Promised. Sans Fight",
+        "zh_Hans": "传说之下：承诺杉斯战",
+        "zh_Hant": "傳說之下：承諾杉斯戰"
+      },
+      "publish_time": "2026-05-13T04:48:49.969Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "SubRaiN",
+        "zh_Hans": "SubRaiN",
+        "zh_Hant": "SubRaiN"
+      },
+      "engine": "Unreal Engine",
+      "hot_score": 7,
+      "id": "utjustbreathe",
+      "name": {
+        "en": "UNDERTALE: just breathe.",
+        "zh_Hans": "传说之下：放轻松，深呼吸。",
+        "zh_Hant": "傳說之下：放輕鬆，深呼吸。"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "BossHim",
+        "zh_Hans": "BossHim",
+        "zh_Hant": "BossHim"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "uttm",
+      "name": {
+        "en": "UNDERTALE:True Monsters",
+        "zh_Hans": "传说之下：膏肓怪疫",
+        "zh_Hant": "傳說之下：膏肓怪疫"
+      },
+      "publish_time": "2026-06-29T10:52:56.052Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "DEL",
+        "zh_Hans": "DEL",
+        "zh_Hant": "DEL"
+      },
+      "engine": "Construct",
+      "hot_score": 1,
+      "id": "utlh",
+      "name": {
+        "en": "UNDERTALE:Lonely Homeland Sans Fight",
+        "zh_Hans": "传说之下：孤寂故国杉斯战",
+        "zh_Hant": "傳說之下：孤寂故國杉斯戰"
+      },
+      "publish_time": "2026-05-12T12:20:05.913Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "RynoGG",
+        "zh_Hans": "RynoGG",
+        "zh_Hant": "RynoGG"
+      },
+      "engine": "Unity",
+      "hot_score": 0,
+      "id": "sansweapons",
+      "name": {
+        "en": "UNDERTALE: Skeletal Vengeance",
+        "zh_Hans": "传说之下：骸骨之仇",
+        "zh_Hant": "傳說之下：骸骨之仇"
+      },
+      "publish_time": "2026-04-23T04:56:21.153Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Undertale Red & Yellow",
+        "zh_Hans": "传说之下红与黄团队",
+        "zh_Hant": "傳說之下紅與黃團隊"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 23,
+      "id": "utry",
+      "name": {
+        "en": "UNDERTALE:Red & Yellow",
+        "zh_Hans": "传说之下：红与黄",
+        "zh_Hant": "傳說之下：紅與黃"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Lumpy Touch",
+        "zh_Hans": "Lumpy Touch",
+        "zh_Hant": "Lumpy Touch"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "utbms",
+      "name": {
+        "en": "UNDERTALE:Bad Monday Simulator",
+        "zh_Hans": "传说之下：坏周一模拟器",
+        "zh_Hant": "傳說之下：壞周一模擬器"
+      },
+      "publish_time": "2026-05-16T06:27:27.313Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Undertale Yellow",
+        "zh_Hans": "传说之下黄魂团队",
+        "zh_Hant": "傳說之下黃魂團隊"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 17,
+      "id": "utyellow",
+      "name": {
+        "en": "UNDERTALE:Yellow",
+        "zh_Hans": "传说之下：黄魂",
+        "zh_Hant": "傳說之下：黃魂"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Sil",
+        "zh_Hans": "Sil",
+        "zh_Hant": "Sil"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "siblingsredemption",
+      "name": {
+        "en": "UNDERTALE:Siblings Redemption",
+        "zh_Hans": "传说之下：伙伴赎回",
+        "zh_Hant": "傳說之下：夥伴贖回"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ThePieCat",
+        "zh_Hans": "ThePieCat",
+        "zh_Hant": "ThePieCat"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "undertaleholidayspecial",
+      "name": {
+        "en": "UNDERTALE：HOLIDAY SPECIAL",
+        "zh_Hans": "传说之下：假日特别版",
+        "zh_Hant": "傳說之下：假日特別版"
+      },
+      "publish_time": "2026-04-17T05:06:21.795Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Xtalent & dlw",
+        "zh_Hans": "希希希土 & 德莱文",
+        "zh_Hant": "希希希土 & 德萊文"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "undertalelast27hour",
+      "name": {
+        "en": "UNDERTALE:Last 27 hour",
+        "zh_Hans": "传说之下：迫在眉睫",
+        "zh_Hant": "傳說之下：迫在眉睫"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Walar",
+        "zh_Hans": "Walar",
+        "zh_Hant": "Walar"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "undertaiecocoonintobutterfiysansfight",
+      "name": {
+        "en": "Undertale:Cocoon Into Butterfly Sans Fight",
+        "zh_Hans": "传说之下：破茧成蝶衫斯战",
+        "zh_Hant": "傳說之下：破繭成蝶衫斯戰"
+      },
+      "publish_time": "2026-03-23T10:27:08.399Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "CorpseEchorGotta",
+        "zh": "CorpseEchorGotta",
+        "zh_Hans": "CorpseEchorGotta",
+        "zh_Hant": "CorpseEchorGotta"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 1,
+      "id": "undertaleshatteredsoulssansfight",
+      "name": {
+        "en": "UNDERTALE:Shattered Souls Sans Fight",
+        "zh": "传说之下:破碎之魂衫斯战",
+        "zh_Hans": "传说之下:破碎之魂衫斯战",
+        "zh_Hant": "傳說之下:破碎之魂衫斯戰"
+      },
+      "publish_time": "2026-07-18T02:20:12.275Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "OneCJ",
+        "zh_Hans": "一个蔡稽",
+        "zh_Hant": "一個蔡稽"
+      },
+      "engine": "Construct",
+      "hot_score": 5,
+      "id": "strongerthan",
+      "name": {
+        "en": "UNDERTALE:Stronger than You",
+        "zh_Hans": "传说之下：强大于你",
+        "zh_Hant": "傳說之下：強大於你"
+      },
+      "publish_time": "2026-03-25T13:48:16.569Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Cezar Andrade",
+        "zh_Hans": "Cezar Andrade",
+        "zh_Hant": "Cezar Andrade"
+      },
+      "engine": "Create Your Frisk",
+      "hot_score": 15,
+      "id": "undertaledisbelief",
+      "name": {
+        "en": "UNDERTALE:Disbelief",
+        "zh_Hans": "传说之下：全然不信",
+        "zh_Hant": "傳說之下：全然不信"
+      },
+      "publish_time": "2019-01-01T12:00:00Z",
+      "version": "0.0.2"
+    },
+    {
+      "author": {
+        "en": "FlamesAtGames",
+        "zh_Hans": "FlamesAtGames",
+        "zh_Hant": "FlamesAtGames"
+      },
+      "engine": "GameMaker",
+      "hot_score": 11,
+      "id": "disbeliefpapyrus",
+      "name": {
+        "en": "UNDERTALE:Disbelief",
+        "zh_Hans": "传说之下：全然不信",
+        "zh_Hant": "傳說之下：全然不信"
+      },
+      "publish_time": "2021-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "SoG / ACDD",
+        "zh_Hans": "SoG / ACDD",
+        "zh_Hant": "SoG / ACDD"
+      },
+      "engine": "Construct",
+      "hot_score": 4,
+      "id": "udbhcon",
+      "name": {
+        "en": "UNDERTALE:Disbelief Hard Mode",
+        "zh_Hans": "传说之下：全然不信困难模式",
+        "zh_Hant": "傳說之下：全然不信困難模式"
+      },
+      "publish_time": "2026-04-27T13:43:21.886Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Ari",
+        "zh_Hans": "Ari",
+        "zh_Hant": "Ari"
+      },
+      "engine": "CreateYourFrisk",
+      "hot_score": 4,
+      "id": "utph",
+      "name": {
+        "en": "UNDERTALE:Disbelief Hard Mode",
+        "zh_Hans": "传说之下：全然不信困难模式",
+        "zh_Hant": "傳說之下：全然不信困難模式"
+      },
+      "publish_time": "2026-04-28T09:25:50.479Z",
+      "version": "0.0.2"
+    },
+    {
+      "author": {
+        "en": "InstX",
+        "zh_Hans": "因斯特",
+        "zh_Hant": "因斯特"
+      },
+      "engine": "GameMaker",
+      "hot_score": 6,
+      "id": "undertaiebattieofaiicharacters",
+      "name": {
+        "en": "Undertale: Battle of All Characters",
+        "zh_Hans": "传说之下：全人物的战斗",
+        "zh_Hant": "傳說之下：全人物的戰鬥"
+      },
+      "publish_time": "2026-03-18T01:21:42.818Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Quasarel",
+        "zh_Hans": "Quasarel",
+        "zh_Hant": "Quasarel"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "utasgorequasarel",
+      "name": {
+        "en": "UNDERTALE:Genocide Asgore",
+        "zh_Hans": "传说之下：屠杀线艾斯戈尔",
+        "zh_Hant": "傳說之下：屠殺線艾斯戈爾"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Stryker & Quicksilvur",
+        "zh_Hans": "Stryker & Quicksilvur",
+        "zh_Hant": "Stryker & Quicksilvur"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 5,
+      "id": "utgenocideasgore",
+      "name": {
+        "en": "UNDERTALE:Genocide Asgore",
+        "zh_Hans": "传说之下：屠杀线艾斯戈尔",
+        "zh_Hant": "傳說之下：屠殺線艾斯戈爾"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "KongMing2403",
+        "zh_Hans": "空明2403",
+        "zh_Hant": "空明2403"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "utwxdxjl",
+      "name": {
+        "en": "UNDERTALE: Past, Present, Future Sans Fight",
+        "zh_Hans": "传说之下：往昔、当下、将来 衫斯战",
+        "zh_Hant": "傳說之下：往昔、當下、將來 衫斯戰"
+      },
+      "publish_time": "2026-07-05T06:34:58.611Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "OneCJ",
+        "zh_Hans": "一个蔡稽",
+        "zh_Hant": "一個蔡稽"
+      },
+      "engine": "Construct",
+      "hot_score": 6,
+      "id": "mylittleshark",
+      "name": {
+        "en": "My Little Shark",
+        "zh_Hans": "传说之下:小鲨鱼",
+        "zh_Hant": "傳說之下:小鯊魚"
+      },
+      "publish_time": "2021-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Azzy",
+        "zh_Hans": "Azzy",
+        "zh_Hant": "Azzy"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "utnewpal",
+      "name": {
+        "en": "UNDERTALE: new pal.",
+        "zh_Hans": "传说之下：新朋友",
+        "zh_Hant": "傳說之下：新朋友"
+      },
+      "publish_time": "2026-06-17T13:02:19.262Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Catfight",
+        "zh_Hans": "猫斗士",
+        "zh_Hant": "貓鬥士"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "utfr",
+      "name": {
+        "en": "UNDERTALE:Flase Reset",
+        "zh_Hans": "传说之下：虚假的重置",
+        "zh_Hant": "傳說之下：虛假的重置"
+      },
+      "publish_time": "2026-06-24T13:48:44.190Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "UNDERTALECOTVOFFICIAL",
+        "zh_Hans": "虚空召唤官方",
+        "zh_Hant": "虛空召喚官方"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 9,
+      "id": "undertalecalloftheyoid",
+      "name": {
+        "en": "UNDERTALE: CALL OF THE VOID",
+        "zh_Hans": "传说之下:虚空召唤",
+        "zh_Hant": "傳說之下:虛空召喚"
+      },
+      "publish_time": "2026-04-02T09:49:18.808Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Nihilism",
+        "zh_Hans": "虚无主义团队",
+        "zh_Hant": "虛無主義團隊"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 2,
+      "id": "utnihilism",
+      "name": {
+        "en": "UNDERTALE:Nihilism",
+        "zh_Hans": "传说之下：虚无主义",
+        "zh_Hant": "傳說之下：虛無主義"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Cloud_RRC",
+        "zh_Hans": "云玩家RRC",
+        "zh_Hant": "雲玩家RRC"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "utddd",
+      "name": {
+        "en": "UNDERTALE:Distorted Distinctive Destiny",
+        "zh_Hans": "传说之下：迂曲·迥异·运命",
+        "zh_Hant": "傳說之下：迂曲·迥異·運命"
+      },
+      "publish_time": "2026-06-22T09:04:34.397Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "znm",
+        "zh_Hans": "早泥玛",
+        "zh_Hant": "早泥瑪"
+      },
+      "engine": "GameMaker",
+      "hot_score": 6,
+      "id": "tearsintherain",
+      "name": {
+        "en": "UNDERTALE:Tears In The Rain",
+        "zh_Hans": "传说之下：雨中泪",
+        "zh_Hant": "傳說之下：雨中淚"
+      },
+      "publish_time": "2026-03-23T10:40:19.142Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Fired",
+        "zh_Hans": "Fired",
+        "zh_Hant": "Fired"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "uttitrf",
+      "name": {
+        "en": "UNDERTALE:Tears In The Rain Sans Fight",
+        "zh_Hans": "传说之下：雨中泪衫斯战",
+        "zh_Hant": "傳說之下：雨中淚衫斯戰"
+      },
+      "publish_time": "2026-05-13T13:18:05.051Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "avranik",
+        "zh_Hans": "avranik",
+        "zh_Hant": "avranik"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "undertalenmd",
+      "name": {
+        "en": "UNDERTALE:No More Deals",
+        "zh_Hans": "传说之下：再无交易",
+        "zh_Hant": "傳說之下：再無交易"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "yxj",
+        "zh_Hans": "悠闲君",
+        "zh_Hant": "悠閒君"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "undertaietruelabsansfight",
+      "name": {
+        "en": "Undertale: True Lab Sans Fight",
+        "zh_Hans": "传说之下：真实验室衫斯战",
+        "zh_Hant": "傳說之下：真實驗室衫斯戰"
+      },
+      "publish_time": "2026-04-17T05:17:32.292Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "YJDdod",
+        "zh_Hans": "YJDdod",
+        "zh_Hant": "YJDdod"
+      },
+      "engine": "GameMaker",
+      "hot_score": 9,
+      "id": "undertaieultimaterandom",
+      "name": {
+        "en": "Undertale: Ultimate Random",
+        "zh_Hans": "传说之下:终极随机",
+        "zh_Hant": "傳說之下:終極隨機"
+      },
+      "publish_time": "2026-04-04T02:19:00.709Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "猛知",
+        "zh_Hans": "猛知",
+        "zh_Hant": "猛知"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "undertalelast",
+      "name": {
+        "en": "UNDERTALE:Last Breath Sans Fight Phase2",
+        "zh_Hans": "传说之下：终焉余息衫斯战二阶段",
+        "zh_Hant": "傳說之下：終焉餘息衫斯戰二階段"
+      },
+      "publish_time": "2026-05-16T06:27:27.313Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "OneCJ",
+        "zh_Hans": "一个菜稽",
+        "zh_Hant": "一個菜稽"
+      },
+      "engine": "Construct",
+      "hot_score": 0,
+      "id": "suddenchanges",
+      "name": {
+        "en": "Sudden Changes Part1",
+        "zh_Hans": "传说之下：骤变第一部分",
+        "zh_Hant": "傳說之下：驟變第一部分"
+      },
+      "publish_time": "2026-05-11T07:57:06.705Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Last Breath",
+        "zh_Hans": "Team Last Breath",
+        "zh_Hant": "Team Last Breath"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 4,
+      "id": "ulbc",
+      "name": {
+        "en": "UNDERTALE:Last Breath",
+        "zh_Hans": "传说之下：最后的呼吸",
+        "zh_Hant": "傳說之下：最後的呼吸"
+      },
+      "publish_time": "2026-07-09T04:14:32.307Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "dlw",
+        "zh_Hans": "德莱文",
+        "zh_Hant": "德萊文"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "utnmdulb",
+      "name": {
+        "en": "UDNERTALE:Last Breath×No More Deals",
+        "zh_Hans": "传说之下：最后的呼吸×再无交易",
+        "zh_Hant": "傳說之下：最後的呼吸×再無交易"
+      },
+      "publish_time": "2026-06-19T07:56:10.278Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "BossHim",
+        "zh_Hans": "BossHim",
+        "zh_Hant": "BossHim"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "ulbp3",
+      "name": {
+        "en": "UNDERTALE:Last Breath Phase3",
+        "zh_Hans": "传说之下：最后的呼吸第三阶段",
+        "zh_Hant": "傳說之下：最後的呼吸第三階段"
+      },
+      "publish_time": "2026-07-02T13:21:28.167Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Last Breath",
+        "zh_Hans": "最后的呼吸团队",
+        "zh_Hant": "最後的呼吸團隊"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 35,
+      "id": "undertalelastbreath",
+      "name": {
+        "en": "UNDERTALE:Last Breath Retouched",
+        "zh_Hans": "传说之下：最后的呼吸修整版",
+        "zh_Hant": "傳說之下：最後的呼吸修整版"
+      },
+      "publish_time": "2026-07-09T04:14:32.306Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "craKed_Wolf",
+        "zh_Hans": "craKed_Wolf",
+        "zh_Hant": "craKed_Wolf"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 9,
+      "id": "undertalelastbreathrenewed",
+      "name": {
+        "en": "UNDERTALE:Last Breath Renewed",
+        "zh_Hans": "传说之下：最后的呼吸重置版",
+        "zh_Hant": "傳說之下：最後的呼吸重置版"
+      },
+      "publish_time": "2026-04-12T10:25:59.294Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "LUCASBROO3",
+        "zh_Hans": "LUCASBROO3",
+        "zh_Hant": "LUCASBROO3"
+      },
+      "engine": "Scratch",
+      "hot_score": 2,
+      "id": "finalexperiment",
+      "name": {
+        "en": "UNDERTALE:Final Experiment",
+        "zh_Hans": "传说之下：最终实验",
+        "zh_Hant": "傳說之下：最終實驗"
+      },
+      "publish_time": "2026-03-19T14:03:10.248Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "eru",
+        "zh_Hans": "eru",
+        "zh_Hant": "eru"
+      },
+      "engine": "Scratch",
+      "hot_score": 2,
+      "id": "utmkl",
+      "name": {
+        "en": "UNDERTALE×うそつきマカロン",
+        "zh_Hans": "传说之下×说谎的马卡龙",
+        "zh_Hant": "傳說之下×說謊的馬卡龍"
+      },
+      "publish_time": "2026-05-12T09:03:17.302Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Cupcake bruh",
+        "zh_Hans": "Cupcake bruh",
+        "zh_Hant": "Cupcake bruh"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 0,
+      "id": "utaf",
+      "name": {
+        "en": "UNDERTALE Alphys Fight",
+        "zh_Hans": "传说之下艾菲斯战",
+        "zh_Hant": "傳說之下艾菲斯戰"
+      },
+      "publish_time": "2026-05-13T13:07:11.101Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team SpiderWeb",
+        "zh_Hans": "蜘蛛网团队",
+        "zh_Hant": "蜘蛛網團隊"
+      },
+      "engine": "Godot",
+      "hot_score": 6,
+      "id": "revengespiderweb",
+      "name": {
+        "en": "UNDERTALE Revenge:The Unseen Ending",
+        "zh_Hans": "传说之下复仇：不可视结局",
+        "zh_Hant": "傳說之下復仇：不可視結局"
+      },
+      "publish_time": "2023-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team KDTM",
+        "zh_Hans": "KDTM团队",
+        "zh_Hant": "KDTM團隊"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "kdtmrevenge",
+      "name": {
+        "en": "UNDERTALE Revenge:The Unseen Ending",
+        "zh_Hans": "传说之下复仇：不可视结局",
+        "zh_Hant": "傳說之下復仇：不可視結局"
+      },
+      "publish_time": "2026-04-23T04:30:40.894Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Yuz_light",
+        "zh_Hans": "Yuz_light",
+        "zh_Hant": "Yuz_light"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "undertaiehardmodethefinaicorridorsansfight",
+      "name": {
+        "en": "Undertale Hard Mode: The Final Corridor Sans Fight",
+        "zh_Hans": "传说之下困难模式：最后的长廊衫斯战",
+        "zh_Hant": "傳說之下困難模式：最後的長廊衫斯戰"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "fdy",
+        "zh_Hans": "复读鸭",
+        "zh_Hant": "復讀鴨"
+      },
+      "engine": "GameMaker",
+      "hot_score": 6,
+      "id": "hardmodefdy",
+      "name": {
+        "en": "UNDERTALE Hard Mode Sans Fight",
+        "zh_Hans": "传说之下困难模式衫斯战",
+        "zh_Hant": "傳說之下困難模式衫斯戰"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "siki",
+        "zh_Hans": "siki",
+        "zh_Hant": "siki"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "hardmodesiki",
+      "name": {
+        "en": "UNDERTALE Hard Mode Sans Fight",
+        "zh_Hans": "传说之下困难模式衫斯战",
+        "zh_Hant": "傳說之下困難模式衫斯戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Undertale Green",
+        "zh_Hans": "传说之下绿魂团队",
+        "zh_Hant": "傳說之下綠魂團隊"
+      },
+      "engine": "GameMaker",
+      "hot_score": 6,
+      "id": "undertalegreen",
+      "name": {
+        "en": "UNDERTALE Green Act Zero: The Pre-Show",
+        "zh_Hans": "传说之下绿魂第零幕：预演",
+        "zh_Hant": "傳說之下綠魂第零幕：預演"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "qk",
+        "zh_Hans": "秋裤",
+        "zh_Hant": "秋褲"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "utsansqk",
+      "name": {
+        "en": "UNDERTALE Sans Fight Remake",
+        "zh_Hans": "传说之下衫斯战重制版",
+        "zh_Hant": "傳說之下衫斯戰重製版"
+      },
+      "publish_time": "2026-06-27T15:51:28.760Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ssc",
+        "zh_Hans": "ssc",
+        "zh_Hant": "ssc"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 3,
+      "id": "nexteratalesans",
+      "name": {
+        "en": "NEXTERATALE Sans Fight",
+        "zh_Hans": "次时代传说衫斯战",
+        "zh_Hant": "次時代傳說衫斯戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "BossHim",
+        "zh_Hans": "BossHim",
+        "zh_Hant": "BossHim"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "error404",
+      "name": {
+        "en": "Error404 Sans Fight",
+        "zh_Hans": "错误404衫斯战",
+        "zh_Hant": "錯誤404衫斯戰"
+      },
+      "publish_time": "2026-06-30T05:30:53.857Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "BossHim",
+        "zh_Hans": "BossHim",
+        "zh_Hant": "BossHim"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "errorsans",
+      "name": {
+        "en": "Error Sans Fight",
+        "zh_Hans": "错误衫斯战",
+        "zh_Hant": "錯誤衫斯戰"
+      },
+      "publish_time": "2026-06-29T10:53:52.724Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "zy",
+        "zh_Hans": "庄严的承诺",
+        "zh_Hant": "莊嚴的承諾"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "edgetale",
+      "name": {
+        "en": "EDGETALE",
+        "zh_Hans": "刀刃传说",
+        "zh_Hant": "刀刃傳說"
+      },
+      "publish_time": "2021-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ly",
+        "zh_Hans": "龙彦",
+        "zh_Hant": "龍彥"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "edgetalely",
+      "name": {
+        "en": "EDGETALE Sans Fight",
+        "zh_Hans": "刀刃传说衫斯战",
+        "zh_Hant": "刀刃傳說衫斯戰"
+      },
+      "publish_time": "2026-07-09T06:41:11.429Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Azzy",
+        "zh_Hans": "Azzy",
+        "zh_Hant": "Azzy"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "underswaprituaiofthemist",
+      "name": {
+        "en": "UNDERSWAP: Ritual Of The Mist",
+        "zh_Hans": "反转之下：迷雾祭典",
+        "zh_Hant": "反轉之下：迷霧祭典"
+      },
+      "publish_time": "2026-04-27T04:42:20.448Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ecstavis_tivity",
+        "zh_Hans": "ecstavis_tivity",
+        "zh_Hant": "ecstavis_tivity"
+      },
+      "engine": "Godot",
+      "hot_score": 0,
+      "id": "ustherekon",
+      "name": {
+        "en": "UNDERSWAP:The Rekoning",
+        "zh_Hans": "反转之下：审判日",
+        "zh_Hant": "反轉之下：審判日"
+      },
+      "publish_time": "2026-04-10T09:46:44.022Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "SubRaiN",
+        "zh_Hans": "SubRaiN",
+        "zh_Hant": "SubRaiN"
+      },
+      "engine": "Unreal Engine",
+      "hot_score": 4,
+      "id": "underswaptherekon",
+      "name": {
+        "en": "UNDERSWAP:The Reckoning RENEWED Papyrus Encounter",
+        "zh_Hans": "反转之下：审判日重制版帕派瑞斯遭遇战",
+        "zh_Hant": "反轉之下：審判日重製版帕派瑞斯遭遇戰"
+      },
+      "publish_time": "2026-03-25T11:47:49.706Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "cafechannel",
+        "zh_Hans": "猫猫",
+        "zh_Hant": "貓貓"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "dist",
+      "name": {
+        "en": "UNDERSWAP:Distrust",
+        "zh_Hans": "反转之下：信任全无",
+        "zh_Hant": "反轉之下：信任全無"
+      },
+      "publish_time": "2026-07-06T06:09:19.208Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "yjt",
+        "zh_Hans": "岳江涛",
+        "zh_Hant": "嶽江濤"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "eggwind",
+      "name": {
+        "en": "EGGWINDTALE Sans Fight",
+        "zh_Hans": "风卵传说衫斯战",
+        "zh_Hant": "風卵傳說衫斯戰"
+      },
+      "publish_time": "2021-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "QMF",
+        "zh_Hans": "起名废",
+        "zh_Hant": "起名廢"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 1,
+      "id": "dailylifepapy",
+      "name": {
+        "en": "DAILYLIFE Papyrus Fight",
+        "zh_Hans": "浮生若梦派帕瑞斯战",
+        "zh_Hant": "浮生若夢派帕瑞斯戰"
+      },
+      "publish_time": "2026-06-14T05:10:01.502Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "cq",
+        "zh_Hans": "传奇",
+        "zh_Hant": "傳奇"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "corruptionvoid",
+      "name": {
+        "en": "CORRUPTIONVOID Sans Fight",
+        "zh_Hans": "腐败无效衫斯战",
+        "zh_Hant": "腐敗無效衫斯戰"
+      },
+      "publish_time": "2026-05-13T13:37:22.729Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Epoli",
+        "zh_Hans": "Epoli",
+        "zh_Hant": "Epoli"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "storyshiftcorefight",
+      "name": {
+        "en": "STORYSHIFT:The CORE Encncounter",
+        "zh_Hans": "故事错乱：核心遭遇战",
+        "zh_Hant": "故事錯亂：核心遭遇戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Color",
+        "zh_Hans": "彩色团队",
+        "zh_Hant": "彩色團隊"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 4,
+      "id": "storyswapcolor",
+      "name": {
+        "en": "STORYSWAP Color Asriel Fight",
+        "zh_Hans": "故事反转：色彩艾斯利尔战",
+        "zh_Hant": "故事反轉：色彩艾斯利爾戰"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "saman",
+        "zh_Hans": "saman",
+        "zh_Hant": "saman"
+      },
+      "engine": "Create Your Frisk",
+      "hot_score": 2,
+      "id": "storyswapasrielc",
+      "name": {
+        "en": "STORYSWAP:Color Asriel Fight",
+        "zh_Hans": "故事反转：色彩艾斯利尔战",
+        "zh_Hant": "故事反轉：色彩艾斯利爾戰"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.2"
+    },
+    {
+      "author": {
+        "en": "IGB Team",
+        "zh_Hans": "IGB团队",
+        "zh_Hant": "IGB團隊"
+      },
+      "engine": "Create Your Frisk",
+      "hot_score": 7,
+      "id": "storyshiftfacingdemons",
+      "name": {
+        "en": "STORYSHIFT:Facing Demons",
+        "zh_Hans": "故事转换：直面恶魔",
+        "zh_Hant": "故事轉換：直面惡魔"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.2"
+    },
+    {
+      "author": {
+        "en": "鳩_",
+        "zh": "鳩_",
+        "zh_Hans": "鳩_",
+        "zh_Hant": "鳩_"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "storyshiftcharafight",
+      "name": {
+        "en": "STORYSHIFT Chara Fight",
+        "zh": "故事转换查拉战",
+        "zh_Hans": "故事转换查拉战",
+        "zh_Hant": "故事轉換查拉戰"
+      },
+      "publish_time": "2026-07-13T11:27:39.775Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "wdg",
+        "zh_Hans": "锅德勾",
+        "zh_Hant": "鍋德勾"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "spongeswapfell",
+      "name": {
+        "en": "SPONGESWAPFELL SpongeBob Fight",
+        "zh_Hans": "海绵反转残暴海绵财迷战",
+        "zh_Hant": "海綿反轉殘暴海綿財迷戰"
+      },
+      "publish_time": "2026-05-12T05:01:42.257Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Mr.Lincus",
+        "zh_Hans": "Mr.Lincus",
+        "zh_Hant": "Mr.Lincus"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 1,
+      "id": "spongeswap",
+      "name": {
+        "en": "SPONGESWAP SpongeBob Fight",
+        "zh_Hans": "海绵反转海绵宝宝战",
+        "zh_Hant": "海綿反轉海綿寶寶戰"
+      },
+      "publish_time": "2026-04-19T15:54:20.748Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "DEL",
+        "zh_Hans": "DEL",
+        "zh_Hant": "DEL"
+      },
+      "engine": "Construct",
+      "hot_score": 14,
+      "id": "spongeswapdel",
+      "name": {
+        "en": "SPONGESWAP SpongeBob Fight",
+        "zh_Hans": "海绵反转海绵宝宝战",
+        "zh_Hant": "海綿反轉海綿寶寶戰"
+      },
+      "publish_time": "2026-04-28T17:03:49.480Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "BossHim",
+        "zh_Hans": "BossHim",
+        "zh_Hant": "BossHim"
+      },
+      "engine": "Scratch",
+      "hot_score": 21,
+      "id": "demoroaringknightcrossover",
+      "name": {
+        "en": "Roaring Knight: Crossover",
+        "zh_Hans": "呼啸骑士: 跨界",
+        "zh_Hant": "呼嘯騎士: 跨界"
+      },
+      "publish_time": "2026-06-29T10:52:56.052Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "BenLabno",
+        "zh_Hans": "BenLabno",
+        "zh_Hant": "BenLabno"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "dusktale",
+      "name": {
+        "en": "DUSKTALE",
+        "zh_Hans": "黄昏传说",
+        "zh_Hant": "黃昏傳說"
+      },
+      "publish_time": "2026-07-07T04:13:36.292Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Sulfacid & Walar",
+        "zh_Hans": "硫酸 & Walar",
+        "zh_Hant": "硫酸 & Walar"
+      },
+      "engine": "GameMaker",
+      "hot_score": 8,
+      "id": "chaosendasrielfight",
+      "name": {
+        "en": "Chaos'End",
+        "zh_Hans": "混沌终章",
+        "zh_Hant": "混沌終章"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "T-mas",
+        "zh_Hans": "T大",
+        "zh_Hant": "T大"
+      },
+      "engine": "MonoGames",
+      "hot_score": 0,
+      "id": "rhythmrecall",
+      "name": {
+        "en": "Rhythm Recall",
+        "zh_Hans": "节奏召回",
+        "zh_Hant": "節奏召回"
+      },
+      "publish_time": "2026-05-16T07:22:33.859Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "lqy",
+        "zh_Hans": "罗轻焉",
+        "zh_Hant": "羅輕焉"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "reliefloamei",
+      "name": {
+        "en": "RELIEFTALE  Sans Fight",
+        "zh_Hans": "解脱传说老妹战",
+        "zh_Hant": "解脫傳說老妹戰"
+      },
+      "publish_time": "2026-05-11T10:45:49.886Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "seanjapan",
+        "zh_Hans": "seanjapan",
+        "zh_Hant": "seanjapan"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "crystalsoulstale",
+      "name": {
+        "en": "CRYSTALSOULSTALE Sans Fight",
+        "zh_Hans": "晶魂传说衫斯战",
+        "zh_Hant": "晶魂傳說衫斯戰"
+      },
+      "publish_time": "2026-07-05T06:26:22.733Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "znm & kokakola",
+        "zh_Hans": "早泥玛 & 可口可乐",
+        "zh_Hant": "早泥瑪 & 可口可樂"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "sirensans",
+      "name": {
+        "en": "Siren Sans Fight",
+        "zh_Hans": "警笛头衫斯",
+        "zh_Hant": "警笛頭衫斯"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "charaYTsab",
+        "zh_Hans": "charaYTsab",
+        "zh_Hant": "charaYTsab"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "jhz",
+      "name": {
+        "en": "Kyouka Fight",
+        "zh_Hans": "鏡花戦",
+        "zh_Hant": "鏡花戦"
+      },
+      "publish_time": "2026-07-05T08:37:49.025Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Colossus",
+        "zh_Hans": "巨像团队",
+        "zh_Hant": "巨像團隊"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "tcunderfell",
+      "name": {
+        "en": "TC!UNDERFELL",
+        "zh_Hans": "巨像团队·残暴之下",
+        "zh_Hant": "巨像團隊·殘暴之下"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "EeveeLing",
+        "zh_Hans": "灵伊布",
+        "zh_Hant": "靈伊布"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "underchoicesans",
+      "name": {
+        "en": "UNDERCHOICE Sans Fight",
+        "zh_Hans": "抉择之下衫斯战",
+        "zh_Hant": "抉擇之下衫斯戰"
+      },
+      "publish_time": "2026-04-22T12:43:24.585Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "InstX",
+        "zh_Hans": "因斯特",
+        "zh_Hant": "因斯特"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "endingtalesans",
+      "name": {
+        "en": "ENDINGTALE Sans Fight",
+        "zh_Hans": "绝境传说衫斯战",
+        "zh_Hant": "絕境傳說衫斯戰"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "OneZhaZha",
+        "zh_Hans": "一个渣渣",
+        "zh_Hant": "一個渣渣"
+      },
+      "engine": "GameMaker",
+      "hot_score": 6,
+      "id": "endingtaleonezhazha",
+      "name": {
+        "en": "ENDINGTALE Sans Fight",
+        "zh_Hans": "绝境传说衫斯战",
+        "zh_Hant": "絕境傳說衫斯戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ly",
+        "zh_Hans": "龙彦",
+        "zh_Hant": "龍彥"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "endingtalely",
+      "name": {
+        "en": "ENDINGTALE Sans Fight",
+        "zh_Hans": "绝境传说衫斯战",
+        "zh_Hant": "絕境傳說衫斯戰"
+      },
+      "publish_time": "2026-07-04T15:01:46.779Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "HTTG Team",
+        "zh_Hans": "HTTG工作室",
+        "zh_Hant": "HTTG工作室"
+      },
+      "engine": "GameMaker",
+      "hot_score": 14,
+      "id": "horrortalechapterone",
+      "name": {
+        "en": "HORRORTALE",
+        "zh_Hans": "恐惧传说",
+        "zh_Hant": "恐懼傳說"
+      },
+      "publish_time": "2020-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "EeveeLing",
+        "zh_Hans": "灵伊布",
+        "zh_Hant": "靈伊布"
+      },
+      "engine": "Flash",
+      "hot_score": 7,
+      "id": "horrorsansbattle",
+      "name": {
+        "en": "HORRORTALE Sans Fight",
+        "zh_Hans": "恐惧传说衫斯战",
+        "zh_Hant": "恐懼傳說衫斯戰"
+      },
+      "publish_time": "2019-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Ale",
+        "zh_Hans": "Ale",
+        "zh_Hant": "Ale"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 5,
+      "id": "greensans",
+      "name": {
+        "en": "Green Sans Fight",
+        "zh_Hans": "绿色衫斯战",
+        "zh_Hant": "綠色衫斯戰"
+      },
+      "publish_time": "2021-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ly",
+        "zh_Hans": "龙彦",
+        "zh_Hant": "龍彥"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "scorntale",
+      "name": {
+        "en": "SCORNTALE Sans Fight",
+        "zh_Hans": "蔑视传说衫斯战",
+        "zh_Hant": "蔑視傳說衫斯戰"
+      },
+      "publish_time": "2026-06-20T11:33:02.168Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "zy",
+        "zh_Hans": "庄严的承诺",
+        "zh_Hant": "莊嚴的承諾"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "modernswapsans",
+      "name": {
+        "en": "MODERNSWAP Rogers Fight",
+        "zh_Hans": "摩登反转罗杰斯战",
+        "zh_Hant": "摩登反轉羅傑斯戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "System&ZeroXilo&Crosu",
+        "zh_Hans": "我素系统&调零修罗&南省",
+        "zh_Hant": "我素系統&調零修羅&南省"
+      },
+      "engine": "GameMaker",
+      "hot_score": 21,
+      "id": "inksans",
+      "name": {
+        "en": "INK!SANS Fight",
+        "zh_Hans": "墨水衫斯战",
+        "zh_Hant": "墨水衫斯戰"
+      },
+      "publish_time": "2020-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "yx",
+        "zh_Hans": "雨心",
+        "zh_Hant": "雨心"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 13,
+      "id": "yxinksans",
+      "name": {
+        "en": "INK!SANS Fight",
+        "zh_Hans": "墨水衫斯战",
+        "zh_Hant": "墨水衫斯戰"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "zy",
+        "zh_Hans": "庄严的承诺",
+        "zh_Hant": "莊嚴的承諾"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "inksansp3zy",
+      "name": {
+        "en": "INK!SANS Fight p3 SHANGHAIVANIA",
+        "zh_Hans": "墨水衫斯战第三阶段",
+        "zh_Hant": "墨水衫斯戰第三階段"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "System&ZeroXilo&Crosu&Dualremix",
+        "zh_Hans": "我素系统&调零修罗&南省&Dualremix",
+        "zh_Hant": "我素系統&調零修羅&南省&Dualremix"
+      },
+      "engine": "GameMaker",
+      "hot_score": 8,
+      "id": "inksansbeta",
+      "name": {
+        "en": "INK!SANS Fight Verioson β",
+        "zh_Hans": "墨水衫斯战β版",
+        "zh_Hant": "墨水衫斯戰β版"
+      },
+      "publish_time": "2021-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "kokakola",
+        "zh_Hans": "可口可乐",
+        "zh_Hant": "可口可樂"
+      },
+      "engine": "GameMaker",
+      "hot_score": 6,
+      "id": "yournightmare",
+      "name": {
+        "en": "Your NIghtmare Chara Fight",
+        "zh_Hans": "你的梦魇查拉战",
+        "zh_Hant": "你的夢魘查拉戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.2"
+    },
+    {
+      "author": {
+        "en": "barkScript",
+        "zh_Hans": "barkScript",
+        "zh_Hant": "barkScript"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "yourbestnightmare",
+      "name": {
+        "en": "Your Best Nightmare Remake",
+        "zh_Hans": "你最好的梦魇重制版",
+        "zh_Hant": "你最好的夢魘重製版"
+      },
+      "publish_time": "2026-03-19T13:45:33.838Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Dorked",
+        "zh_Hans": "Dorked",
+        "zh_Hant": "Dorked"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "invertedfatereg",
+      "name": {
+        "en": "Inverted Fate:Regret",
+        "zh_Hans": "逆天改命：懊悔",
+        "zh_Hant": "逆天改命：懊悔"
+      },
+      "publish_time": "2026-03-20T02:35:12.654Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Dorked",
+        "zh_Hans": "Dorked",
+        "zh_Hant": "Dorked"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "invertedfateap",
+      "name": {
+        "en": "Inverted Fate:Weavering Spirit",
+        "zh_Hans": "逆天改命：动摇的意志",
+        "zh_Hant": "逆天改命：動搖的意志"
+      },
+      "publish_time": "2026-03-19T15:40:11.887Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Dorked",
+        "zh_Hans": "Dorked",
+        "zh_Hant": "Dorked"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "invertedfatemtt",
+      "name": {
+        "en": "Inverted Fate: Rise, Mettaton SPIRAL!",
+        "zh_Hans": "逆天改命：崛起吧，镁塔顿螺旋型！",
+        "zh_Hant": "逆天改命：崛起吧，鎂塔頓螺旋型！"
+      },
+      "publish_time": "2026-03-19T15:28:51.516Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Dorked",
+        "zh_Hans": "Dorked",
+        "zh_Hant": "Dorked"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "invertedfateso",
+      "name": {
+        "en": "Inverted Fate Soul-Splitting Fury",
+        "zh_Hans": "逆天改命：撕心之怒",
+        "zh_Hant": "逆天改命：撕心之怒"
+      },
+      "publish_time": "2026-03-20T02:59:37.847Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Dorked",
+        "zh_Hans": "Dorked",
+        "zh_Hant": "Dorked"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "invertedfatenull",
+      "name": {
+        "en": "Inverted Fate:null_1",
+        "zh_Hans": "逆天改命：虚无_1",
+        "zh_Hant": "逆天改命：虛無_1"
+      },
+      "publish_time": "2026-03-20T02:20:03.054Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Dorked",
+        "zh_Hans": "Dorked",
+        "zh_Hant": "Dorked"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "invertedfatefc",
+      "name": {
+        "en": "Inverted Fate:Fallen Crown",
+        "zh_Hans": "逆天改命：陨落之冠",
+        "zh_Hant": "逆天改命：隕落之冠"
+      },
+      "publish_time": "2026-03-19T15:39:28.877Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Uralisimus",
+        "zh_Hans": "Uralisimus",
+        "zh_Hant": "Uralisimus"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 2,
+      "id": "invertedfatepap",
+      "name": {
+        "en": "Inverted Fate Papyrus Survival Fight",
+        "zh_Hans": "逆天改命派帕瑞斯生存战",
+        "zh_Hant": "逆天改命派帕瑞斯生存戰"
+      },
+      "publish_time": "2026-03-20T02:02:46.483Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "TheWither",
+        "zh_Hans": "凄叶",
+        "zh_Hant": "悽葉"
+      },
+      "engine": "Scratch",
+      "hot_score": 3,
+      "id": "roiibm",
+      "name": {
+        "en": "Reincarnation Octette UBM Sans Fight",
+        "zh_Hans": "涅槃八形UBM!Sans拖延战",
+        "zh_Hant": "涅槃八形UBM!Sans拖延戰"
+      },
+      "publish_time": "2026-05-12T10:41:42.137Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "AleAtorio3",
+        "zh_Hans": "AleAtorio3",
+        "zh_Hant": "AleAtorio3"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 3,
+      "id": "undertalepapyrushasgonetoofar",
+      "name": {
+        "en": "Papyrus Has Gone Too Far",
+        "zh_Hans": "帕派瑞斯已经走得太远了",
+        "zh_Hant": "帕派瑞斯已經走得太遠了"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "kokakola",
+        "zh_Hans": "可口可乐",
+        "zh_Hant": "可口可樂"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "traveleratsunset",
+      "name": {
+        "en": "Lifefield:Traveler At Sunset Sans Fight",
+        "zh_Hans": "魄殁无功：星光枯草衫斯战",
+        "zh_Hant": "魄歿無功：星光枯草衫斯戰"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "znm",
+        "zh_Hans": "早泥玛",
+        "zh_Hant": "早泥瑪"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "ordinarytale",
+      "name": {
+        "en": "ORDINARYTALE Sans Fight",
+        "zh_Hans": "普通传说衫斯战",
+        "zh_Hant": "普通傳說衫斯戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team Origin",
+        "zh_Hans": "起源团队",
+        "zh_Hant": "起源團隊"
+      },
+      "engine": "GameMaker",
+      "hot_score": 11,
+      "id": "toinksans",
+      "name": {
+        "en": "TO!INK SANS Fight",
+        "zh_Hans": "起源团队·墨水衫斯战（灯泡版）",
+        "zh_Hant": "起源團隊·墨水衫斯戰（燈泡版）"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "MR_youtuber",
+        "zh_Hans": "MR_youtuber",
+        "zh_Hant": "MR_youtuber"
+      },
+      "engine": "GameMaker",
+      "hot_score": 32,
+      "id": "aoharuduo",
+      "name": {
+        "en": "AOHARU DUO",
+        "zh_Hans": "青春二重奏",
+        "zh_Hant": "青春二重奏"
+      },
+      "publish_time": "2026-06-15T10:38:23.171Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "aamakuruu",
+        "zh_Hans": "aamakuruu",
+        "zh_Hant": "aamakuruu"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 2,
+      "id": "sparethemup",
+      "name": {
+        "en": "Spare 'em Up",
+        "zh_Hans": "全部饶恕",
+        "zh_Hant": "全部饒恕"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Lemon360",
+        "zh_Hans": "Lemon360",
+        "zh_Hant": "Lemon360"
+      },
+      "engine": "Scratch",
+      "hot_score": 2,
+      "id": "shineofblade",
+      "name": {
+        "en": "Shine of Blade Nail Sans Fight",
+        "zh_Hans": "刃之闪耀骨钉衫斯战",
+        "zh_Hant": "刃之閃耀骨釘衫斯戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Kosh",
+        "zh_Hans": "Kosh",
+        "zh_Hant": "Kosh"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "inkjpsansfight",
+      "name": {
+        "en": "INK-JP Sans Fight",
+        "zh_Hans": "日本·墨水衫斯战",
+        "zh_Hant": "日本·墨水衫斯戰"
+      },
+      "publish_time": "2026-03-25T13:52:55.733Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Simbel",
+        "zh_Hans": "Simbel",
+        "zh_Hant": "Simbel"
+      },
+      "engine": "LOVE2D",
+      "hot_score": 7,
+      "id": "drfrozenheart",
+      "name": {
+        "en": "Deltarune:Frozen Heart",
+        "zh_Hans": "三角符文：冰冻之心",
+        "zh_Hant": "三角符文：冰凍之心"
+      },
+      "publish_time": "2026-03-28T12:31:14.588Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "duskkii",
+        "zh_Hans": "duskkii",
+        "zh_Hant": "duskkii"
+      },
+      "engine": "Love2D",
+      "hot_score": 0,
+      "id": "dr",
+      "name": {
+        "en": "DELTARUNE:Frostveil",
+        "zh_Hans": "三角符文：冰霜帷幕",
+        "zh_Hant": "三角符文：冰霜帷幕"
+      },
+      "publish_time": "2026-06-21T13:41:54.463Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "uprank",
+        "zh_Hans": "uprank",
+        "zh_Hant": "uprank"
+      },
+      "engine": "Unity",
+      "hot_score": 4,
+      "id": "drhypothesis",
+      "name": {
+        "en": "Deltarune:Hypothesis",
+        "zh_Hans": "三角符文：猜想模拟器",
+        "zh_Hant": "三角符文：猜想模擬器"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Agentalex9",
+        "zh_Hans": "Agentalex9",
+        "zh_Hant": "Agentalex9"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 5,
+      "id": "drfunmodechaosedition",
+      "name": {
+        "en": "Deltarune:Fun Mode Chaos Edition",
+        "zh_Hans": "三角符文：欢乐混沌Jevil",
+        "zh_Hant": "三角符文：歡樂混沌Jevil"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Sad Bread",
+        "zh_Hans": "Sad Bread",
+        "zh_Hant": "Sad Bread"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 5,
+      "id": "spamtonrestitched",
+      "name": {
+        "en": "Deltarune:Spamton Restitched",
+        "zh_Hans": "三角符文：斯潘顿重组",
+        "zh_Hant": "三角符文：斯潘頓重組"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Sad Bread",
+        "zh_Hans": "Sad Bread",
+        "zh_Hant": "Sad Bread"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 4,
+      "id": "scamptonthegreat",
+      "name": {
+        "en": "Deltarune:Scampon the Great",
+        "zh_Hans": "三角符文：伟大的斯骗顿",
+        "zh_Hant": "三角符文：偉大的斯騙頓"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "auriwerm",
+        "zh": "auriwerm",
+        "zh_Hans": "auriwerm",
+        "zh_Hant": "auriwerm"
+      },
+      "engine": "Love2D",
+      "hot_score": 0,
+      "id": "deltarunefriendless",
+      "name": {
+        "en": "DELTARUNE:Friendless",
+        "zh": "三角符文：友尽",
+        "zh_Hans": "三角符文：友尽",
+        "zh_Hant": "三角符文：友盡"
+      },
+      "publish_time": "2026-07-17T12:01:27.119Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "The Winterer & Sad bread",
+        "zh_Hans": "The Winterer & Sad bread",
+        "zh_Hant": "The Winterer & Sad bread"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 4,
+      "id": "drupperhand",
+      "name": {
+        "en": "Deltarune:Upper Hand",
+        "zh_Hans": "三角符文：只手遮天",
+        "zh_Hant": "三角符文：隻手遮天"
+      },
+      "publish_time": "2023-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Leko",
+        "zh_Hans": "Leko",
+        "zh_Hant": "Leko"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 5,
+      "id": "drchaser",
+      "name": {
+        "en": "Deltarune:Chaser",
+        "zh_Hans": "三角符文：追逐者",
+        "zh_Hant": "三角符文：追逐者"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Kais-sans",
+        "zh_Hans": "Kais-sans",
+        "zh_Hant": "Kais-sans"
+      },
+      "engine": "Godot",
+      "hot_score": 0,
+      "id": "drvssans",
+      "name": {
+        "en": "Deltarune Chapter5:Vs Sans",
+        "zh_Hans": "三角符文第五章：对战衫斯",
+        "zh_Hant": "三角符文第五章：對戰衫斯"
+      },
+      "publish_time": "2026-05-13T12:38:33.006Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Edel Fujimoto",
+        "zh_Hans": "Edel Fujimoto",
+        "zh_Hant": "Edel Fujimoto"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 12,
+      "id": "drfriskfight",
+      "name": {
+        "en": "Deltarune Frisk Battle:Birth of Games and Memories",
+        "zh_Hans": "三角符文弗里斯克战：游戏与记忆的起源",
+        "zh_Hant": "三角符文弗裏斯克戰：遊戲與記憶的起源"
+      },
+      "publish_time": "2026-04-27T04:59:09.126Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "VyletBunni",
+        "zh_Hans": "VyletBunni",
+        "zh_Hant": "VyletBunni"
+      },
+      "engine": "Unity",
+      "hot_score": 14,
+      "id": "deltatraveler",
+      "name": {
+        "en": "DELTATRAVELER",
+        "zh_Hans": "三角旅者",
+        "zh_Hant": "三角旅者"
+      },
+      "publish_time": "2021-10-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Tien",
+        "zh_Hans": "Tien",
+        "zh_Hant": "Tien"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "thetriosquabble",
+      "name": {
+        "en": "The Trio Squabble",
+        "zh_Hans": "三重裁决",
+        "zh_Hant": "三重裁決"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Kosh",
+        "zh_Hans": "Kosh",
+        "zh_Hant": "Kosh"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "badtimetrio",
+      "name": {
+        "en": "Bad Time Trio",
+        "zh_Hans": "三重坏时光",
+        "zh_Hant": "三重壞時光"
+      },
+      "publish_time": "2026-03-23T13:44:11.126Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team LEAKED",
+        "zh_Hans": "LEAKED团队",
+        "zh_Hant": "LEAKED團隊"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 19,
+      "id": "badtimetriov2",
+      "name": {
+        "en": "Bad Time Trio",
+        "zh_Hans": "三重坏时光",
+        "zh_Hant": "三重壞時光"
+      },
+      "publish_time": "2021-11-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "fdy",
+        "zh_Hans": "复读鸭",
+        "zh_Hant": "復讀鴨"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "bttfdy",
+      "name": {
+        "en": "Bad Time Trio",
+        "zh_Hans": "三重坏时光",
+        "zh_Hant": "三重壞時光"
+      },
+      "publish_time": "2026-04-27T12:58:15.588Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ck",
+        "zh_Hans": "参考",
+        "zh_Hant": "參考"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "bttck",
+      "name": {
+        "en": "Bad Time Trio",
+        "zh_Hans": "三重坏时光",
+        "zh_Hant": "三重壞時光"
+      },
+      "publish_time": "2026-07-05T05:58:31.212Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Team LEAKED",
+        "zh_Hans": "LEAKED团队",
+        "zh_Hant": "LEAKED團隊"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 11,
+      "id": "badtimetriov1",
+      "name": {
+        "en": "Bad Time Trio (Old)",
+        "zh_Hans": "三重坏时光（旧版）",
+        "zh_Hant": "三重壞時光（舊版）"
+      },
+      "publish_time": "2020-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Temp19",
+        "zh_Hans": "Temp一九",
+        "zh_Hant": "Temp一九"
+      },
+      "engine": "GameMaker",
+      "hot_score": 12,
+      "id": "chaotictime",
+      "name": {
+        "en": "Chaotic Time Trio",
+        "zh_Hans": "三重混沌时光",
+        "zh_Hant": "三重混沌時光"
+      },
+      "publish_time": "2026-03-23T14:21:38.239Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "dlw",
+        "zh_Hans": "德莱文",
+        "zh_Hant": "德萊文"
+      },
+      "engine": "GameMaker",
+      "hot_score": 4,
+      "id": "ctt3dlw",
+      "name": {
+        "en": "Chaotic Time Trio Phase 3",
+        "zh_Hans": "三重混沌时光3阶段",
+        "zh_Hant": "三重混沌時光3階段"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ccjyui",
+        "zh_Hans": "ccjyui",
+        "zh_Hant": "ccjyui"
+      },
+      "engine": "GameMaker",
+      "hot_score": 11,
+      "id": "murdertimetrio",
+      "name": {
+        "en": "Murder Time Trio",
+        "zh_Hans": "三重谋杀时光",
+        "zh_Hant": "三重謀殺時光"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "猛知",
+        "zh_Hans": "猛知",
+        "zh_Hant": "猛知"
+      },
+      "engine": "Scratch",
+      "hot_score": 18,
+      "id": "tripleperfectperformance",
+      "name": {
+        "en": "Triple Perfect Performance",
+        "zh_Hans": "三重完美演出",
+        "zh_Hant": "三重完美演出"
+      },
+      "publish_time": "2026-05-05T12:42:33.776Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "kokakola",
+        "zh_Hans": "可口可乐",
+        "zh_Hant": "可口可樂"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "endings",
+      "name": {
+        "en": "Ending Sunrise Trio",
+        "zh_Hans": "三重旭日终焉",
+        "zh_Hant": "三重旭日終焉"
+      },
+      "publish_time": "2026-07-09T13:17:32.939Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "XeroxRuler",
+        "zh_Hans": "XeroxRuler",
+        "zh_Hant": "XeroxRuler"
+      },
+      "engine": "GameMaker",
+      "hot_score": 7,
+      "id": "killersansxr",
+      "name": {
+        "en": "KILLER Sans Fight",
+        "zh_Hans": "杀手衫斯战",
+        "zh_Hant": "殺手衫斯戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Mehigh",
+        "zh_Hans": "Mehigh",
+        "zh_Hant": "Mehigh"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 1,
+      "id": "spsala",
+      "name": {
+        "en": "Sans&Papyrus-Salsa Lesson",
+        "zh_Hans": "衫斯和派帕瑞斯的萨尔萨舞课",
+        "zh_Hant": "衫斯和派帕瑞斯的薩爾薩舞課"
+      },
+      "publish_time": "2026-03-22T04:12:43.821Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Vitellary",
+        "zh_Hans": "Vitellary",
+        "zh_Hant": "Vitellary"
+      },
+      "engine": "Love2D",
+      "hot_score": 3,
+      "id": "godhome",
+      "name": {
+        "en": "Godhome",
+        "zh_Hans": "神居",
+        "zh_Hant": "神居"
+      },
+      "publish_time": "2026-04-17T05:02:21.013Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Raihyou",
+        "zh_Hans": "Raihyou",
+        "zh_Hant": "Raihyou"
+      },
+      "engine": "GameMaker",
+      "hot_score": 6,
+      "id": "timeparadox",
+      "name": {
+        "en": "Time paradox",
+        "zh_Hans": "时间悖论",
+        "zh_Hant": "時間悖論"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "XeroxRuler",
+        "zh_Hans": "XeroxRuler",
+        "zh_Hant": "XeroxRuler"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "experimentalcatalog",
+      "name": {
+        "en": "Experimental Catalog",
+        "zh_Hans": "实验目录33",
+        "zh_Hant": "實驗目錄33"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "QMF",
+        "zh_Hans": "起名废",
+        "zh_Hant": "起名廢"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 1,
+      "id": "digitfault",
+      "name": {
+        "en": "Digit fault",
+        "zh_Hans": "数码断层",
+        "zh_Hant": "數碼斷層"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Xuwu",
+        "zh_Hans": "虚无",
+        "zh_Hant": "虛無"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "numbertalesans",
+      "name": {
+        "en": "NUMBERTALE Sans Fight",
+        "zh_Hans": "数字传说衫斯战",
+        "zh_Hant": "數字傳說衫斯戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Ars",
+        "zh_Hans": "Ars",
+        "zh_Hant": "Ars"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "numbertalears",
+      "name": {
+        "en": "NUMBERTALE Sans Fight",
+        "zh_Hans": "数字传说衫斯战",
+        "zh_Hant": "數字傳說衫斯戰"
+      },
+      "publish_time": "2026-03-19T12:39:19.017Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "OneZhaZha",
+        "zh_Hans": "一个渣渣",
+        "zh_Hant": "一個渣渣"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "numbertaletoriel",
+      "name": {
+        "en": "NUMBERTALE Toriel Fight",
+        "zh_Hans": "数字传说托丽尔战",
+        "zh_Hant": "數字傳說託麗爾戰"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Azzy",
+        "zh_Hans": "Azzy",
+        "zh_Hant": "Azzy"
+      },
+      "engine": "GameMaker",
+      "hot_score": 8,
+      "id": "spdusttale",
+      "name": {
+        "en": "SP!DUSTTALE Necroptosis",
+        "zh_Hans": "斯布林·尘埃传说冥亡症",
+        "zh_Hant": "斯布林·塵埃傳說冥亡症"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "kokakola",
+        "zh_Hans": "可口可乐",
+        "zh_Hant": "可口可樂"
+      },
+      "engine": "GameMaker",
+      "hot_score": 16,
+      "id": "spdusttalekokakola",
+      "name": {
+        "en": "SP!DUSTTALE Necroptosis",
+        "zh_Hans": "斯布林·尘埃传说冥亡症",
+        "zh_Hant": "斯布林·塵埃傳說冥亡症"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "kokakola",
+        "zh_Hans": "可口可乐",
+        "zh_Hant": "可口可樂"
+      },
+      "engine": "GameMaker",
+      "hot_score": 11,
+      "id": "spdusttalethefinalposthumous",
+      "name": {
+        "en": "SP!DUSTTALE The Final Posthumous",
+        "zh_Hans": "斯布林·尘埃传说终幕遗信",
+        "zh_Hant": "斯布林·塵埃傳說終幕遺信"
+      },
+      "publish_time": "2023-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "EeveeLing",
+        "zh_Hans": "灵伊布",
+        "zh_Hant": "靈伊布"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "isaacneo",
+      "name": {
+        "en": "Spamton NEO, but in The Binding of Isaac",
+        "zh_Hans": "斯潘顿NEO，但是在以撒的结合",
+        "zh_Hant": "斯潘頓NEO，但是在以撒的結合"
+      },
+      "publish_time": "2026-04-22T15:10:19.199Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Project Spacey",
+        "zh_Hans": "Project Spacey",
+        "zh_Hant": "Project Spacey"
+      },
+      "engine": "HTML",
+      "hot_score": 9,
+      "id": "psoutertale",
+      "name": {
+        "en": "PS!OUTERTALE",
+        "zh_Hans": "太空团队·域外传说",
+        "zh_Hant": "太空團隊·域外傳說"
+      },
+      "publish_time": "2026-05-12T11:00:00.555Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "fengxue",
+        "zh_Hans": "风雪",
+        "zh_Hant": "風雪"
+      },
+      "engine": "Scratch",
+      "hot_score": 3,
+      "id": "greedfortheiegendsanswar",
+      "name": {
+        "en": "COVETTALE Sans Fight",
+        "zh_Hans": "贪图传说衫斯战",
+        "zh_Hant": "貪圖傳說衫斯戰"
+      },
+      "publish_time": "2026-05-12T11:25:05.794Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "1420",
+        "zh_Hans": "1420",
+        "zh_Hant": "1420"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "celestiaicitysansfight",
+      "name": {
+        "en": "Celestial City Sans Fight",
+        "zh_Hans": "天国之城衫斯战",
+        "zh_Hant": "天國之城衫斯戰"
+      },
+      "publish_time": "2026-07-05T08:36:43.473Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "TML",
+        "zh_Hans": "糖萌芦",
+        "zh_Hant": "糖萌蘆"
+      },
+      "engine": "Godot",
+      "hot_score": 4,
+      "id": "usualtale",
+      "name": {
+        "en": "USUALTALE Sans Fight",
+        "zh_Hans": "通常传说衫斯战",
+        "zh_Hant": "通常傳說衫斯戰"
+      },
+      "publish_time": "2026-04-27T13:46:17.690Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Azzy",
+        "zh_Hans": "Azzy",
+        "zh_Hant": "Azzy"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "aeta",
+      "name": {
+        "en": "An Ending To All - Over",
+        "zh_Hans": "万物终焉 —— 落幕",
+        "zh_Hant": "萬物終焉 —— 落幕"
+      },
+      "publish_time": "2026-07-04T13:05:41.015Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "zy",
+        "zh_Hans": "庄严的承诺",
+        "zh_Hant": "莊嚴的承諾"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "lethetalesans",
+      "name": {
+        "en": "LETHETALE Sans Fight",
+        "zh_Hans": "忘川传说衫斯战",
+        "zh_Hant": "忘川傳說衫斯戰"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ly",
+        "zh_Hans": "龙彦",
+        "zh_Hant": "龍彥"
+      },
+      "engine": "Scratch",
+      "hot_score": 0,
+      "id": "lethetale",
+      "name": {
+        "en": "LETHETALE Sans Fight",
+        "zh_Hans": "忘川传说衫斯战",
+        "zh_Hant": "忘川傳說衫斯戰"
+      },
+      "publish_time": "2026-06-19T08:56:36.981Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "RazFraz",
+        "zh_Hans": "RazFraz",
+        "zh_Hant": "RazFraz"
+      },
+      "engine": "Love2D",
+      "hot_score": 0,
+      "id": "wiiterswonderland",
+      "name": {
+        "en": "Wilter's Wonderland",
+        "zh_Hans": "威尔特的仙境",
+        "zh_Hant": "威爾特的仙境"
+      },
+      "publish_time": "2026-04-16T11:37:30.777Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "worgan",
+        "zh_Hans": "沃淦",
+        "zh_Hant": "沃淦"
+      },
+      "engine": "Godot",
+      "hot_score": 19,
+      "id": "minetale",
+      "name": {
+        "en": "MINETALE",
+        "zh_Hans": "我的传说",
+        "zh_Hant": "我的傳說"
+      },
+      "publish_time": "2026-06-15T10:38:23.171Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ly",
+        "zh_Hans": "龙彦",
+        "zh_Hant": "龍彥"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "mugentale",
+      "name": {
+        "en": "MUGENTALE Sans Fight",
+        "zh_Hans": "无幻传说衫斯战",
+        "zh_Hant": "無幻傳說衫斯戰"
+      },
+      "publish_time": "2026-06-19T08:49:44.975Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Dualremix",
+        "zh_Hans": "DualRemix",
+        "zh_Hant": "DualRemix"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "undersystem",
+      "name": {
+        "en": "UNDERSYSTEM",
+        "zh_Hans": "系统之下",
+        "zh_Hant": "系統之下"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "yxj",
+        "zh_Hans": "悠闲君",
+        "zh_Hant": "悠閒君"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "vanish",
+      "name": {
+        "en": "VANISHTALE Sans Fight",
+        "zh_Hans": "消逝传说衫斯战",
+        "zh_Hant": "消逝傳說衫斯戰"
+      },
+      "publish_time": "2026-07-09T04:17:02.275Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "SegaSonic101",
+        "zh_Hans": "SegaSonic101",
+        "zh_Hant": "SegaSonic101"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 3,
+      "id": "distrust2a",
+      "name": {
+        "en": "DISTRUST 2 The Cooler Edition",
+        "zh_Hans": "信任全无2酷炫版",
+        "zh_Hant": "信任全無2酷炫版"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "dlw",
+        "zh_Hans": "德莱文",
+        "zh_Hant": "德萊文"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "dlwsd",
+      "name": {
+        "en": "SPACEDRIFT Sans Fight Phase2",
+        "zh_Hans": "星海之征衫斯战第二阶段",
+        "zh_Hant": "星海之徵衫斯戰第二階段"
+      },
+      "publish_time": "2026-06-19T06:32:00.948Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Xtalent",
+        "zh_Hans": "希希希土",
+        "zh_Hant": "希希希土"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "deliriumofaeonsslinceecho",
+      "name": {
+        "en": "Delirium of Aeons:Slince Echo",
+        "zh_Hans": "虚愁谵惘：无言回声",
+        "zh_Hant": "虛愁譫惘：無言回聲"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Cat Fighter",
+        "zh_Hans": "猫斗士",
+        "zh_Hant": "貓鬥士"
+      },
+      "engine": "GameMaker",
+      "hot_score": 4,
+      "id": "falsereset",
+      "name": {
+        "en": "False Reset",
+        "zh_Hans": "虚假的重置",
+        "zh_Hant": "虛假的重置"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "zy",
+        "zh_Hans": "庄严的承诺",
+        "zh_Hant": "莊嚴的承諾"
+      },
+      "engine": "GameMaker",
+      "hot_score": 8,
+      "id": "deliriumofaeons",
+      "name": {
+        "en": "Delirium of Aeons",
+        "zh_Hans": "虚惘衫斯战",
+        "zh_Hant": "虛惘衫斯戰"
+      },
+      "publish_time": "2026-04-28T04:09:40.421Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ym",
+        "zh_Hans": "夜明",
+        "zh_Hant": "夜明"
+      },
+      "engine": "GameMaker",
+      "hot_score": 4,
+      "id": "nightovertale",
+      "name": {
+        "en": "NIGHTOVERTALE",
+        "zh_Hans": "夜明传说",
+        "zh_Hant": "夜明傳說"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "kokakola",
+        "zh_Hans": "可口可乐",
+        "zh_Hant": "可口可樂"
+      },
+      "engine": "GameMaker",
+      "hot_score": 3,
+      "id": "forestofes",
+      "name": {
+        "en": "Forest of Eternal Samsara Gaster Fight",
+        "zh_Hans": "永恒轮回之森加斯特战",
+        "zh_Hant": "永恆輪迴之森加斯特戰"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "希希希土",
+        "zh_Hans": "希希希土",
+        "zh_Hant": "希希希土"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "keeptale",
+      "name": {
+        "en": "KEEPTALE Sans Fight",
+        "zh_Hans": "永续轮回衫斯战",
+        "zh_Hant": "永續輪迴衫斯戰"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "qk",
+        "zh_Hans": "秋裤",
+        "zh_Hant": "秋褲"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "dtqk",
+      "name": {
+        "en": "DUSTTRUST Sans Fight",
+        "zh_Hans": "余烬追忆衫斯战",
+        "zh_Hant": "餘燼追憶衫斯戰"
+      },
+      "publish_time": "2026-05-12T09:13:50.650Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Xx_Kimchi_xX",
+        "zh_Hans": "Xx_Kimchi_xX",
+        "zh_Hant": "Xx_Kimchi_xX"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "outspare",
+      "name": {
+        "en": "OUTSPARE Sans Fight",
+        "zh_Hans": "域外赦免衫斯战",
+        "zh_Hant": "域外赦免衫斯戰"
+      },
+      "publish_time": "2026-03-25T14:13:07.230Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Randy Becker",
+        "zh_Hans": "Randy Becker",
+        "zh_Hant": "Randy Becker"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "trueiabexe",
+      "name": {
+        "en": "True lab.exe",
+        "zh_Hans": "真实验室.exe",
+        "zh_Hant": "真實驗室.exe"
+      },
+      "publish_time": "2026-03-18T15:03:56.167Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "yxj",
+        "zh_Hans": "悠闲君",
+        "zh_Hant": "悠閒君"
+      },
+      "engine": "GameMaker",
+      "hot_score": 24,
+      "id": "overlawn",
+      "name": {
+        "en": "Overlawn",
+        "zh_Hans": "终焉绿茵",
+        "zh_Hant": "終焉綠茵"
+      },
+      "publish_time": "2026-04-27T04:46:53.576Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Sulfacid",
+        "zh_Hans": "硫酸",
+        "zh_Hant": "硫酸"
+      },
+      "engine": "GameMaker",
+      "hot_score": 4,
+      "id": "overlawnold",
+      "name": {
+        "en": "Overlawn (Outdated)",
+        "zh_Hans": "终焉绿茵（旧版）",
+        "zh_Hant": "終焉綠茵（舊版）"
+      },
+      "publish_time": "2021-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Gravity",
+        "zh_Hans": "Gravity",
+        "zh_Hant": "Gravity"
+      },
+      "engine": "GameMaker",
+      "hot_score": 16,
+      "id": "lastbreathresurrection",
+      "name": {
+        "en": "LAST BREATH:Resurrection",
+        "zh_Hans": "终焉余息:涅槃",
+        "zh_Hant": "終焉餘息:涅槃"
+      },
+      "publish_time": "2026-06-15T10:38:23.171Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "znm",
+        "zh_Hans": "早泥玛",
+        "zh_Hant": "早泥瑪"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "swapswap",
+      "name": {
+        "en": "SWAPSWAP Sans Fight",
+        "zh_Hans": "重塑乾坤衫斯战",
+        "zh_Hant": "重塑乾坤衫斯戰"
+      },
+      "publish_time": "2026-03-23T10:35:01.290Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ZmiennoCieplny",
+        "zh_Hans": "朱印豆腐",
+        "zh_Hant": "朱印豆腐"
+      },
+      "engine": "Create Your Frisk",
+      "hot_score": 4,
+      "id": "crstoryswapasriel",
+      "name": {
+        "en": "CR!STORYSWAP Asriel Genocide Fight",
+        "zh_Hans": "朱印豆腐·故事反转艾斯利尔屠杀线战",
+        "zh_Hant": "朱印豆腐·故事反轉艾斯利爾屠殺線戰"
+      },
+      "publish_time": "2021-01-01T12:00:00Z",
+      "version": "0.0.2"
+    },
+    {
+      "author": {
+        "en": "Team Switched",
+        "zh_Hans": "转换团队",
+        "zh_Hant": "轉換團隊"
+      },
+      "engine": "GameMaker",
+      "hot_score": 12,
+      "id": "tsunderswap",
+      "name": {
+        "en": "TS!UNDERSWAP",
+        "zh_Hans": "转换团队·反转之下",
+        "zh_Hant": "轉換團隊·反轉之下"
+      },
+      "publish_time": "2020-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "fdy",
+        "zh_Hans": "复读鸭",
+        "zh_Hant": "復讀鴨"
+      },
+      "engine": "Gamemaker",
+      "hot_score": 5,
+      "id": "tsunderswappapyrus",
+      "name": {
+        "en": "TS!UNDERSWAP Papyrus Fight",
+        "zh_Hans": "转换团队·反转之下派帕瑞斯战",
+        "zh_Hant": "轉換團隊·反轉之下派帕瑞斯戰"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Snowstorm1011",
+        "zh_Hans": "Snowstorm1011",
+        "zh_Hant": "Snowstorm1011"
+      },
+      "engine": "GameMaker",
+      "hot_score": 0,
+      "id": "underswitchundyne",
+      "name": {
+        "en": "UNDERSWITCH  Undye Fight",
+        "zh_Hans": "转换之下安黛因战",
+        "zh_Hant": "轉換之下安黛因戰"
+      },
+      "publish_time": "2026-05-16T08:39:02.527Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "kokakola",
+        "zh_Hans": "可口可乐",
+        "zh_Hant": "可口可樂"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "hideandseek",
+      "name": {
+        "en": "HIDE and SEEK Jekyll Fight",
+        "zh_Hans": "捉迷藏杰基尔战",
+        "zh_Hant": "捉迷藏傑基爾戰"
+      },
+      "publish_time": "2026-04-30T05:14:48.945Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "KongMing2403",
+        "zh_Hans": "空明2403",
+        "zh_Hant": "空明2403"
+      },
+      "engine": "Scratch",
+      "hot_score": 3,
+      "id": "ulbbuttheguru",
+      "name": {
+        "en": "The Guru but ULB",
+        "zh_Hans": "尊師但是传说之下最后的呼吸",
+        "zh_Hant": "尊師但是傳說之下最後的呼吸"
+      },
+      "publish_time": "2026-03-19T13:24:35.737Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "blt",
+        "zh_Hans": "柏拉图",
+        "zh_Hant": "柏拉圖"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "bttale",
+      "name": {
+        "en": "B-TTale-ESPE Pacifist Route Fight",
+        "zh_Hans": "B-TTale Espe和平线战",
+        "zh_Hant": "B-TTale Espe和平線戰"
+      },
+      "publish_time": "2026-06-20T13:36:51.912Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "fdy & Sugar",
+        "zh_Hans": "复读鸭 & 砂糖-Sugar-",
+        "zh_Hant": "復讀鴨 & 砂糖-Sugar-"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "bttaleespe",
+      "name": {
+        "en": "B T-TALE Espe Fight",
+        "zh_Hans": "B-TTale Espe战",
+        "zh_Hant": "B-TTale Espe戰"
+      },
+      "publish_time": "2026-06-19T08:20:53.451Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ly",
+        "zh_Hans": "龙彦",
+        "zh_Hant": "龍彥"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "espe",
+      "name": {
+        "en": "B T-TALE Espe Fight",
+        "zh_Hans": "B-TTale Espe战",
+        "zh_Hant": "B-TTale Espe戰"
+      },
+      "publish_time": "2026-06-30T09:40:41.168Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "TML",
+        "zh_Hans": "糖萌芦",
+        "zh_Hant": "糖萌蘆"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "btetml",
+      "name": {
+        "en": "B-TTale Espe Fight",
+        "zh_Hans": "B-TTale Espe战",
+        "zh_Hant": "B-TTale Espe戰"
+      },
+      "publish_time": "2026-06-19T08:34:08.328Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "LongQAVC",
+        "zh_Hans": "龙QAVC",
+        "zh_Hant": "龍QAVC"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "changeswap",
+      "name": {
+        "en": "CHANGEDSWAP Tiger Shark Fight",
+        "zh_Hans": "CHANGEDSWAP喵鲨战",
+        "zh_Hant": "CHANGEDSWAP喵鯊戰"
+      },
+      "publish_time": "2026-07-04T11:27:38.411Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "yxj",
+        "zh_Hans": "悠闲君",
+        "zh_Hant": "悠閒君"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "exptale",
+      "name": {
+        "en": "EXPTALE",
+        "zh_Hans": "EXPTALE",
+        "zh_Hant": "EXPTALE"
+      },
+      "publish_time": "2021-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "DEL",
+        "zh_Hans": "DEL",
+        "zh_Hant": "DEL"
+      },
+      "engine": "Construct",
+      "hot_score": 1,
+      "id": "feelingchange",
+      "name": {
+        "en": "FEELING CHANGE Sans Fight",
+        "zh_Hans": "FEELING CHANGE衫斯战",
+        "zh_Hant": "FEELING CHANGE衫斯戰"
+      },
+      "publish_time": "2026-07-02T14:35:08.437Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Holoboi3",
+        "zh_Hans": "Holoboi3",
+        "zh_Hant": "Holoboi3"
+      },
+      "engine": "Scratch",
+      "hot_score": 5,
+      "id": "halosdust",
+      "name": {
+        "en": "Halo's DUSTBELIEF",
+        "zh_Hans": "Halo·尘埃不信",
+        "zh_Hant": "Halo·塵埃不信"
+      },
+      "publish_time": "2026-03-22T06:10:19.032Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Mehigh",
+        "zh_Hans": "Mehigh",
+        "zh_Hant": "Mehigh"
+      },
+      "engine": "ClickTeam",
+      "hot_score": 1,
+      "id": "idutshane",
+      "name": {
+        "en": "IDUTSHANE",
+        "zh_Hans": "IDUTSHANE",
+        "zh_Hant": "IDUTSHANE"
+      },
+      "publish_time": "2026-04-04T10:26:05.645Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "ck",
+        "zh_Hans": "参考",
+        "zh_Hant": "參考"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "idutshaneck",
+      "name": {
+        "en": "IDUTSHANE",
+        "zh_Hans": "IDUTSHANE",
+        "zh_Hant": "IDUTSHANE"
+      },
+      "publish_time": "2026-03-22T12:22:50.081Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "BLOODFIST",
+        "zh_Hans": "BLOODFIST",
+        "zh_Hant": "BLOODFIST"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "lajupovania",
+      "name": {
+        "en": "La Jupo Vania",
+        "zh_Hans": "La Jupo Vania",
+        "zh_Hant": "La Jupo Vania"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "a-rui-enu",
+        "zh_Hans": "a-rui-enu",
+        "zh_Hant": "a-rui-enu"
+      },
+      "engine": "Scratch",
+      "hot_score": 1,
+      "id": "lostd",
+      "name": {
+        "en": "LOST DEPTHS Sans Fight",
+        "zh_Hans": "LOST DEPTHS衫斯战",
+        "zh_Hant": "LOST DEPTHS衫斯戰"
+      },
+      "publish_time": "2026-07-04T11:12:39.713Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Renewed Team",
+        "zh_Hans": "重组团队",
+        "zh_Hant": "重組團隊"
+      },
+      "engine": "Construct",
+      "hot_score": 0,
+      "id": "mctale",
+      "name": {
+        "en": "MCTALE",
+        "zh_Hans": "MCTALE",
+        "zh_Hant": "MCTALE"
+      },
+      "publish_time": "2026-05-11T10:51:41.308Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "InjectIng",
+        "zh_Hans": "注射",
+        "zh_Hant": "注射"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "mirrorreverson3",
+      "name": {
+        "en": "MirrorReverson 3rd",
+        "zh_Hans": "MirrorReverson第三周目",
+        "zh_Hant": "MirrorReverson第三周目"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "yxj",
+        "zh_Hans": "悠闲君",
+        "zh_Hant": "悠閒君"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "mudera",
+      "name": {
+        "en": "MurderA",
+        "zh_Hans": "MurderA",
+        "zh_Hant": "MurderA"
+      },
+      "publish_time": "2026-06-14T05:00:31.353Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Niheme",
+        "zh_Hans": "Niheme",
+        "zh_Hant": "Niheme"
+      },
+      "engine": "GameMaker",
+      "hot_score": 2,
+      "id": "nihemegame",
+      "name": {
+        "en": "Niheme's Game",
+        "zh_Hans": "Niheme的游戏",
+        "zh_Hant": "Niheme的遊戲"
+      },
+      "publish_time": "2026-03-20T03:20:24.113Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "fdy",
+        "zh_Hans": "复读鸭",
+        "zh_Hant": "復讀鴨"
+      },
+      "engine": "GameMaker",
+      "hot_score": 12,
+      "id": "oversavetale",
+      "name": {
+        "en": "OVERSAVETALE",
+        "zh_Hans": "OVERSAVETALE",
+        "zh_Hant": "OVERSAVETALE"
+      },
+      "publish_time": "2022-01-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "fdy",
+        "zh_Hans": "复读鸭",
+        "zh_Hant": "復讀鴨"
+      },
+      "engine": "GameMaker",
+      "hot_score": 7,
+      "id": "oversavetaleasriel",
+      "name": {
+        "en": "OVERSAVETALE Asriel Fight",
+        "zh_Hans": "OVERSAVETALE艾斯利尔战",
+        "zh_Hant": "OVERSAVETALE艾斯利爾戰"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "BLOODFIST & .MARCHEWA",
+        "zh_Hans": "BLOODFIST & .MARCHEWA",
+        "zh_Hant": "BLOODFIST & .MARCHEWA"
+      },
+      "engine": "GameMaker",
+      "hot_score": 5,
+      "id": "sansspielensepicmegalovania",
+      "name": {
+        "en": "Sans Spielen's Epic Megalovania",
+        "zh_Hans": "Sans Spielen's Epic Megalovania",
+        "zh_Hant": "Sans Spielen's Epic Megalovania"
+      },
+      "publish_time": "2022-06-01T12:00:00Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Walar",
+        "zh_Hans": "Walar",
+        "zh_Hant": "Walar"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "specialmysterious",
+      "name": {
+        "en": "Special Mysterious",
+        "zh_Hans": "Special Mysterious",
+        "zh_Hant": "Special Mysterious"
+      },
+      "publish_time": "2026-06-14T05:18:46.236Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "dlw",
+        "zh_Hans": "德莱文",
+        "zh_Hant": "德萊文"
+      },
+      "engine": "GameMaker",
+      "hot_score": 1,
+      "id": "dlwsmpy",
+      "name": {
+        "en": "SMPY Sans Fight Phase2",
+        "zh_Hans": "SPMY衫斯战第二阶段",
+        "zh_Hant": "SPMY衫斯戰第二階段"
+      },
+      "publish_time": "2026-06-19T07:53:38.395Z",
+      "version": "0.0.1"
+    },
+    {
+      "author": {
+        "en": "Solor_1733",
+        "zh_Hans": "Solor_1733",
+        "zh_Hant": "Solor_1733"
+      },
+      "engine": "GameMaker",
+      "hot_score": 16,
+      "id": "hellobpm",
+      "name": {
+        "en": "UNDERTALE:Hello (BPM) 2023",
+        "zh_Hans": "UNDERTALE:Hello (BPM) 2023",
+        "zh_Hant": "UNDERTALE:Hello (BPM) 2023"
+      },
+      "publish_time": "2026-04-30T05:50:32.129Z",
+      "version": "0.0.1"
+    }
+  ],
+  "newest_version": "1.4.0",
+  "update_log": {
+    "en": "Add Traditional Chinese support",
+    "zh": "添加繁体支持",
+    "zh_Hans": "1.新增最新最热游戏榜单\n2.游戏列表添加缓存功能，防止加载不出",
+    "zh_Hant": "1.新增最新最熱遊戲榜單\n2.遊戲列表添加緩存功能，防止加載不出"
+  }
+}
