@@ -4271,6 +4271,21 @@
       "id": "rejuvenationofthelastbreath",
       "publish_time": "2026-09-02T10:14:30.912Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：残息重生重制版",
+        "en": "UNDERTALE: Rejuvenation Of The Last Breath Remake"
+      },
+      "author": {
+        "zh": "MRT",
+        "en": "MRT"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "rejuvenationofthelastbreathremake",
+      "publish_time": "2026-09-02T10:34:40.893Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
