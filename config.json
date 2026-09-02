@@ -4286,6 +4286,21 @@
       "id": "rejuvenationofthelastbreathremake",
       "publish_time": "2026-09-02T10:34:40.893Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：复活",
+        "en": "UNDERTALE: Rejuvenation"
+      },
+      "author": {
+        "zh": "SOOTFOOT",
+        "en": "SOOTFOOT"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "rejuvenation",
+      "publish_time": "2026-09-02T10:52:04.450Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
