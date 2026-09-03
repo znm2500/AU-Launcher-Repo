@@ -4406,6 +4406,21 @@
       "id": "justicetalesansfightfullphases",
       "publish_time": "2026-09-03T07:37:31.082Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "伞下衫斯战",
+        "en": "UNDERBRELLA Sans Fight"
+      },
+      "author": {
+        "zh": "onezhazha",
+        "en": "onezhazha"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "underbrellasansfight",
+      "publish_time": "2026-09-03T07:55:56.565Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
