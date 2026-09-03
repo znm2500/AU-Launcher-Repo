@@ -4376,6 +4376,21 @@
       "id": "dustdustdust",
       "publish_time": "2026-09-03T02:59:40.312Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：最后27小时衫斯瀑布遭遇战",
+        "en": "UNDERTALE:The Last 27 Hours Sans Waterfall encounter"
+      },
+      "author": {
+        "zh": "BossHim",
+        "en": "BossHim"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "last27hours",
+      "publish_time": "2026-09-03T03:22:30.612Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
