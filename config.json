@@ -4346,6 +4346,21 @@
       "id": "underworldsansfight",
       "publish_time": "2026-09-03T02:43:11.102Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下: 新奇之物",
+        "en": "UNDERTALE: Something New"
+      },
+      "author": {
+        "zh": "BossHim",
+        "en": "BossHim"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "lethaldealremake",
+      "publish_time": "2026-09-03T02:53:08.989Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
