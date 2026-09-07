@@ -4481,6 +4481,21 @@
       "id": "scarletflare",
       "publish_time": "2026-09-07T12:21:42.419Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "反转之下派帕瑞斯战",
+        "en": "UNDERSWAP Papyrus Fight"
+      },
+      "author": {
+        "zh": "NnN",
+        "en": "NnN"
+      },
+      "engine": "Construct",
+      "version": "0.0.1",
+      "id": "underswappapyrus_nnn",
+      "publish_time": "2026-09-07T12:43:35.096Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
