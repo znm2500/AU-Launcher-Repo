@@ -4526,6 +4526,21 @@
       "id": "undertalelastbreathphase3",
       "publish_time": "2026-09-07T14:21:38.203Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：背叛者",
+        "en": "UNDERTALE: Betrayer"
+      },
+      "author": {
+        "zh": "Avranik",
+        "en": "Avranik"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "undertalebetrayer",
+      "publish_time": "2026-09-07T14:33:00.130Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
