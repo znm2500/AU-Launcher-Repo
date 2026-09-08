@@ -1394,7 +1394,7 @@
         "zh": "LOKID"
       },
       "engine": "GameMaker",
-      "hot_score": 6,
+      "hot_score": 7,
       "id": "etoins",
       "name": {
         "en": "Ending Time Octet Phase 3 Insanity",
@@ -1409,7 +1409,7 @@
         "zh": "铝热剂"
       },
       "engine": "Scratch",
-      "hot_score": 9,
+      "hot_score": 10,
       "id": "endingtimeoctetphase3",
       "name": {
         "en": "ENDING TIME OCTET Phase3 UKB Sans Fight ",
@@ -4143,7 +4143,7 @@
         "zh": "最后的呼吸团队"
       },
       "engine": "ClickTeam",
-      "hot_score": 48,
+      "hot_score": 49,
       "id": "undertalelastbreath",
       "name": {
         "en": "UNDERTALE:Last Breath Retouched",
