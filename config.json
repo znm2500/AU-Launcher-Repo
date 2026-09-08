@@ -4571,6 +4571,21 @@
       "id": "crackstale",
       "publish_time": "2026-09-08T14:06:40.464Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "ARITALE对战PepsiNoe",
+        "en": "ARITALE VS PepsiNoe"
+      },
+      "author": {
+        "zh": "Magi",
+        "en": "Magi"
+      },
+      "engine": "GameMaker",
+      "version": "0.0.1",
+      "id": "aritalevspepsinoe",
+      "publish_time": "2026-09-08T14:16:36.903Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
