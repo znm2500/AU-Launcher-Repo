@@ -4631,6 +4631,21 @@
       "id": "underfellcatastrophe",
       "publish_time": "2026-09-08T14:55:15.173Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "尘埃传说衫斯战",
+        "en": "DUSTTALE Sans Fight"
+      },
+      "author": {
+        "zh": "Stretch",
+        "en": "Stretch"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "dusttalescratch",
+      "publish_time": "2026-09-09T09:39:38.566Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
