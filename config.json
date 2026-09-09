@@ -4721,6 +4721,21 @@
       "id": "underfellsansfight",
       "publish_time": "2026-09-09T11:12:57.583Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下衫斯战",
+        "en": "UNDERTALE Sans Fight"
+      },
+      "author": {
+        "zh": "Springy",
+        "en": "Springy"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "utsansfightspringy",
+      "publish_time": "2026-09-09T11:26:47.449Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
