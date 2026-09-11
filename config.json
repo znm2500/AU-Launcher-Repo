@@ -4871,6 +4871,21 @@
       "id": "swapfellsilvery",
       "publish_time": "2026-09-11T15:40:59.193Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：虚空救赎",
+        "en": "UNDERTALE:Help From The Void"
+      },
+      "author": {
+        "zh": "Frankfro66",
+        "en": "Frankfro66"
+      },
+      "engine": "CreateYourFrisk",
+      "version": "0.0.2",
+      "id": "helpfromthevoid",
+      "publish_time": "2026-09-11T16:14:09.518Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
