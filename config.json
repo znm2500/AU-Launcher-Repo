@@ -5021,6 +5021,21 @@
       "id": "underfellsaty",
       "publish_time": "2026-09-14T13:44:21.724Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "传说之下：一点点改变",
+        "en": "UNDERTALE: A Little Change"
+      },
+      "author": {
+        "zh": "Alextale Archive",
+        "en": "Alextale Archive"
+      },
+      "engine": "Scratch",
+      "version": "0.0.1",
+      "id": "alittlechange",
+      "publish_time": "2026-09-14T13:59:02.439Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
