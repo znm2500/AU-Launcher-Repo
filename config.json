@@ -5141,6 +5141,21 @@
       "id": "dustswapdusttrustdingyspy",
       "publish_time": "2026-09-16T10:25:35.761Z",
       "hot_score": 0
+    },
+    {
+      "name": {
+        "zh": "尘埃的信任派帕瑞斯遭遇战",
+        "en": "DUSTTRUST Papyrus Encounter"
+      },
+      "author": {
+        "zh": "Dingyspy",
+        "en": "Dingyspy"
+      },
+      "engine": "Godot",
+      "version": "0.0.1",
+      "id": "dusttrustpapyrusencounter",
+      "publish_time": "2026-09-16T10:45:15.054Z",
+      "hot_score": 0
     }
   ],
   "newest_version": "1.6.0",
