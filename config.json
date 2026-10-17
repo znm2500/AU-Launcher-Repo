@@ -5178,7 +5178,7 @@
         "zh": "Stress"
       },
       "engine": "Godot",
-      "hot_score": 3,
+      "hot_score": 4,
       "id": "dustshiftthorns",
       "name": {
         "en": "DUSTSHIFT:Thorns",
@@ -5193,7 +5193,7 @@
         "zh": "Gravity"
       },
       "engine": "GameMaker",
-      "hot_score": 14,
+      "hot_score": 15,
       "id": "ulbhardmode",
       "name": {
         "en": "UNDERTALE:Last Breath Hard Mode",
