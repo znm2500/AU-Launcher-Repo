@@ -2418,7 +2418,7 @@
         "zh": "Gravity"
       },
       "engine": "GameMaker",
-      "hot_score": 40,
+      "hot_score": 41,
       "id": "lastbreathresurrection",
       "name": {
         "en": "LAST BREATH:Resurrection",
@@ -4818,7 +4818,7 @@
         "zh": "最后的呼吸团队"
       },
       "engine": "ClickTeam",
-      "hot_score": 98,
+      "hot_score": 99,
       "id": "undertalelastbreath",
       "name": {
         "en": "UNDERTALE:Last Breath Retouched",
